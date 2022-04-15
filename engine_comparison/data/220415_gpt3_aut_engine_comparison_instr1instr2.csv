@@ -1,0 +1,371 @@
+id,gpt3_id,gpt3_created,gpt3_model,engine,timestamp,temperature,presence_penalty,frequency_penalty,instr_nr,instr_text,aut_object,gpt3_response
+1,cmpl-4xH8LjWp0JOmuqMoiNo4qYEVKPulB,1650032561,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:41.078994,0.6,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",paperclip,"
+
+1. A paperclip can be used to fasten two pieces of paper together.
+2. A paperclip can be used to hold a stack of papers together.
+3. A paperclip can be used as a bookmark in a book.
+4. A paperclip can be threaded through the holes"
+2,cmpl-4xH8MBsFGANv9JEtEPIAq4veftc1p,1650032562,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:42.099781,0.6,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+Decorate a document or presentation with paperclips in a creative way. 
+Use paperclips as bookmarks. 
+Create a sculpture out of paperclips. 
+Make a key chain out of paperclips. 
+Turn paperclips into earrings."
+3,cmpl-4xH8NTPDD1QUhkOnxTvmFwwlqgJcz,1650032563,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:43.330182,0.6,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",book,"
+
+1. Use a book to prop open a door.
+2. Use a book as a coaster for your drink.
+3. Use a book as insulation for your windows in the wintertime.
+4. Use books as building blocks to create a fortress or other structure.
+5. Cut out pages"
+4,cmpl-4xH8O6IGNeJzU0rWqta1t9WNEBCRS,1650032564,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:44.462116,0.6,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. Use a book as a coaster to protect your furniture from drink rings 
+2. Cut out the pages of a book and use them as stationary for letters or notes 
+3. Make a photo album by clipping images from different books and gluing them into a scrapbook 
+4. Give"
+5,cmpl-4xH8PYVKyGMxDbjEo9YeovlFN0M1z,1650032565,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:45.684096,0.6,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",fork,"
+
+1. Use a fork to scrape ice from a car windshield.
+2. Use a fork as a skewer for cooking food on the grill.
+3. Use a fork as an impromptu tuning tool for guitars and other stringed instruments.
+4. Use a fork to prod at stubborn food items"
+6,cmpl-4xH8Qp4ECL1KvXNmVMRS4GAmxQBLA,1650032566,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:46.707706,0.6,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. Use a fork as a paintbrush to create abstract paintings.
+2. Stick the fork in the ground and use it as a garden marker.
+3. Use the fork to hold food while you eat it.
+4. Use the fork to spear small fruits or vegetables.
+5. Play"
+7,cmpl-4xH8RONXGtfIs1cgOYYOAYvLHFoIk,1650032567,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:47.732025,0.6,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",brick,"
+
+-A brick can be used as a paperweight.
+-A brick can be used as a doorstop.
+-A brick can be used as the sole weight on a see-saw.
+-A brick can be hollowed out and used as a vase or planter.
+-A"
+8,cmpl-4xH8TnAVWqSJN1SrckHIUBZQOawxX,1650032569,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:48.653683,0.6,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. Brick as a doorstop 
+2. Brick as a paperweight 
+3. Brick as a stepping stone 
+4. Brick in the garden as a retaining wall or decoration 
+5. As part of a brick sculpture"
+9,cmpl-4xH8TZ54PeLQNKDhr4AgQpG2Ef7Pa,1650032569,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:49.575033,0.6,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",tin can,"
+
+Make a tin can telephone 
+Turn a tin can into a candle holder 
+Make a tin can stove 
+Start a fire with a tin can and some sunlight 
+ Use a tin can as an improvised vase"
+10,cmpl-4xH8UYJTi9IHvECKqa3R8UpXPgusm,1650032570,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:50.701392,0.6,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. Create a makeshift lamp. Remove the top of the can and cut a large hole in the side. Cover the hole with a shade, and attach a lightbulb socket.
+2. Make a stencil. Cut out a desired design in the side of the can, then hold it up to"
+11,cmpl-4xH8VOdlvdFJUWFerMHepeGLtegwb,1650032571,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:51.417780,0.75,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",paperclip,"
+
+ clamping two pieces of paper together holding papers to a clipboard keeping cords together holding a pencil between your teeth keeping a small binder together"
+12,cmpl-4xH8WcT6iu8h3wQ2o615X2A1N5bKk,1650032572,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:52.444022,0.75,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. Clip two paperclips together to create a makeshift paper clip chain.
+2. Clip a paperclip onto your key ring as a keychain fob. 
+3. Use a paperclip as a bookmark in your book. 
+4. Attach a note to a bottle of wine with"
+13,cmpl-4xH8XtZwbVR2wxTv1KL7GtdD6Hf2u,1650032573,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:53.569003,0.75,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",book,"
+
+1. To prop open a door.
+2. As a makeshift cutting board.
+3. To keep birds from landing on your patio table.
+4. As the pages of a flip book to make a short animated movie.
+5. As the surface of a balance beam in order to practice balancing"
+14,cmpl-4xH8YDJcx12erVxtVYQiFn5WfPjVr,1650032574,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:54.799232,0.75,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. Use a book as a coaster to protect your furniture from drink spills.
+2. Place a few books on the floor in front of a large window and use them as a makeshift sofa for reading or relaxing.
+3. Create a ""book tower"" by stacking several hardcover books on top of"
+15,cmpl-4xH8aeQLqgUJfT5M63iyPiSt77y4x,1650032576,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:55.822324,0.75,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",fork,"
+
+Rock a baby to sleep 
+Prop up a sleeping person's head 
+Keep your hand warm while eating cold food 
+Flip someone over if they're unconscious on their stomach 
+Poke someone who's trying to fall asleep"
+16,cmpl-4xH8bnQrstTLfQ1cQCKZavx9GvWmO,1650032577,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:56.743597,0.75,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. Use the fork as a guitar pick. 
+2. Use the fork as a drumstick. 
+3. Use the fork as a tool to remove food from difficult-to-reach places. 
+4. Use the fork to stir your coffee or tea. 
+5. Use"
+17,cmpl-4xH8c2etgNcyOht9lnieBP300Nexj,1650032578,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:57.767624,0.75,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",brick,"
+
+Wedge a brick in between the door and doorframe to keep burglars out. Brick a window for emergency escape. Build a small chimney out of bricks to use when starting a fire outdoors. Place a few bricks on top of one another to easily create a temporary seat or stool. Paint or decorate"
+18,cmpl-4xH8dZ1Gah7qgtTYdYpkD7tpzN4it,1650032579,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:58.791568,0.75,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. A brick can be used as a paperweight to keep papers from blowing away in the wind.
+2. A brick can be used as a doorstop to keep a door open or closed.
+3. A brick can be used as a stepping stone to step over something that is in your way"
+19,cmpl-4xH8e9sqVaKtUW30iMk9SUACyXWA8,1650032580,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:22:59.815805,0.75,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",tin can,"
+
+1. Create a makeshift music amplifier by placing one or more tin cans around the edge of a small speaker.
+2. Cut out sections of different-sized tin cans to fashion into small bowls, cooking pots, or other household items. 
+3. Use a can opener to create a number of eccentric"
+20,cmpl-4xH8fSabyJZJCCecZJwkqJ2t3Ckzb,1650032581,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:23:00.737132,0.75,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. Use a can as a telephone.
+2. Use a can as a megaphone. 
+3. Use a can as an amplifier for your voice or music.
+4. Use a can as an emergency stove. 
+5. Use a can to store food or water in case"
+21,cmpl-4xH8gDaiTbLxm75Mi2AXnBIOgxUJL,1650032582,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:23:01.761651,0.9,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",paperclip,"
+
+-To hang a picture frame on a wall.
+-To clip two pieces of paper together.
+-To act as a bookmark in a book.
+-To temporarily attach two wires together.
+-As the weight on the end of a string when making homemade jewelry"
+22,cmpl-4xH8h8Y1Q2Eo8l8VPYVioYqmsGJEg,1650032583,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:23:02.990621,0.9,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1) A paperclip can be used as a bookmark.
+2) A paperclip can be used to hold multiple sheets of paper together.
+3) A paperclip can be twisted into a small loop to use as a keychain ring or zipper pull.
+4) A paper clip can fasten"
+23,cmpl-4xH8i8vRKQQLs9EeShrr3Ngfa7Jbk,1650032584,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:23:04.118835,0.9,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",book,"
+
+1. Book as a coaster – place a book on the coffee table or any other surface where you would like to protect it from drips or condensation.
+2. Book as a wall decoration – use adhesive velcro on the spine and cover of the book, then attach it to the wall in a"
+24,cmpl-4xH8jm2d7gYQNInb4qzDbZUvSULzf,1650032585,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:23:05.242952,0.9,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. A book can be used as a makeshift stool.
+2. A book can be used as a bookmark for a place in the book you are reading.
+3. A book can be placed on a surface to deflect light from a window or lamp.
+4. A book can be used as"
+25,cmpl-4xH8kDaQQzt37hmbGS3hQQ6BD9Jnz,1650032586,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:23:06.267455,0.9,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",fork,"
+
+-Guiding a blind person around
+-Poking someone who is sleeping to see if they are really asleep
+-Turning pages in a book
+-Playfully fighting with someone using the fork as a weapon
+-Helping to hold something heavy"
+26,cmpl-4xH8lYX94ESdstR2BOPzRo61jKPsF,1650032587,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:23:07.495720,0.9,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. As a musical instrument – forks can be used to create a percussion sound by striking them against other objects or against each other.
+2. As an eating utensil – forks can be used to spear food and bring it to your mouth.
+3. As a hairbrush – if you have"
+27,cmpl-4xH8mb3V6L4tDWsqXQKwlMPrtDpK7,1650032588,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:23:08.622626,0.9,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",brick,"
+
+1. Brick can be used as a paperweight or doorstop
+2. A stack of bricks makes a great impromptu table
+3. Bricks can be used to build a fire 
+4. If you have an old brick, you can use it to sharpen your knives 
+5."
+28,cmpl-4xH8nokyWLoLUXVDSzTqrk1OB9bg4,1650032589,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:23:09.646074,0.9,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. Brick oven – Instead of using bricks to build a traditional oven, why not use them to make a brick oven? It will be much more durable and efficient this way.
+2. Paperweight – A brick can make a great paperweight. It’s heavy and sturdy, so it will"
+29,cmpl-4xH8oEZSqDzEZGUYUDNScLKVkDzhw,1650032590,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:23:10.772999,0.9,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",tin can,"
+
+1. Use it as a makeshift and less-than-reliable telephone.
+2. Cut slots in each end, string some cord through it, and use it as a wind chime.
+3. Tape the top and bottom closed securely, fill it with bird seed, and hang it from a"
+30,cmpl-4xH8qni8Oxjn3oZ664SXIDnECyVK8,1650032592,text-davinci:001,davinci-instruct-beta-v3,2022-04-15 16:23:11.797835,0.9,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. Use a tin can as an improvised drum.
+2. Convert a tin can into a small lamp. 
+3. Turn a tin can into a pencil sharpener. 
+4. Make a miniature greenhouse out of several tin cans and some plastic wrap.
+5. Create a wind ch"
+31,cmpl-4xH8rdmZnl0kEGjn46BgRoIrb1Pss,1650032593,text-davinci:002,text-davinci-002,2022-04-15 16:23:14.152001,0.6,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",paperclip,"
+
+1. To make a paperclip necklace, thread the paperclips onto a string or chain.
+2. Turn paperclips into keychains by attaching them to keyrings.
+3. Make bracelets and rings out of paperclips by bending them into shape.
+4. Use small paperclips as tiny"
+32,cmpl-4xH8tqvtnZbLZI2qn4jmT5Xd1noLf,1650032595,text-davinci:002,text-davinci-002,2022-04-15 16:23:19.170398,0.6,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+-A paperclip can be used to hold a chip bag closed.
+-A paperclip can be used as a bookmark.
+-A paperclip can be used to secure a loose button on a shirt.
+-A paperclip can be used as a makeshift toothpick.
+-A paperclip"
+33,cmpl-4xH8yM9qy3yrANbR9rcP4cbAN9BsJ,1650032600,text-davinci:002,text-davinci-002,2022-04-15 16:23:22.753921,0.6,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",book,"
+
+1) A book can be used as an interesting decoration on a coffee table or bookshelf. 2) A book can be used to make a unique and personal gift for someone by hollowing out the center and filling it with pictures, mementos, or other items. 3) A book can be"
+34,cmpl-4xH927uGpnsConIoezwF5XBzB0ouc,1650032604,text-davinci:002,text-davinci-002,2022-04-15 16:23:26.245978,0.6,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to start a fire.
+3. A book can be used as a makeshift stool or chair.
+4. A book can be used to prop up a wobbly table or shelf.
+5."
+35,cmpl-4xH95KqsPjGVLfylIKTw3ZvB95tOK,1650032607,text-davinci:002,text-davinci-002,2022-04-15 16:23:29.819846,0.6,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",fork,"
+
+1. To eat food, obviously. But also to spear vegetables, mix ingredients together, etc.
+
+2. To pick up small items like crumbs or pills.
+
+3. To aid in tasks that require precision like applying makeup or cleaning things in tight spaces.
+
+4. As a"
+36,cmpl-4xH99bmIOlKB3KenSXE4lCKk5iDOB,1650032611,text-davinci:002,text-davinci-002,2022-04-15 16:23:35.248214,0.6,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. Use a fork to hold your food while you eat with chopsticks.
+2. Spear marshmallows or hot dogs on a fork and roast them over a fire.
+3. Make music by banging forks of different sizes together.
+4. Stick forks in the ground to make decorative patterns or"
+37,cmpl-4xH9EE4MXVTRYrd7rW45NktMef6S3,1650032616,text-davinci:002,text-davinci-002,2022-04-15 16:23:37.499637,0.6,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",brick,"
+
+-A doorstop
+-A paperweight
+-A bookend
+-An eclectic piece of home décor
+-A conversation starter"
+38,cmpl-4xH9Gm94mjOPLVENMx70dvYFmfov5,1650032618,text-davinci:002,text-davinci-002,2022-04-15 16:23:43.438997,0.6,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. A brick can be used to create a one-of-a-kind lamp.
+
+2. For a fun and unique garden accent, spell out a word or phrase with bricks.
+
+3. Make a strong and sturdy side table by stacking bricks on top of each other in a pyramid"
+39,cmpl-4xH9MNHCqxvVYmSIPBzGd32JzFN6A,1650032624,text-davinci:002,text-davinci-002,2022-04-15 16:23:45.077455,0.6,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",tin can,"
+
+-a door stop
+-a plant pot
+-a pencil holder
+-a vase
+-a Puppet"
+40,cmpl-4xH9OAgzrLSQKmzFc1tRdlO9sUCDq,1650032626,text-davinci:002,text-davinci-002,2022-04-15 16:23:47.842670,0.6,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. A tin can can be used as a candle holder.
+2. A tin can can be used to hold pens and pencils.
+3. A tin can can be used as a vase for flowers.
+4. A tin can can be used as a bird feeder.
+5"
+41,cmpl-4xH9RcI5YzhNdAKB4SmJSRpxpjMI0,1650032629,text-davinci:002,text-davinci-002,2022-04-15 16:23:51.631290,0.75,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",paperclip,"
+
+1. To clip photographs or papers together without damage
+2. To make a hook to hang jewellery or other light items from
+3. Straighten out bent headphone jack plugs
+4. Temporarily fix a loose button on clothing
+5. Hold pretzels together to form a unique shape"
+42,cmpl-4xH9UGeiYcU9zY4ZuwaEm9qpo5TYr,1650032632,text-davinci:002,text-davinci-002,2022-04-15 16:23:53.270346,0.75,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. curtain tie back
+2. bread bag clip
+3. chip clip
+4. paperclip chain
+5. magnet"
+43,cmpl-4xH9WIZClIKWrtnkYMCgkvFYK6QGj,1650032634,text-davinci:002,text-davinci-002,2022-04-15 16:23:57.468257,0.75,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",book,"
+
+A book can be used as a doorstop, paperweight, or album. It can also be used to make art, such as a sculpture or collage. A book can also be cut up and used as confetti or origami paper."
+44,cmpl-4xH9a7TkWgSgTlUpQh2irK2ddtIv4,1650032638,text-davinci:002,text-davinci-002,2022-04-15 16:24:01.564372,0.75,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1) Use a book as a doorstop.
+2) Tear out pages and use them as makeshift paper plates or napkins.
+3) Stack several books to create a makeshift stool or end table.
+4) Cut out the cover of a book and frame it as art.
+5)"
+45,cmpl-4xH9eGCPtqRz2fwkl1sWNf3QWm3iN,1650032642,text-davinci:002,text-davinci-002,2022-04-15 16:24:05.046436,0.75,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",fork,"
+
+1. Making sculptures out of forks
+2. Collecting rainwater with a fork
+3. Using a fork as a cat toy 
+4. Wearing a fork as a necklace 
+5. Cook pasta in the microwave with a fork"
+46,cmpl-4xH9ixylkyWuCX3unnzSFaNDSPz6f,1650032646,text-davinci:002,text-davinci-002,2022-04-15 16:24:08.323225,0.75,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+A fork can be used as:
+-A toothpick 
+-A back scratcher 
+-An ear cleaner 
+-A nose picker 
+-A zit popper"
+47,cmpl-4xH9lcnbXfBJOFoyAl8AnZzRRqTzn,1650032649,text-davinci:002,text-davinci-002,2022-04-15 16:24:10.372769,0.75,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",brick,"
+
+-Clay for sculpting
+-A weight for physical fitness exercises
+-Mortar for repairing walls 
+-A support for potted plants 
+-Part of a zen garden"
+48,cmpl-4xH9n8O4fVa5p9ujzGgnUez7JR46e,1650032651,text-davinci:002,text-davinci-002,2022-04-15 16:24:14.365876,0.75,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1) Create a garden path by lining bricks up in a staggered formation.
+
+2) Make a unique birdhouse by gluing bricks together in an interesting shape.
+
+3) Build a small raised planter box for your herbs or flowers using bricks.
+
+4) Paint our front door number"
+49,cmpl-4xH9rHzjzOnSvManBj251ieNfO2uy,1650032655,text-davinci:002,text-davinci-002,2022-04-15 16:24:16.084659,0.75,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",tin can,"
+
+1. A tin can lantern - cut out the top and bottom of the can, then decorate the outside with punched patterns or drawings. Place a candle inside for an elegant decoration.
+2. Garden stakes - upcycle small cans by painting them and using them as plant markers in your garden. They"
+50,cmpl-4xH9tvtvuw7hQebP3V9sl4AxmvA6h,1650032657,text-davinci:002,text-davinci-002,2022-04-15 16:24:19.689834,0.75,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. A tin can could be used as a vase for flowers.
+2. A tin can could be used as a candle holder.
+3. A tin can could be used to create a wind chime.
+4. A tin can could be used to store small items such as paperclips"
+51,cmpl-4xH9w8bJeR1joNgKQHPRrXs5xtc15,1650032660,text-davinci:002,text-davinci-002,2022-04-15 16:24:22.045016,0.9,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",paperclip,"
+
+-Hang a picture on the wall without nails
+-Open a beer bottle 
+- tie together 2 Chip bags so they won't spill 
+-Fix a broken pair of glasses 
+-Make a makeshift bookmark"
+52,cmpl-4xH9zOjRDAckEu4Ihi90Nh7M9hjjh,1650032663,text-davinci:002,text-davinci-002,2022-04-15 16:24:26.140960,0.9,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. A paperclip can be used as a way to keep your hair out of your face.
+2. A paperclip can be used as a bookmark in a book.
+3. A paperclip can be used to hold together two pieces of paper.
+4. A paperclip can be used"
+53,cmpl-4xHA3yaOwu8HhrBnVAiZpD88ADPn0,1650032667,text-davinci:002,text-davinci-002,2022-04-15 16:24:29.524907,0.9,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",book,"
+
+Engage in feline aerobics - use the book as a scratching post for your cat.
+Use it as a boosters to raise your computer monitor or laptop to a more ergonomic height.
+Create impromptu wall art by leaning a stack of books against the wall.
+Fashion a mini-"
+54,cmpl-4xHA61ptiTXw26a9lXAWbwNj6LUXZ,1650032670,text-davinci:002,text-davinci-002,2022-04-15 16:24:32.592631,0.9,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to hold up a wobbly table.
+3. A book can be used as a paperweight.
+4. A book can be used to prop up a wonky picture frame.
+5."
+55,cmpl-4xHA9su4ZHWbT0MCFjXFSlstagiXw,1650032673,text-davinci:002,text-davinci-002,2022-04-15 16:24:36.381047,0.9,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",fork,"
+
+-Stir a hot drink
+-Spear a cucumber slice in order to eat it
+-Use as a makeshift toothpick
+-Play the fork like a flute or otherwind instrument
+-Use two forks stuck together tine side in in order to create crude chopsticks"
+56,cmpl-4xHADqxos06qewCjeD4IXaqJm86Ko,1650032677,text-davinci:002,text-davinci-002,2022-04-15 16:24:40.682034,0.9,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+-A fork can be used to play the xylophone.
+-A fork can be used as a toothpick.
+-A fork can be used to mix paints.
+-A fork can be used as a bookmark.
+-A fork can be used to create art."
+57,cmpl-4xHAHhaqtYaqa87wkxKLjldN0H1Np,1650032681,text-davinci:002,text-davinci-002,2022-04-15 16:24:44.060070,0.9,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",brick,"
+
+-A brick could be used as a paperweight.
+-A brick could be used to make a gingerbread house.
+-A brick could be used in place of wood to make a bookshelf.
+-A brick could be painted and used as part of a sculpture or public art display."
+58,cmpl-4xHALwoa3kFXywg6dkiSJX1JSkPYp,1650032685,text-davinci:002,text-davinci-002,2022-04-15 16:24:48.874323,0.9,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+-A brick could be used as a paper weight.
+-A brick could be used to prop open a door.
+-A brick could be used to break a window in an emergency situation.
+-A brick could be used as part of a DIY home decoration project.
+-A brick could be"
+59,cmpl-4xHAQUO3gmJ7iOwRSnJRzv4QhpTgy,1650032690,text-davinci:002,text-davinci-002,2022-04-15 16:24:52.605463,0.9,1,1,instr_1,"Certainly, there are common, unoriginal ways to use a {}. However, for this task, list only unusual, creative, and uncommon uses.",tin can,"
+
+1. Create a chandelier: Cut open the top and bottom of several tin cans. Paint them in colors of your choice, then string them together with wire to create a one-of-a-kind light fixture for your home.
+2. Make a bird feeder: Poke holes in the"
+60,cmpl-4xHATwYPeCgGNxAf0FGLg5AfRYxim,1650032693,text-davinci:002,text-davinci-002,2022-04-15 16:24:56.554438,0.9,1,1,instr_2,"The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+-A tin can be used as a wind chime. suspend it from a string or wire and let it catch the breeze.
+-You could use a tin can as a planter. Decorate the outside and plant some herbs or flowers inside.
+-Turn a tin can into a night light by"
