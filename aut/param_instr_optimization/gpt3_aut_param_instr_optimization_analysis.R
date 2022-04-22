@@ -1,5 +1,5 @@
 ### optimization round 1: valid dv
-gpt3_optimize <- read.csv("data/220416_gpt3_aut_instr_param_optimization.csv")
+gpt3_optimize <- read.csv("param_instr_optimization/data/220416_gpt3_aut_instr_param_optimization.csv")
 
 # check and change data types
 str(gpt3_optimize)

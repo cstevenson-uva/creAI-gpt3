@@ -1,7 +1,7 @@
 library(irr)
 # read data
-gpt3_aut_engine_scores_IS <- read.csv("../engine_comparison/data/gpt3_aut_engine_comparison_scored_IS.csv")
-gpt3_aut_engine_scores_CS <- read.csv("../engine_comparison/data/gpt3_aut_engine_comparison_scored_CS.csv")
+gpt3_aut_engine_scores_IS <- read.csv("engine_comparison/data/gpt3_aut_engine_comparison_scored_IS.csv")
+gpt3_aut_engine_scores_CS <- read.csv("engine_comparison/data/gpt3_aut_engine_comparison_scored_CS.csv")
 
 calc_icc_aut <- function(rater1, rater2) {
   dat <- data.frame(rater1, rater2)
