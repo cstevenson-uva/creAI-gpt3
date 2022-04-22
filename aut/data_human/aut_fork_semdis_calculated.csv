@@ -1,0 +1,276 @@
+id,response,response_nofill,item,item_nofill,SemDis_cbowukwacsubtitle_nf_m,SemDis_cbowsubtitle_nf_m,SemDis_cbowBNCwikiukwac_nf_m,SemDis_TASA_nf_m,SemDis_glove_nf_m,SemDis_MEAN,SemDis_factor
+5,lever,lever,fork,fork,0.7790900000000001,0.78157,0.8183400000000001,0.99726,0.81346,0.83794,-0.11353
+6,murder weapon,murder weapon,fork,fork,0.9727,0.9335100000000001,1.05781,1.03937,1.07939,1.01656,0.10458
+7,bath toy,bath toy,fork,fork,1.02715,1.0069,1.01024,1.02171,1.00368,1.01394,0.08228
+8,make fire with it,make fire,fork,fork,1.00647,1.01917,0.97307,0.87331,1.04546,0.9835,0.06567
+38,file,file,fork,fork,0.9686,0.97541,0.88379,1.01245,0.9194,0.95193,-0.00254
+39,printing press,printing press,fork,fork,1.01229,0.96252,0.9867900000000001,0.96737,0.95391,0.97658,0.04619
+40,to break in,break,fork,fork,0.85565,0.95527,0.98094,1.02136,0.85992,0.93463,-0.00197
+41,break someone's hand,break someone hand,fork,fork,0.8078,0.96596,0.85033,0.96738,0.92917,0.90413,-0.04141
+42,start a revolution,start revolution,fork,fork,0.97149,0.93233,0.98531,0.9807,1.00259,0.97448,0.0503
+77,fork 1,fork,fork,fork,0,0,0,0,0,0,-0.96246
+78,fork 2,fork,fork,fork,0,0,0,0,0,0,-0.96246
+79,fork 3,fork,fork,fork,0,0,0,0,0,0,-0.96246
+80,fork 4,fork,fork,fork,0,0,0,0,0,0,-0.96246
+103,comb,comb,fork,fork,0.74744,0.827,0.7822,0.95494,0.83424,0.82916,-0.12319
+104,hair comb,hair comb,fork,fork,0.98897,0.96334,1.06262,0.98669,1.0691,1.01414,0.10536
+105,stitching agent,stitching agent,fork,fork,1.12003,0.94239,1.03354,1.00351,1.02334,1.02456,0.09958
+127,As cable tray,as cable tray,fork,fork,0.92619,0.99698,0.9166300000000001,1.0777,0.96968,0.97744,0.02647
+128,If your fork is very sturdy you can use it as a herring,if fork sturdy can use herring,fork,fork,0.76329,1.02069,1.03186,1.0950199999999999,1.05704,0.99358,0.0748
+129,Or to hold other wires in a position with,or hold wires position,fork,fork,1.05849,0.96283,1.0486,1.00294,1.03246,1.02106,0.10147
+130,You can injure someone with a fork seems laborious to me,you can injure someone fork seems laborious,fork,fork,1.02821,0.93914,1.05006,0.97014,1.01774,1.00106,0.0871
+131,Or scratch your name into a wall,or scratch name wall,fork,fork,0.97235,0.90788,1.03223,1.01023,1.02988,0.99051,0.07481
+132,If you bend it by heating it you can make a bracelet out of it,if bend heating can make bracelet,fork,fork,1.10958,1.07769,1.01208,1.02065,1.07074,1.05815,0.124
+173,a knife,knife,fork,fork,0.52347,0.50566,0.6801699999999999,0.74943,0.66998,0.62574,-0.30432
+174,a spoon,spoon,fork,fork,0.61051,0.47333000000000003,0.67343,0.57769,0.5614600000000001,0.57928,-0.34449
+175,a scraper,scraper,fork,fork,0.6669700000000001,0.69077,0.7123900000000001,0.94598,0.79843,0.76291,-0.19117
+176,a screwdriver,screwdriver,fork,fork,0.70611,0.7438,0.75818,0.92845,0.75295,0.7779,-0.1753
+177,wallpaper pickup,wallpaper pickup,fork,fork,1.00318,1.02379,0.9634199999999999,0.95441,0.95105,0.97917,0.04279
+178,a stabbing weapon,stabbing weapon,fork,fork,0.9676400000000001,1.0003,1.09173,0.86416,1.10295,1.00536,0.11686
+179,a coat rack for barbie clothes,coat rack barbie clothes,fork,fork,1.05819,1.00699,0.90955,0.93996,1.02077,0.98709,0.04695
+180,a broom,broom,fork,fork,0.79194,0.76125,0.82375,0.98186,0.80099,0.83196,-0.11737
+181,a toothbrush,toothbrush,fork,fork,0.8155,0.6724399999999999,0.87526,1.03451,0.85073,0.84969,-0.08843
+182,a hole punch,hole punch,fork,fork,1.00975,0.97884,0.93822,0.9154,0.95701,0.95984,0.02627
+183,knitting sticks,knitting sticks,fork,fork,1.01225,1.0306,1.06368,1.01713,1.02142,1.02902,0.1079
+240,a comb,comb,fork,fork,0.74744,0.827,0.7822,0.95494,0.83424,0.82916,-0.12319
+241,you can bend a fork and screw it to the wall and then hang a hanging plant from it,can bend fork screw wall hang hanging plant,fork,fork,1.13744,1.05195,1.01184,1.14263,0.93702,1.05618,0.09751
+242,you can bend the tines of a fork so that it becomes a stand for name tags at a table,can bend tines fork becomes stand name tags table,fork,fork,1.01132,1.02436,0.88351,1.03307,1.0284,0.99613,0.04323
+243,as a rake for raking the garden,rake raking garden,fork,fork,0.75856,1.0967500000000001,0.8639,1.0783,0.95665,0.95083,-0.0076
+244,as the key,key,fork,fork,0.87812,0.8821,0.93843,1.06681,0.97738,0.94857,0.01252
+245,you can hold the window open with a fork so it doesn't blow shut,can hold window open fork blow shut,fork,fork,0.7426900000000001,0.99759,1.14038,1.03869,0.93866,0.9716,0.07039
+246,weapon,weapon,fork,fork,0.77246,0.88417,0.90561,1.03711,0.95158,0.91019,-0.02501
+301,food,food,fork,fork,0.74298,0.75113,0.9307799999999999,0.93792,0.91544,0.85565,-0.05778
+302,bob,bob,fork,fork,0.8005,0.95422,0.87557,0.91716,1.00795,0.91108,-0.01696
+303,make noise,make noise,fork,fork,0.93123,0.96001,0.99428,1.06155,1.08579,1.00657,0.08231
+304,To put in your hair to hold your bun,to put hair hold bun,fork,fork,0.91789,0.97432,1.00229,0.96431,1.0613,0.98402,0.06972
+305,carve something in wood/stone or the like,carve something wood stone like,fork,fork,0.83005,0.98843,0.90639,0.99143,0.89961,0.92318,-0.0203
+306,comb your hair,comb hair,fork,fork,0.98897,0.96334,1.06262,0.98669,1.0691,1.01414,0.10536
+307,rifle,rifle,fork,fork,0.81421,0.85208,0.85791,1.05841,0.93939,0.9044,-0.04263
+308,cutting instead of a knife,cutting instead knife,fork,fork,0.68891,0.95072,0.97703,0.88775,0.93464,0.88781,-0.01958
+309,as a toothpick,toothpick,fork,fork,0.61094,0.64779,0.71409,0.98021,0.72519,0.73564,-0.22254
+310,scratching your back,scratching back,fork,fork,1.01279,1.02263,0.97687,1.00692,0.94179,0.9922,0.05113
+311,get dirt from under your nails,get dirt nails,fork,fork,0.8260000000000001,0.94024,0.89533,0.86027,0.94087,0.89254,-0.03184
+395,brush,brush,fork,fork,0.73637,0.75897,0.76469,0.97891,0.67996,0.78378,-0.18239
+396,weed whacker,weed whacker,fork,fork,0.97638,1.08275,0.99313,1.01664,0.9237299999999999,0.99853,0.056
+397,back scraper,back scraper,fork,fork,0.98988,1.14206,1.03018,0.96482,1.04511,1.03441,0.10981
+398,stick for garbage,stick garbage,fork,fork,0.96023,0.93563,1.10171,1.02444,1.03293,1.01099,0.10491
+399,catapult for shooting food,catapult shooting food,fork,fork,0.96678,0.9508,0.91803,1.04853,1.05507,0.98784,0.04805
+400,holder for your punk work,holder punk work,fork,fork,0.99748,0.98173,1.01323,0.97158,0.956,0.984,0.0575
+401,paper puncture,paper puncture,fork,fork,1.04914,1.00769,1.01138,1.00045,1.04047,1.02183,0.09458
+402,figure maker in dough for cookies,figure maker dough cookies,fork,fork,1.02772,0.90284,1.09084,0.98925,0.93782,0.98969,0.07622
+403,pressing the edges of the apple turnovers,pressing edges apple turnovers,fork,fork,1.06662,1.05814,0.92085,0.95183,0.92123,0.98373,0.03251
+468,weapon,weapon,fork,fork,0.77246,0.88417,0.90561,1.03711,0.95158,0.91019,-0.02501
+469,hole puncher,hole puncher,fork,fork,1.04355,0.89153,1.01522,0.98011,0.99415,0.98491,0.06394
+470,standard,standard,fork,fork,0.93198,0.94106,0.854,0.93852,0.91768,0.91665,-0.03097
+471,scoop,scoop,fork,fork,0.72166,0.94869,0.81279,0.99399,0.7116899999999999,0.83776,-0.12968
+472,gardening tools,gardening tools,fork,fork,1.02438,0.94967,1.02236,0.91388,0.98545,0.97915,0.06355
+473,mixer,mixer,fork,fork,0.80596,0.90636,0.83822,0.99722,0.78801,0.86715,-0.09181
+474,thread from clothing retrieval tool,thread clothing retrieval tool,fork,fork,1.00275,1.06286,0.99279,0.96157,0.99654,1.0033,0.07265
+528,throw,throw,fork,fork,0.79114,0.85607,0.86256,0.91838,0.85102,0.85583,-0.08124
+529,catch,catch,fork,fork,0.83906,0.99172,0.96438,0.953,0.89112,0.92786,-0.00275
+530,pick in the ground,pick ground,fork,fork,1.15321,1.0829,1.03597,0.9843,1.05198,1.06167,0.13154
+531,eat soup,eat soup,fork,fork,1.03293,0.94707,1.11275,1.03233,1.02272,1.02956,0.11921
+532,eat candy,eat candy,fork,fork,0.95407,1.02602,1.05447,1.04874,1.07842,1.03234,0.11415
+533,Lois pricks,lois pricks,fork,fork,0.98567,0.98571,1.00296,1.084,0.98156,1.00798,0.06976
+534,redirect,redirect,fork,fork,0.96807,0.88965,0.8823799999999999,0.94981,0.86434,0.91085,-0.03636
+535,straighten,straighten,fork,fork,0.77264,0.89625,0.78113,0.97945,0.81403,0.8487,-0.11365
+536,meat cutting,meat cutting,fork,fork,0.97878,0.97871,1.07474,1.03156,1.06344,1.02545,0.11293
+537,prick dough into pieces,prick dough pieces,fork,fork,0.80838,0.88919,0.9346099999999999,1.07081,0.94147,0.92889,-0.00803
+538,line up,line,fork,fork,0.85338,0.94082,0.87785,1.0552,0.88466,0.92238,-0.03269
+539,put an egg on it and do a race,put egg race,fork,fork,0.91621,0.93068,0.99752,0.99961,0.89539,0.94788,0.01781
+540,stir,stir,fork,fork,0.84266,0.84722,0.89133,0.96629,0.73063,0.85563,-0.0939
+621,to eat with,eat,fork,fork,0.66404,0.66334,0.8645,0.83812,0.76666,0.75933,-0.15746
+622,To make a catapult with,to make catapult,fork,fork,0.92761,0.9276,0.99507,0.95821,1.01557,0.96481,0.04843
+623,to make a work of art,make work art,fork,fork,0.94654,0.95523,0.8951,1.04127,0.93487,0.9546,0.00251
+624,to eat soup,eat soup,fork,fork,1.03293,0.94707,1.11275,1.03233,1.02272,1.02956,0.11921
+625,as a necklace make for your outfit,necklace make outfit,fork,fork,0.86488,1.03684,0.91836,1.0205,0.84234,0.93658,-0.01747
+626,poke eyes out,poke eyes,fork,fork,1.02046,1.01707,1.04976,1.02246,1.07078,1.03611,0.11647
+627,making holes in your quiche dough,making holes quiche dough,fork,fork,1.11204,1.0373000000000001,1.00364,1.02811,1.02203,1.04062,0.10244
+628,use as an aid to clay with,use aid clay,fork,fork,0.90779,0.9697,1.01137,0.95131,0.93242,0.95452,0.03335
+698,food,food,fork,fork,0.74298,0.75113,0.9307799999999999,0.93792,0.91544,0.85565,-0.05778
+699,to stir,stir,fork,fork,0.84266,0.84722,0.89133,0.96629,0.73063,0.85563,-0.0939
+700,to play with,play,fork,fork,0.8573500000000001,0.92449,0.96997,1.088,0.99631,0.96722,0.03438
+701,to comb your hair with,comb hair,fork,fork,0.98897,0.96334,1.06262,0.98669,1.0691,1.01414,0.10536
+702,to remove hairs from clothing,remove hairs clothing,fork,fork,0.93964,0.99067,0.9746900000000001,0.90564,1.03533,0.96919,0.05239
+703,to get something out of the mud,get something mud,fork,fork,0.8547899999999999,0.87886,0.84434,0.94144,0.91237,0.88636,-0.05599
+704,To poke around in something clean up trash,to poke around something clean trash,fork,fork,0.98251,0.96103,0.95216,0.98012,1.05809,0.98678,0.05927
+705,as a mirror,mirror,fork,fork,0.85343,0.90901,0.90212,1.0149,0.95511,0.92691,-0.0118
+706,as a tool for acting,tool acting,fork,fork,0.99529,1.00615,1.04766,1.00461,1.02316,1.01537,0.09536
+707,for conducting,conducting,fork,fork,0.96992,1.04433,1.01422,1.04271,1.06443,1.02712,0.09959
+708,to point out something,point something,fork,fork,0.98992,0.98314,0.97669,1.01592,0.96908,0.98695,0.05064
+709,as a dart,dart,fork,fork,0.82377,0.8604499999999999,0.93306,1.00817,0.8558399999999999,0.89626,-0.04017
+710,as a silver object,silver object,fork,fork,1.00059,0.97409,1.05835,0.98298,1.0363,1.01046,0.0974
+711,to show what silver is,show silver,fork,fork,0.91828,1.01981,0.98693,0.92362,0.90073,0.94987,0.02142
+819,pricking of food,pricking food,fork,fork,0.94609,1.00433,0.97575,1.01472,0.94578,0.97733,0.04008
+820,jab someone with it,jab someone,fork,fork,1.14411,1.10721,0.983,1.02839,0.91059,1.03466,0.07785
+821,turn around Uri gellerlike,turn around uri gellerlike,fork,fork,0.91837,0.92313,0.91903,1.13917,1.03047,0.98603,0.0385
+822,take out the two middle bars and use as a fork for chocolates,take two middle bars use fork chocolates,fork,fork,0.89588,0.89623,0.92894,0.99562,1.05846,0.95503,0.03017
+823,make music,make music,fork,fork,0.91866,0.98183,1.06798,1.00755,1.01427,0.99806,0.0859
+824,Drawing attention at the table to a speech,drawing attention table speech,fork,fork,1.06743,1.0009,0.97372,1.03943,1.04688,1.02567,0.08761
+825,you can pick up something with it,can pick something,fork,fork,0.7326699999999999,0.90333,0.87417,0.99436,0.94094,0.88909,-0.04674
+826,test if cooked meat is done,test cooked meat done,fork,fork,1.07189,0.95245,1.10958,0.98204,1.06556,1.0363,0.13218
+917,drawing in sand,drawing sand,fork,fork,0.9752,0.92261,0.99305,0.97501,0.98172,0.96952,0.04596
+918,drawing with paint,drawing paint,fork,fork,1.02333,0.96793,1.12113,1.02542,1.02311,1.03218,0.12334
+919,pointer,pointer,fork,fork,0.83668,0.84413,0.90186,0.98844,0.90182,0.89459,-0.04093
+920,earring,earring,fork,fork,0.85548,0.88187,0.9185,0.92551,0.95573,0.90742,-0.01702
+921,photo holder,photo holder,fork,fork,1.08295,1.06491,0.9793499999999999,1.02631,0.9575400000000001,1.02221,0.07457
+922,poking someone warning them,poking someone warning,fork,fork,0.93027,1.03641,0.89269,1.02346,0.96271,0.96911,0.0169
+923,musical instrument tapping on the table etc,musical instrument tapping table etc,fork,fork,1.08738,0.8549,1.0258,0.92357,0.96979,0.97229,0.05729
+924,instead of a paralyzed hand,instead paralyzed hand,fork,fork,0.7983,1.07884,0.93923,0.99635,0.92687,0.94792,0.00808
+925,clock hand,clock hand,fork,fork,1.02772,1.00943,0.95717,0.99136,1.0237,1.00188,0.06592
+941,comb hair,comb hair,fork,fork,0.98897,0.96334,1.06262,0.98669,1.0691,1.01414,0.10536
+942,turn into a bracelet,turn bracelet,fork,fork,0.99619,1.0811,0.99024,0.93083,1.00911,1.00149,0.0741
+943,Scratching your skin when you are itching,scratching skin itching,fork,fork,0.924,0.97397,0.91855,1.02108,1.046,0.97672,0.04015
+944,play with it by placing it on the edge of the table and let it launch,play placing edge table let launch,fork,fork,0.88508,0.91051,0.97597,0.92716,1.05251,0.95025,0.04029
+945,raking,raking,fork,fork,0.79514,0.86043,0.86959,0.91455,0.88801,0.86554,-0.06731
+1037,comb hair,comb hair,fork,fork,0.98897,0.96334,1.06262,0.98669,1.0691,1.01414,0.10536
+1038,make bows,make bows,fork,fork,0.95416,0.87,0.97049,0.92715,1.02151,0.94866,0.03402
+1039,can opener,can opener,fork,fork,0.96139,1.02173,1.04868,1.1118999999999999,0.93855,1.01645,0.07857
+1040,ruler,ruler,fork,fork,0.88708,0.987,0.97512,0.91756,1.01071,0.95549,0.03835
+1073,nail,nail,fork,fork,0.89882,0.85628,0.88082,0.92414,0.86144,0.8843,-0.055
+1074,weapon,weapon,fork,fork,0.77246,0.88417,0.90561,1.03711,0.95158,0.91019,-0.02501
+1075,lever/catapult,lever catapult,fork,fork,0.97892,1.03507,0.96843,1.07146,0.92974,0.99672,0.04707
+1076,bracelets/chains to hang from,bracelets chains hang,fork,fork,0.93042,0.83052,0.94689,1.06893,1.00221,0.95579,0.02338
+1077,as pen,pen,fork,fork,0.7733099999999999,0.80726,0.89082,1.08659,0.87319,0.88623,-0.05894
+1078,To knit/crochet etc,to knit crochet etc,fork,fork,0.9465,1.11611,0.9545399999999999,0.97185,0.94398,0.9866,0.04362
+1135,hair combs,hair combs,fork,fork,0.9365,0.95989,1.06197,0.97687,1.06451,0.99995,0.09469
+1136,attach to the wall as a coat rack,attach wall coat rack,fork,fork,1.06605,1.09476,0.95026,0.9225099999999999,0.99294,1.0053,0.06618
+1137,as a hair ornament in a bun,hair ornament bun,fork,fork,0.90103,1.01652,1.02667,0.9436599999999999,0.90304,0.95818,0.03564
+1138,To scratch your back,to scratch back,fork,fork,0.77679,0.85139,0.92335,0.97316,0.9217,0.88928,-0.03653
+1183,screwdriver back,screwdriver back,fork,fork,1.01606,1.07913,1.07796,1.01569,1.01924,1.04162,0.11986
+1184,open a beer bottle,open beer bottle,fork,fork,0.91311,0.98678,0.87385,1.08783,0.92067,0.95645,-0.00577
+1185,to elicit a response,elicit response,fork,fork,0.95656,0.92571,1.0244,1.07395,0.97671,0.99147,0.06272
+1222,knife someone,knife someone,fork,fork,0.90996,1.03739,1.08128,0.94547,1.0667200000000001,1.00816,0.10666
+1223,food,food,fork,fork,0.74298,0.75113,0.9307799999999999,0.93792,0.91544,0.85565,-0.05778
+1224,pull something out from under the sofa,pull something sofa,fork,fork,0.79711,0.93779,0.92367,1.04206,0.88625,0.91738,-0.02512
+1225,to make scratches with,make scratches,fork,fork,1.06474,0.91885,0.94987,0.96904,0.94607,0.96971,0.03202
+1226,to hit someone with,hit someone,fork,fork,0.9712,1.12319,1.10092,0.99883,0.95834,1.0305,0.10923
+1265,weapon,weapon,fork,fork,0.77246,0.88417,0.90561,1.03711,0.95158,0.91019,-0.02501
+1266,comb,comb,fork,fork,0.74744,0.827,0.7822,0.95494,0.83424,0.82916,-0.12319
+1267,food,food,fork,fork,0.74298,0.75113,0.9307799999999999,0.93792,0.91544,0.85565,-0.05778
+1268,spike,spike,fork,fork,0.7981199999999999,0.98047,0.84033,0.99505,0.95087,0.91297,-0.03592
+1269,stir with,stir,fork,fork,0.84266,0.84722,0.89133,0.96629,0.73063,0.85563,-0.0939
+1309,skewer,skewer,fork,fork,0.5599000000000001,0.62498,0.65023,0.95337,0.73761,0.70522,-0.25596
+1310,sticks,sticks,fork,fork,0.69928,0.7838499999999999,0.77026,0.91064,0.7702,0.78685,-0.1629
+1311,bundling of knives,bundling knives,fork,fork,0.98394,0.96038,1.03889,0.95163,1.03646,0.99426,0.08301
+1312,iron rods,iron rods,fork,fork,0.97798,1.02401,0.99607,0.97201,1.00601,0.99522,0.06835
+1313,clamping pliers,clamping pliers,fork,fork,1.04176,0.95039,0.9374,0.9902,1.02589,0.98913,0.05286
+1314,suction cup,suction cup,fork,fork,1.01267,0.97123,0.93674,0.98936,1.04777,0.99155,0.05734
+1315,magnet,magnet,fork,fork,0.89964,0.94256,0.86138,1.03419,0.8746700000000001,0.92249,-0.03642
+1316,2 spoons,spoons,fork,fork,0.62141,0.5922700000000001,0.73051,0.63385,0.72729,0.66107,-0.25301
+1317,fingers,fingers,fork,fork,0.68843,0.7193,0.7964100000000001,0.93427,0.73078,0.77384,-0.17288
+1385,food,food,fork,fork,0.74298,0.75113,0.9307799999999999,0.93792,0.91544,0.85565,-0.05778
+1386,pick up,pick,fork,fork,0.77915,0.82975,0.92962,0.91064,0.90047,0.86993,-0.04847
+1387,drawing in the sand,drawing sand,fork,fork,0.9752,0.92261,0.99305,0.97501,0.98172,0.96952,0.04596
+1388,catch something,catch something,fork,fork,0.93934,1.03687,0.99628,0.91239,0.98502,0.97398,0.05325
+1389,To throw something away,to throw something away,fork,fork,1.01205,1.102,1.04019,1.00278,1.03287,1.03798,0.11112
+1390,unlock something,unlock something,fork,fork,1.01043,1.05441,1.0443,0.97261,0.98771,1.01389,0.09026
+1418,Writing accounts,writing accounts,fork,fork,1.07954,0.98285,0.98081,0.88863,0.99902,0.98617,0.06251
+1419,vote,vote,fork,fork,0.91088,1.04582,0.89849,1.02683,1.005,0.9774,0.029760000000000002
+1420,Chinese food,chinese food,fork,fork,0.97688,1.03145,0.90041,1.05082,1.03029,0.99797,0.04753
+1421,split,split,fork,fork,0.80594,0.8347,0.85527,0.99348,0.83468,0.86481,-0.08268
+1422,part of bicycle,part bicycle,fork,fork,1.08195,0.96659,0.97302,1.03296,1.03902,1.01871,0.08188
+1423,lamppost,lamppost,fork,fork,0.79331,0.75478,0.8245,1.13474,1.01086,0.90364,-0.04482
+1424,light,light,fork,fork,0.87361,0.95045,0.96766,1.01587,0.91353,0.94422,0.00974
+1444,toothpick,toothpick,fork,fork,0.61094,0.64779,0.71409,0.98021,0.72519,0.73564,-0.22254
+1445,hair curler,hair curler,fork,fork,0.97904,1.05219,0.99641,1.03456,1.01578,1.0156,0.08094
+1446,brush,brush,fork,fork,0.73637,0.75897,0.76469,0.97891,0.67996,0.78378,-0.18239
+1447,fix in the ground as a pole,fix ground pole,fork,fork,0.89613,0.97789,0.98631,0.92998,0.93138,0.94434,0.02125
+1448,scratch your back,scratch back,fork,fork,1.03771,1.02146,0.9846,1.08408,0.97098,1.01977,0.07268
+1449,javelin throw,javelin throw,fork,fork,0.96726,0.98499,1.00741,1.05333,0.97017,0.99663,0.06262
+1450,weapon,weapon,fork,fork,0.77246,0.88417,0.90561,1.03711,0.95158,0.91019,-0.02501
+1451,nail cleaner,nail cleaner,fork,fork,0.93979,1.04157,1.02803,1.02175,0.96415,0.99906,0.06966
+1452,artwork,artwork,fork,fork,1.02291,0.99723,1.02697,0.99018,1.08637,1.02473,0.10708
+1509,raking grass,raking grass,fork,fork,1.08518,1.03214,0.94303,1.03708,1.02364,1.02421,0.07643
+1510,a candlestick of folds,candlestick folds,fork,fork,1.02215,0.94106,0.96447,0.99273,0.91937,0.96796,0.02883
+1511,jewelry pendant,jewelry pendant,fork,fork,1.04454,1.02702,1.0099,0.99166,1.02133,1.01889,0.08987
+1512,Puncture holes,puncture holes,fork,fork,0.94439,1.07449,0.96388,1.06005,0.94293,0.99715,0.04851
+1540,food,food,fork,fork,0.74298,0.75113,0.9307799999999999,0.93792,0.91544,0.85565,-0.05778
+1541,painting,painting,fork,fork,0.94207,0.97387,0.96045,0.98227,0.98847,0.96943,0.03868
+1542,build,build,fork,fork,0.94074,0.91934,0.9448799999999999,1.01419,0.91314,0.94646,0.00657
+1543,play,play,fork,fork,0.8573500000000001,0.92449,0.96997,1.088,0.99631,0.96722,0.03438
+1544,dig,dig,fork,fork,0.77754,0.92103,0.86734,0.95252,0.8264400000000001,0.86897,-0.07625
+1545,scraping things out,scraping things,fork,fork,1.02806,1.00166,0.9685,1.02616,1.0095,1.00678,0.06819
+1546,can open,can open,fork,fork,1.00247,0.96456,0.94015,1.04931,1.02286,0.99587,0.05447
+1547,harm someone,harm someone,fork,fork,0.93953,1.03764,0.95143,1.03091,1.03562,0.99903,0.06158
+1584,garden tools,garden tools,fork,fork,1.10597,1.02833,1.07259,0.91268,1.02017,1.02795,0.11511
+1585,teaspoon,teaspoon,fork,fork,0.7248399999999999,0.78269,0.82545,0.81821,0.85023,0.80028,-0.12436
+1586,picking up gum from the sidewalk,picking gum sidewalk,fork,fork,0.88353,0.93774,0.96456,1.07076,0.91039,0.9534,0.01228
+1587,weapon,weapon,fork,fork,0.77246,0.88417,0.90561,1.03711,0.95158,0.91019,-0.02501
+1617,Stitches,stitches,fork,fork,0.87894,0.82849,0.92678,0.9273,0.89306,0.89091,-0.03553
+1618,comb hair,comb hair,fork,fork,0.98897,0.96334,1.06262,0.98669,1.0691,1.01414,0.10536
+1619,disassemble knot,disassemble knot,fork,fork,1.02245,1.02484,0.87381,1.01238,1.01096,0.98889,0.03455
+1620,Prying something ' out of something,prying something something,fork,fork,1.02761,0.96916,0.93498,1.0929,0.86783,0.9785,0.01698
+1621,use as a screwdriver,use screwdriver,fork,fork,0.97964,1.08215,0.96957,1.00104,0.96649,0.99978,0.05832
+1622,Poking holes in all kinds of things,poking holes kinds things,fork,fork,1.0446,0.86622,0.96182,0.9357800000000001,1.05057,0.9718,0.05265
+1627,Puncture holes,puncture holes,fork,fork,0.94439,1.07449,0.96388,1.06005,0.94293,0.99715,0.04851
+1628,Hair combing,hair combing,fork,fork,0.9769,0.99236,1.01117,1.02845,1.02843,1.00746,0.08074
+1629,pick out something,pick something,fork,fork,0.94823,0.95594,1.0657,0.97169,0.96278,0.98087,0.06804
+1630,tickle,tickle,fork,fork,0.84882,0.88048,0.89955,0.97097,0.94429,0.90882,-0.02443
+1631,scratch your back,scratch back,fork,fork,1.03771,1.02146,0.9846,1.08408,0.97098,1.01977,0.07268
+1632,unbutton,unbutton,fork,fork,0.77881,0.90587,NA,1.07807,1.00897,0.94293,0.01519
+1633,make scratches in a window,make scratches window,fork,fork,0.84781,0.88512,0.95366,0.97002,1.0444,0.9402,0.02443
+1664,stick for in your hair just as Asians have,stick hair just asians,fork,fork,1.10217,1.0915300000000001,0.94698,1.05065,1.03188,1.04464,0.09231
+1665,knitting needle,knitting needle,fork,fork,0.95897,0.95919,1.01518,0.84712,1.0256,0.96121,0.05792
+1666,drumstick,drumstick,fork,fork,0.6644,0.67049,0.72305,0.5125299999999999,0.88424,0.69094,-0.20489
+1667,triangle stick,triangle stick,fork,fork,0.92351,0.99223,1.00453,1.04194,0.97082,0.98661,0.05525
+1668,for sand sculpture,sand sculpture,fork,fork,1.02068,0.9438,1.00132,1.0441799999999999,1.00747,1.00349,0.07221
+1669,herring for the tent,herring tent,fork,fork,1.02424,0.85922,0.98418,1.04508,0.91441,0.96543,0.02824
+1670,comb,comb,fork,fork,0.74744,0.827,0.7822,0.95494,0.83424,0.82916,-0.12319
+1722,Puncture holes,puncture holes,fork,fork,0.94439,1.07449,0.96388,1.06005,0.94293,0.99715,0.04851
+1723,Carve something,carve something,fork,fork,0.95823,1.06426,1.06769,1.13056,0.95215,1.03458,0.09667
+1756,stitches,stitches,fork,fork,0.87894,0.82849,0.92678,0.9273,0.89306,0.89091,-0.03553
+1757,nose picking,nose picking,fork,fork,0.9391,1.02789,0.99951,0.97793,0.94374,0.97763,0.04734
+1758,can opener,can opener,fork,fork,0.96139,1.02173,1.04868,1.1118999999999999,0.93855,1.01645,0.07857
+1759,beer opener,beer opener,fork,fork,1.04457,1.02253,1.01028,1.07521,0.96501,1.02352,0.08092
+1760,conduct electricity,conduct electricity,fork,fork,1.0929,0.9319,1.00473,0.86786,1.07321,0.99412,0.08535
+1761,crazy hair clip for people with afro,crazy hair clip people afro,fork,fork,0.97958,0.92041,1.00738,0.96483,0.91731,0.9579,0.03251
+1762,tweezers,tweezers,fork,fork,0.8113,0.6974400000000001,0.84284,0.98956,0.90326,0.84888,-0.08677
+1763,back scraper,back scraper,fork,fork,0.98988,1.14206,1.03018,0.96482,1.04511,1.03441,0.10981
+1764,as a knife,knife,fork,fork,0.52347,0.50566,0.6801699999999999,0.74943,0.66998,0.62574,-0.30432
+1830,dining,dining,fork,fork,0.79357,0.83207,0.88403,0.68665,0.89002,0.81727,-0.08593
+1831,surgical instrument,surgical instrument,fork,fork,0.93357,0.97797,1.09139,1.07193,1.1378,1.04253,0.13695
+1832,weed whacker,weed whacker,fork,fork,0.97638,1.08275,0.99313,1.01664,0.9237299999999999,0.99853,0.056
+1833,tools,tools,fork,fork,0.70841,0.77866,0.79032,0.92455,0.81355,0.8031,-0.14131
+1834,back scraper,back scraper,fork,fork,0.98988,1.14206,1.03018,0.96482,1.04511,1.03441,0.10981
+1835,fish scraper,fish scraper,fork,fork,0.94761,1.05341,1.07076,0.99944,1.07251,1.02875,0.11703
+1836,murder weapon,murder weapon,fork,fork,0.9727,0.9335100000000001,1.05781,1.03937,1.07939,1.01656,0.10458
+1837,sex toy,sex toy,fork,fork,0.87375,0.97899,1.03178,0.94966,1.06242,0.97932,0.07382
+1838,CD rack,cd rack,fork,fork,0.96133,0.95714,1.05333,1.0381,0.99839,1.00166,0.08154
+1839,toys,toys,fork,fork,0.8765499999999999,0.93761,0.93158,1.03932,1.02491,0.96199,0.02852
+1840,comb,comb,fork,fork,0.74744,0.827,0.7822,0.95494,0.83424,0.82916,-0.12319
+1920,comb ariel,comb ariel,fork,fork,0.96718,0.97916,0.98567,1.12314,1.01766,1.01456,0.07336
+1921,dye,dye,fork,fork,0.92259,0.92567,0.96486,1.04575,0.98717,0.96921,0.03596
+1922,dig,dig,fork,fork,0.77754,0.92103,0.86734,0.95252,0.8264400000000001,0.86897,-0.07625
+1923,as part of artwork,part artwork,fork,fork,0.9609,0.98905,1.0137100000000001,1.06046,0.98775,1.00237,0.0702
+1924,screwdriver,screwdriver,fork,fork,0.70611,0.7438,0.75818,0.92845,0.75295,0.7779,-0.1753
+1925,can opener,can opener,fork,fork,0.96139,1.02173,1.04868,1.1118999999999999,0.93855,1.01645,0.07857
+1926,make holes,make holes,fork,fork,1.0977999999999999,0.98795,0.98971,1.02465,0.95299,1.01062,0.06838
+1975,art object,art object,fork,fork,1.0038,0.9846,1.02129,1.07201,1.0215,1.02064,0.08933
+1976,darts with fork,darts fork,fork,fork,0.94152,0.95342,0.93268,1.02967,0.98388,0.96823,0.02832
+1977,food,food,fork,fork,0.74298,0.75113,0.9307799999999999,0.93792,0.91544,0.85565,-0.05778
+1978,knife in fork when setting the table,knife fork setting table,fork,fork,1.28296,0.74891,1.10261,1.1084,1.05019,1.05861,0.13919
+2024,painting,painting,fork,fork,0.94207,0.97387,0.96045,0.98227,0.98847,0.96943,0.03868
+2025,open container,open container,fork,fork,0.8873,1.03775,0.92431,1.0388,0.98654,0.97494,0.03059
+2053,use as a devil's tail,use devil tail,fork,fork,0.86197,1.00796,0.89429,1.0173,0.8996999999999999,0.93624,-0.01499
+2054,shovel for the sandbox,shovel sandbox,fork,fork,1.05381,0.96548,0.96947,1.0179,1.0137100000000001,1.00407,0.06773
+2055,use as a comb,use comb,fork,fork,0.87409,1.13415,0.91994,1.10522,0.98258,1.0032,0.04537
+2056,make little figures when you spray ink on them,make little figures spray ink,fork,fork,1.06059,0.88143,0.914,1.02029,0.95733,0.96673,0.02055
+2057,tennis racket,tennis racket,fork,fork,0.97677,0.94699,0.93576,0.99318,0.94802,0.96014,0.02039
+2070,picking things up from the street so your hands don't get dirty and you can throw them in the trash,picking things street hands get dirty can throw trash,fork,fork,0.95245,0.95701,1.07684,0.97427,0.94114,0.98034,0.06707
+2071,poke into something so that they stand up straight and that is an instrument shapes that you tap into,poke something stand straight instrument shapes tap,fork,fork,1.05651,1.09897,0.947,1.03901,0.95353,1.019,0.0634
+2072,in the garden in the earth so that cats do not want to come there,garden earth cats want come,fork,fork,0.91788,0.91824,1.05131,0.98076,0.93024,0.95969,0.04449
+2073,dipping into the paint and drawing dashes in a moment of creativity,dipping paint drawing dashes moment creativity,fork,fork,1.04301,0.89976,0.98094,0.9224,0.93618,0.95646,0.03071
+2074,scratch,scratch,fork,fork,0.79575,0.84472,0.90254,0.91016,0.89301,0.86924,-0.05614
+2163,comb,comb,fork,fork,0.74744,0.827,0.7822,0.95494,0.83424,0.82916,-0.12319
+2164,to shoot rubber bands with,shoot rubber bands,fork,fork,0.84626,1.07954,0.97189,0.90425,0.93287,0.94696,0.02091
+2165,rake,rake,fork,fork,0.6779,0.85041,0.7221,0.98761,0.749,0.7974,-0.17376
+12822,conductor,conductor,fork,fork,0.90657,0.94975,0.94027,1.05057,1.04901,0.97923,0.04573
+12823,catapult,catapult,fork,fork,0.92157,0.82452,0.90851,1.01811,0.97077,0.9287,-0.00649
+12824,keep elastic,keep elastic,fork,fork,0.91262,1.01672,1.03311,1.09696,0.94542,1.00097,0.06545
+12825,bobbin,bobbin,fork,fork,0.78853,0.78183,0.80644,0.99187,0.89034,0.8518,-0.09528
+12826,thumbtack substitute,thumbtack substitute,fork,fork,0.94534,0.87274,0.99929,0.99375,1.10886,0.984,0.07446
+12827,dart,dart,fork,fork,0.82377,0.8604499999999999,0.93306,1.00817,0.8558399999999999,0.89626,-0.04017
+12828,telepathy,telepathy,fork,fork,0.85626,0.8293200000000001,0.96507,1.04541,1.06433,0.95208,0.03445
+12829,Goal post,goal post,fork,fork,1.07855,0.89596,0.98051,0.92671,0.94882,0.96611,0.03925
+12830,flag,flag,fork,fork,0.93444,0.99522,0.9465,1.01661,0.92857,0.96427,0.02149

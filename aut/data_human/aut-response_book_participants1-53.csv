@@ -1,0 +1,290 @@
+AUT-response_id,participant_fk,stimulus_fk,starttime,endtime,response,toptwo,response_EN_translated,response_EN_corrected
+17,1,5,0,0,bord,NULL,board,plate
+18,1,5,0,0,geheime boodschappen versturen,NULL,send secret messages,send secret messages
+19,1,5,0,0,alternatief voor seksleven,NULL,alternative for sex life,alternative for sex life
+20,1,5,0,0,doorverkopen,NULL,resell,resell
+53,7,5,1464597939012,1464597957135,vijl,1,file,file
+54,7,5,1464597957135,1464597965375,drukpers,1,printing press,printing press
+55,7,5,1464597965375,1464597982254,om in te breken,NULL,to break in,to break in
+56,7,5,1464597982254,1464598043271,iemands hand breken,NULL,break someone's hand,break someone's hand
+57,7,5,1464598043271,1464598051912,een revolutie beginnen,NULL,start a revolution,start a revolution
+87,8,5,1464598838107,1464598839937,boek 1,1,book 1,book 1
+88,8,5,1464598839937,1464598841222,boek 2,1,book 2,book 2
+89,8,5,1464598841222,1464598842418,boek 3,NULL,book 3,book 3
+111,9,5,1464598960231,1464598963675,pletter,1,splash,splash
+112,9,5,1464598963675,1464598967956,boekensteun,1,bookend,bookend
+144,11,5,1464608553288,1464608556666,Als kussen,1,As a pillow,As a pillow
+145,11,5,1464608556666,1464608564525,/hoofdsteun,NULL,/headrest,/headrest
+146,11,5,1464608564525,1464608573780,Als verhoging (om op te staan),NULL,As an elevation (to stand on),As an elevation (to stand on)
+147,11,5,1464608573780,1464608586028,"Als gewicht, en je wil spiertraining doen",1,"As a weight, and you want to do muscle training","As a weight, and you want to do muscle training"
+148,11,5,1464608586028,1464608617594,Je kan van de losse blaadjes vliegtuigjes vouwen,NULL,You can fold airplanes from the loose leaves,You can fold airplanes from the loose leaves
+149,11,5,1464608617594,1464608634543,En van het karton een mal om te schilderen,NULL,And from the cardboard a mold for painting,And from the cardboard a mold for painting
+205,12,5,1464695847626,1464695853003,onderzetter,NULL,coaster,coaster
+206,12,5,1464695853003,1464695856407,hoofddeksel,NULL,headgear,headgear
+207,12,5,1464695856407,1464695864201,trappetje,NULL,stairs,stairs
+208,12,5,1464695864201,1464695865782,baksteen,1,brick,brick
+209,12,5,1464695865782,1464695869519,decoratie,NULL,decoration,decoration
+210,12,5,1464695869519,1464695876656,bloempot,NULL,flowerpot,flowerpot
+211,12,5,1464695876656,1464695879932,wcpapier,1,toilet paper,toilet paper
+261,13,5,1464696848100,1464696855148,onderzetter,NULL,coaster,coaster
+262,13,5,1464696855148,1464696901421, een stapel boeken als nachtkastje,1, a stack of books as a bedside table, a stack of books as a bedside table
+263,13,5,1464696901421,1464696952337,als paraplu tegen de regen,1,as an umbrella against the rain,as an umbrella against the rain
+341,14,5,1464779840474,1464779843481,eruit lezen,NULL,read out,read from
+342,14,5,1464779843481,1464779849669,gebruiken als wapen (er mee gooien)\,NULL,Using it as a weapon (throwing it around).,Using it as a weapon (throwing it around).
+343,14,5,1464779849669,1464779853253,geluid mee maken,NULL,make noise with it,make noise with it
+344,14,5,1464779853253,1464779858722,je kunt er dingen in opschrijven,NULL,you can write things down in it,you can write things down in it
+345,14,5,1464779858722,1464779870317,gebruiken als onderzetter,NULL,use as a coaster,use as a coaster
+346,14,5,1464779870317,1464779875707,gebruiken als opstapje,NULL,use as a step,use as a step
+347,14,5,1464779875707,1464779889211,als decoratie gebruiken (bijv in je boekenkast),NULL,use as decoration (e.g. in your bookcase),use as decoration (e.g. in your bookcase)
+348,14,5,1464779889211,1464779908974,om iets in te verstoppen (bijv een briefje of een kauwgompje),1,"to hide something in (e.g., a bill or a gum)","to hide something in (e.g., a bill or a gum)"
+349,14,5,1464779908974,1464779924556,als verkoeler (wapperen met die bladeren),1,as a cooler (flapping those leaves),as a cooler (flapping those leaves)
+350,14,5,1464779924556,1464779946465,je kunt het ook gebruiken als bouwsteen,NULL,you can also use it as a building block,you can also use it as a building block
+351,14,5,1464779946465,1464779956218,verbranden in de kachel (als hout),NULL,burn in the stove (as wood),burn in the stove (as wood)
+425,15,5,1464785178844,1464785185616,ophoging voor je computer,NULL,elevation for your computer,elevation for your computer
+426,15,5,1464785185616,1464785190607,onderzetter,NULL,coaster,coaster
+427,15,5,1464785190607,1464785214845,tafeltennisbadje,1,table tennis pool,table tennis pool
+428,15,5,1464785214845,1464785231155,je kan er iemand mee slaan,NULL,you can hit someone with it,you can hit someone with it
+429,15,5,1464785231155,1464785236366,je kan er op trommelen,NULL,you can drum on it,you can drum on it
+430,15,5,1464785236366,1464785251437,gebruiken als boekensteun,NULL,use as a bookend,use as a bookend
+431,15,5,1464785251437,1464785263926,opvulling van de kast,NULL,cabinet padding,cabinet padding
+432,15,5,1464785263926,1464785290394,je kunt een boek goed rechtop zetten en er achter spieken,1,you can put a book upright and peer behind it,you can put a book upright and peer behind it
+495,16,5,1464787589004,1464787594096,steun voor meubels,NULL,support for furniture,support for furniture
+496,16,5,1464787594096,1464787596960,onderzetter,NULL,coaster,coaster
+497,16,5,1464787596960,1464787599152,gewicht,NULL,weight,weight
+498,16,5,1464787599152,1464787601391,brandmateriaal,1,fire equipment,fire equipment
+499,16,5,1464787601391,1464787607855,decoratie,NULL,decoration,decoration
+500,16,5,1464787607855,1464787618862,kladboek,NULL,scrapbook,scrapbook
+501,16,5,1464787618862,1464787677507,bijzettafel,1,side table,side table
+561,17,5,1464796767876,1464796778020,gooien,NULL,throw,throw
+562,17,5,1464796778020,1464796778860,vangen,NULL,catch,catch
+563,17,5,1464796778860,1464796780180,begraven,NULL,buried,buried
+564,17,5,1464796780180,1464796782372,opgraven,NULL,excavate,excavate
+565,17,5,1464796782372,1464796783428,opeten,NULL,eat,eat
+566,17,5,1464796783428,1464796784820,niet lezen,NULL,do not read,do not read
+567,17,5,1464796784820,1464796789307,verscheuren,NULL,tear up,tear up
+568,17,5,1464796789307,1464796791467,jongleren,NULL,juggling,juggling
+569,17,5,1464796791467,1464796802075,er in schrijven,NULL,write in it,write in it
+570,17,5,1464796802075,1464796811530,het ruilen tegen iets leuks,NULL,exchanging it for something nice,exchanging it for something nice
+571,17,5,1464796811530,1464796818650,een huis van boeken bouwen,NULL,build a house of books,build a house of books
+572,17,5,1464796818650,1464796821289,een hut van boeken bouwen,1,build a hut from books,build a hut from books
+573,17,5,1464796821289,1464796825233,een stoel van boeken bouwen,NULL,build a chair from books,build a chair from books
+574,17,5,1464796825233,1464796854529,achterstevoren lezen,NULL,read backwards,read backwards
+575,17,5,1464796854529,1464796863631,er sigaretten van draaien,1,turn it into cigarettes,turn it into cigarettes
+651,18,5,1464799285569,1464799290501,om te lezen ,NULL,to read ,to read 
+652,18,5,1464799290501,1464799295357,als steun pilaar ,NULL,as a support pillar ,as a support pillar 
+653,18,5,1464799295357,1464799300413,als decoratie in de kamer ,NULL,as decoration in the room ,as decoration in the room 
+654,18,5,1464799300413,1464799308404,om een geheime verstop plek in te maken ,1,to make a secret hiding place in ,to make a secret hiding place in 
+655,18,5,1464799308404,1464799313844,om iemand mee te slaan ,NULL,to hit someone with ,to hit someone with 
+656,18,5,1464799313844,1464799318068,om jezelf te slaan ,NULL,to beat yourself up ,to beat yourself up 
+657,18,5,1464799318068,1464799330043,om een tafel mee te bouwen ,NULL,to build a table ,to build a table 
+658,18,5,1464799330043,1464799333507,om een muur mee te bouwen ,1,to build a wall with ,to build a wall with 
+659,18,5,1464799333507,1464799336819,om kasten te vullen ,NULL,to fill cabinets ,to fill cabinets 
+660,18,5,1464799336819,1464799340498,om vuur mee te maken ,NULL,to make fire with ,to make fire with 
+661,18,5,1464799340498,1464799353866,een stoel van maken,NULL,make a chair out of it,make a chair out of it
+737,19,5,1464867216298,1464867220255,om te lezen,NULL,to read,to read
+738,19,5,1464867220255,1464867225020,als onderlegger voor iets,1,as a backing for something,as a backing for something
+739,19,5,1464867225020,1464867230999,mooi voor de sier in kamer,NULL,beautiful for decoration in room,beautiful for decoration in room
+740,19,5,1464867230999,1464867238175,om een kleur mee uit te leggen,1,to explain a color,to explain a color
+741,19,5,1464867238175,1464867244182,om iemand iets bij te brengen/leren,NULL,to teach/learn someone something,to teach/learn someone something
+742,19,5,1464867244182,1464867251039,als hoedje op je hoofd,NULL,as a hat on your head,as a hat on your head
+743,19,5,1464867251039,1464867256206,om mee te spelen ,NULL,to play with ,to play with 
+744,19,5,1464867256206,1464867264102,om mee te bouwen (meerdere),NULL,To build with (several),To build with (several)
+745,19,5,1464867264102,1464867271230,om doorheen te bladeren ,NULL,to browse through ,to browse through 
+746,19,5,1464867271230,1464867278749,om blaadjes uit te scheuren,NULL,to tear out leaves,to tear out leaves
+747,19,5,1464867278749,1464867281214,om uit te knippen,NULL,to cut out,to cut out
+748,19,5,1464867281214,1464867289585,om mee te gooien,NULL,to throw,to throw
+749,19,5,1464867289585,1464867301270,als hoofdonderlegger,NULL,as the main foundation,as the main foundation
+750,19,5,1464867301270,1464867304206,als gatdichtstopper,NULL,as a hole stopper,as a hole stopper
+751,19,5,1464867304206,1464867315302,ter opvulling van koffer ,NULL,To fill up the case ,To fill up the case 
+752,19,5,1464867315302,1464867323348,om in te schrijven,NULL,to register,to register
+753,19,5,1464867323348,1464867328900,ter inspiratie,NULL,for inspiration,for inspiration
+845,20,5,1464868105645,1464868108028,lezen,NULL,read,read
+846,20,5,1464868108028,1464868109745,verbranden,NULL,burn,burn
+847,20,5,1464868109745,1464868122249,pagina's uitscheuren en als confetti uit het raam gooien,1,Tear out pages and throw them out the window like confetti,Tear out pages and throw them out the window like confetti
+848,20,5,1464868122249,1464868128618,schrijven,NULL,write,write
+849,20,5,1464868128618,1464868135033,iemand op het hoofd slaan,NULL,hit someone on the head,hit someone on the head
+850,20,5,1464868135033,1464868143184,hard dichtklappen als statement,NULL,clench hard as a statement,clench hard as a statement
+851,20,5,1464868143184,1464868149856,erop staan als opstapje,NULL,standing on it as a stepping stone,standing on it as a stepping stone
+852,20,5,1464868149856,1464868161816,naar beneden gooien,NULL,throw down,throw down
+853,20,5,1464868161816,1464868163973,verkopen,NULL,sell,sell
+854,20,5,1464868163973,1464868166135,kopen,NULL,Buy,Buy
+855,20,5,1464868166135,1464868179039,"als boekenstandaard aan de muur hangen, boekenkast van boeken",1,"as a book stand to hang on the wall, bookcase of books","as a book stand to hang on the wall, bookcase of books"
+856,20,5,1464868179039,1464868182583,in de kast zetten,NULL,put in the closet,put in the closet
+857,20,5,1464868182583,1464868187962,als sierobject in de kamer leggen,NULL,as an ornamental object in the room,as an ornamental object in the room
+858,20,5,1464868187962,1464868189814,verzamelen,NULL,collect,collect
+859,20,5,1464868189814,1464868192861,bibliotheek aanleggen,NULL,build a library,build a library
+860,20,5,1464868192861,1464868196846,studeren,NULL,study,study
+861,20,5,1464868196846,1464868198918,erin markeren,NULL,Mark in it,Mark in it
+862,20,5,1464868198918,1464868204917,dingen aantonen,NULL,reveal things,reveal things
+863,20,5,1464868204917,1464868210870,ernaar verwijzen,NULL,refer to it,refer to it
+864,20,5,1464868210870,1464868223222,eruit een liedje zingen,NULL,sing out a song,sing out a song
+963,23,5,1464869310997,1464869314964,onderzetter,NULL,coaster,coaster
+964,23,5,1464869314964,1464869316374,bord,NULL,board,board
+965,23,5,1464869316374,1464869322847,verfdoek,1,paint cloth,paint cloth
+966,23,5,1464869322847,1464869327192,hoed,1,hat,hat
+967,23,5,1464869327192,1464869351705,verhoging,NULL,increase,raise something
+968,23,5,1464869351705,1464869370434,"muziek maken, een soort trommel is het",NULL,"make music, a kind of drum it is","make music, a kind of drum it is"
+969,23,5,1464869370434,1464869412977,om de tafel niet schuin te karten staan,NULL,so that the table is not slanted,so that the table is not slanted
+970,23,5,1464869412977,1464869421905,als cadeau verpakking,NULL,as a gift package,as a gift package
+1052,24,5,1464872081585,1464872091775,onderzetter,1,coaster,coaster
+1100,25,5,1464945866484,1464945869943,schrift,NULL,notebook,notebook
+1101,25,5,1464945869943,1464945888350,stoel,NULL,chair,chair
+1102,25,5,1464945888350,1464945889246,tafel,NULL,table,table
+1103,25,5,1464945889246,1464945892134,onderzetter,NULL,coaster,coaster
+1104,25,5,1464945892134,1464945904685,plankje aan de muur,1,shelf on the wall,shelf on the wall
+1105,25,5,1464945904685,1464945916037,tunnel,NULL,tunnel,tunnel
+1106,25,5,1464945916037,1464945940731,wikkel,NULL,wrap,wrap
+1107,25,5,1464945940731,1464945984521,verduisteraar,1,embezzler,embezzler
+1150,26,5,1464953725938,1464953733862,steuntje voor meubelen,NULL,support for furniture,support for furniture
+1151,26,5,1464953733862,1464953758237,papier bij wijze van stressvermindering scheuren,NULL,tear up paper as a way of stress relief,tear up paper as a way of stress relief
+1152,26,5,1464953758237,1464953771692,om in te verven,NULL,to dye in,to dye in
+1153,26,5,1464953771692,1464953796218,scheiding voor in een kast,NULL,separation for in a closet,separation for in a closet
+1154,26,5,1464953796218,1464953813762,gebruiken als boekenplank,NULL,use as bookshelf,use as bookshelf
+1155,26,5,1464953813762,1464953826273,lijmen aan de muur als decoratie,NULL,gluing to the wall as decoration,gluing to the wall as decoration
+1156,26,5,1464953826273,1464953837216,boekwerpen: de sport,NULL,bookmaking: the sport,bookmaking: the sport
+1199,27,5,1464967296825,1464967308685,deurstop,NULL,doorstop,doorstop
+1200,27,5,1464967308685,1464967334396,om de tafelpoten gelijk te krijgen,1,to get the table legs even,to get the table legs even
+1201,27,5,1464967334396,1464967352931,ladder,NULL,ladder,ladder
+1202,27,5,1464967352931,1464967379297,verfrommelde papieren glad strijken,NULL,smooth out crumpled papers,smooth out crumpled papers
+1203,27,5,1464967379297,1464967410000,vuur mee maken,1,make fire with it,make fire with it
+1238,28,5,1464975595731,1464975601658,iemand mee slaan,1,whack sb.,hit someone
+1239,28,5,1464975601658,1464975616102,uit te lezen,NULL,read out,read out
+1240,28,5,1464975616102,1464975622506,uit te leren,NULL,learn from,learn from
+1241,28,5,1464975622506,1464975625774,opgavenboek,NULL,task book,task book
+1242,28,5,1464975625774,1464975694819,in tekenen,1,in drawing,in drawing
+1283,29,5,1465130253676,1465130263356,wapen,NULL,weapon,weapon
+1284,29,5,1465130263356,1465130290126,aanmaakblok,NULL,firelighter,firelighter
+1285,29,5,1465130290126,1465130315067,brandstof (open haard),1,fuel (fireplace),fuel (fireplace)
+1286,29,5,1465130315067,1465130326790,wc papier,1,toilet paper,toilet paper
+1287,29,5,1465130326790,1465130339461,onderzetter,NULL,coaster,coaster
+1342,30,5,1465153129366,1465153134758,ereader,NULL,ereader,E-reader
+1343,30,5,1465153134758,1465153154544,radio met dj die verhalen vertelt,NULL,radio with dj telling stories,radio with dj telling stories
+1344,30,5,1465153154544,1465153170083,schrift met pen,NULL,notebook with pen,notebook with pen
+1345,30,5,1465153170083,1465153178048,typemachinen met papier,NULL,typewriters with paper,typewriters with paper
+1346,30,5,1465153178048,1465153181862,tv,NULL,TV,TV
+1347,30,5,1465153181862,1465153185277,pc,NULL,pc,pc
+1348,30,5,1465153185277,1465153187885,laptop,NULL,laptop,laptop
+1349,30,5,1465153187885,1465153204843,krijtbord ,NULL,chalkboard ,chalkboard 
+1350,30,5,1465153204843,1465153216522,cd/dvd s[eler met luisterdvd,NULL,cd/dvd s[eler with listening dvd,cd/dvd player with listening dvd
+1351,30,5,1465153216522,1465153225575,uitbeelden,1,portray,portray
+1352,30,5,1465153225575,1465153233550,theater,1,theater,Create theater piece
+1353,30,5,1465153233550,1465153247001,film,NULL,film,Create film
+1399,35,5,1465156296695,1465156309888,lezen,NULL,read,read
+1400,35,5,1465156309888,1465156350010,opstapelen voor verhoging,NULL,stacking for increase,stack to raise something
+1401,35,5,1465156350010,1465156389210,op papier leggen voor gladstrijken,1,put on paper for smoothing,put on paper for smoothing
+1402,35,5,1465156389210,1465156413212,losse papiertjes vastleggen,1,capture loose papers,capture loose papers
+1453,36,5,1465159848849,1465159860967,Stapels mee bouwen,NULL,Building stacks with you,Building stacks with you
+1454,36,5,1465159860967,1465159866059,boekensteun,NULL,bookend,bookend
+1455,36,5,1465159866059,1465159885330,onderzetter,1,coaster,coaster
+1456,36,5,1465159885330,1465159905388,labyrinth mee bouwen,NULL,build a labyrinth with it,build a labyrinth with it
+1457,36,5,1465159905388,1465159929270,blz eruit scheuren en collage van maken,1,tear out a page and make a collage of it,tear out a page and make a collage of it
+1458,36,5,1465159929270,1465159965939,domino mee spelen,NULL,play dominoes with,play dominoes with
+1484,37,5,1465160198325,1465160206192,zakdoek,1,handkerchief,handkerchief
+1485,37,5,1465160206192,1465160225912,onderzetter,NULL,coaster,coaster
+1486,37,5,1465160225912,1465160288373,hoed,1,hat,hat
+1523,38,5,1465203153501,1465203169009,onderzetter,1,coaster,coaster
+1524,38,5,1465203169009,1465203185834,verhoging,NULL,increase,raise something
+1525,38,5,1465203185834,1465203233164,deurstopper,NULL,doorstop,doorstop
+1526,38,5,1465203233164,1465203263518,muurplank,1,wall shelf,wall shelf
+1559,39,5,1465210163263,1465210165602,lezen,NULL,read,read
+1560,39,5,1465210165602,1465210166938,slaan,NULL,strike,strike
+1561,39,5,1465210166938,1465210187305,om vuur aan te houden,1,to keep fire going,to keep fire going
+1562,39,5,1465210187305,1465210209911,als bouwsteen gebruiken,NULL,use as a building block,use as a building block
+1563,39,5,1465210209911,1465210234240,als kunst neerzetten,1,put down as art,put down as art
+1564,39,5,1465210234240,1465210271565,inspiratie op te doen,NULL,get inspired,get inspired
+1602,40,5,1465222028695,1465222038463,boekensteun,1,bookend,bookend
+1640,42,5,1465293776864,1465293786290,Slaan,NULL,Beat,Beat
+1641,42,5,1465293786290,1465293789176,op zitten,NULL,sit on,sit on
+1642,42,5,1465293789176,1465293796446,als kussen gebruiken ,1,use as a pillow ,use as a pillow 
+1643,42,5,1465293796446,1465293806985,gebruiken om iets op te hogen,NULL,use to elevate something,use to elevate something
+1644,42,5,1465293806985,1465293819690,als krukje gebruiken,1,use as a stool,use as a stool
+1685,43,5,1465296790998,1465296796846,boekensteun,NULL,bookend,bookend
+1686,43,5,1465296796846,1465296814205,brandstof om het vuur mee aan te houden,NULL,fuel to keep the fire going,fuel to keep the fire going
+1687,43,5,1465296814205,1465296820765,vliegtuigjes vouwen,1,folding airplanes,folding airplanes
+1688,43,5,1465296820765,1465296834653,gat er in snijden zodat het een geheime opslag wordt,1,cut a hole in it so that it becomes a secret store,cut a hole in it so that it becomes a secret store
+1689,43,5,1465296834653,1465296848653,onderzetter,NULL,coaster,coaster
+1690,43,5,1465296848653,1465296863380,wiebelende tafel mee rechtzetten,NULL,wobbly table to straighten,wobbly table to straighten
+1691,43,5,1465296863380,1465296872836,wc papier,NULL,toilet paper,toilet paper
+1731,44,5,1465318175203,1465318180733,Deurstopper,1,Doorstop,Doorstop
+1732,44,5,1465318180733,1465318207028,Brandmateriaal,1,Fire Equipment,Fire Equipment
+1733,44,5,1465318207028,1465318224784,Verhoging,NULL,Increase,raise something
+1734,44,5,1465318224784,1465318270730,Schrift,NULL,Scripture,Scripture
+1788,45,5,1465324228402,1465324232860,vuur,NULL,fire,fire
+1789,45,5,1465324232860,1465324234085,kunst,NULL,art,art
+1790,45,5,1465324234085,1465324238054,tafel ophogen,NULL,raise the table,raise the table
+1791,45,5,1465324238054,1465324241725,ruimte opvulling,1,space filling,space filling
+1792,45,5,1465324241725,1465324249589,stoer doen met een boekenkast,NULL,show off with a bookcase,show off with a bookcase
+1793,45,5,1465324249589,1465324263933,origami,NULL,origami,origami
+1794,45,5,1465324263933,1465324274764,papiersnippers voor in de surprise,NULL,paper shreds for the surprise,paper shreds for the surprise
+1795,45,5,1465324274764,1465324277652,wc papier,1,toilet paper,toilet paper
+1796,45,5,1465324277652,1465324302011,luier,NULL,diaper,diaper
+1797,45,5,1465324302011,1465324316226,chag draaie,NULL,chagrin,chagrin
+1798,45,5,1465324316226,1465324342876,gordijn,NULL,curtain,curtain
+1866,46,5,1465327388942,1465327394047,boekenlegger,NULL,bookmark,bookmark
+1867,46,5,1465327394047,1465327399734,boekenstandaard,NULL,book stand,book stand
+1868,46,5,1465327399734,1465327405310,beeldschermstandaard,NULL,monitor stand,monitor stand
+1869,46,5,1465327405310,1465327410477,deurstopper,NULL,doorstop,doorstop
+1870,46,5,1465327410477,1465327413373,wc papier,1,toilet paper,toilet paper
+1871,46,5,1465327413373,1465327429228,moordwapen,NULL,murder weapon,murder weapon
+1872,46,5,1465327429228,1465327431836,seksspeeltje,NULL,sex toy,sex toy
+1873,46,5,1465327431836,1465327472944,muismat,NULL,mouse pad,mouse pad
+1874,46,5,1465327472944,1465327476736,kussen,NULL,cushion,cushion
+1875,46,5,1465327476736,1465327479440,stoel,NULL,chair,chair
+1876,46,5,1465327479440,1465327494958,aanbeeld,1,image,image
+1877,46,5,1465327494958,1465327506781,bureau,NULL,office,office
+1937,47,5,1465333028329,1465333033958,deurstop,1,doorstop,doorstop
+1938,47,5,1465333033958,1465333038736,onderzetter,NULL,coaster,coaster
+1939,47,5,1465333038736,1465333058232,kunst om aan de muur te hangen,NULL,art to hang on the wall,art to hang on the wall
+1940,47,5,1465333058232,1465333066981,ophoging voor laptop,NULL,elevation for laptop,elevation for laptop
+1941,47,5,1465333066981,1465333101756,"als wapen, gooien",NULL,"as a weapon, throw","as a weapon, throw"
+1942,47,5,1465333101756,1465333117141,huis te bouwen voor barbies,1,build house for barbies,build house for barbies
+1943,47,5,1465333117141,1465333134825,"parasol, afschermen tegen zon",NULL,"parasol, shield from sun","parasol, shield from sun"
+1992,48,5,1465382946716,1465382977091,als pers om iets glad te krijgen,NULL,as a press to get something smooth,as a press to get something smooth
+1993,48,5,1465382977091,1465382978978,lezen,NULL,read,read
+1994,48,5,1465382978978,1465382987827,om in te schrijven,NULL,to register,to register
+1995,48,5,1465382987827,1465383005571,decoratie in kast,NULL,decoration in closet,decoration in closet
+1996,48,5,1465383005571,1465383028211,uitspaken verzamelen,1,collect spokes,collect spokes
+1997,48,5,1465383028211,1465383061697,kinderhuisje bouwen,1,build a children's house,build a children's house
+2033,49,5,1465400956055,1465400961082,deurstopper,NULL,doorstop,doorstop
+2034,49,5,1465400961082,1465400966775,waaier,1,fan,fan
+2035,49,5,1465400966775,1465400995093,brandstof,NULL,fuel,fuel
+2036,49,5,1465400995093,1465401021452,een geheimvak van knutselen,1,a secret compartment of tinkering,a secret compartment of tinkering
+2037,49,5,1465401021452,1465401060458,vliegenmepper,NULL,flyswatter,flyswatter
+2090,50,5,1465417865418,1465417878658,als het wc-papier op is gebruiken,NULL,when the toilet paper runs out use it,when the toilet paper runs out use it
+2091,50,5,1465417878658,1465417893385,leuke toren mee bouwen,NULL,nice tower to build,nice tower to build
+2092,50,5,1465417893385,1465417921168,"Een boek neerleggen daarachter twee, drie en verder.  Trapje voor de poes.",NULL,"Putting down a book behind that two, three and on.  Stairs for the kitty.","Putting down a book behind that two, three and on.  Stairs for the kitty."
+2093,50,5,1465417921168,1465417933944,koelte toewuiven,NULL,wave coolness,wave coolness
+2094,50,5,1465417933944,1465417940944,ruiten mee ingooien,NULL,smash windows with,smash windows with
+2095,50,5,1465417940944,1465417947993,dun boek: als vliegenmepper,1,thin book: as a flyswatter,thin book: as a flyswatter
+2096,50,5,1465417947993,1465417958328,een barricade bouwen op straat,NULL,build a barricade on the street,build a barricade on the street
+2097,50,5,1465417958328,1465417974864,openhouden en zo een V vormen,1,keep it open and thus form a V,keep it open and thus form a V
+2098,50,5,1465417974864,1465417980944,of een L,NULL,or an L,or an L
+2112,51,5,1465417682676,1465417699872,bladzijden eruithalen kaft,NULL,remove pages cover,remove pages cover
+2113,51,5,1465417699872,1465417714179,"een kartonnen plank, in een hoek",1,"a cardboard shelf, in a corner","a cardboard shelf, in a corner"
+2114,51,5,1465417714179,1465417726406,op je hoofd tegen de zon,1,on your head against the sun,on your head against the sun
+2115,51,5,1465417726406,1465417731401,als verhoging van iets,NULL,augment sth.,raise something
+2116,51,5,1465417731401,1465417739320,pannenonderzetter,NULL,pan coaster,pan coaster
+2117,51,5,1465417739320,1465417744264,aanmaakblokken openhaart,NULL,kindling for fireplace,kindling for fireplace
+2118,51,5,1465417744264,1465417759235,"papier kun je voor vanalles gebruiken, van hoed tot kladpapier",NULL,paper can be used for everything from hat to scrap paper,paper can be used for everything from hat to scrap paper
+2119,51,5,1465417759235,1465417772428,wapperen als waaier,NULL,blowing as a fan,blowing as a fan
+2120,51,5,1465417772428,1465417778732,voor de sier in huis,NULL,for decoration in the house,for decoration in the house
+2172,53,5,1466513240031,1466513251394,onderzetter,NULL,coaster,coaster
+2173,53,5,1466513251394,1466513252377,bord,NULL,board,board
+2174,53,5,1466513252377,1466513254426,boekensteun,1,bookend,bookend
+2175,53,5,1466513254426,1466513267152,om vuur mee aan te krijgen,1,to get fire going,to get fire going
+7257,2,5,0,0,zorgen dat papier niet weg waait,0,make sure paper doesn't blow away,make sure paper doesn't blow away
+7258,2,5,0,0,badspeeltje,0,bath toy,bath toy
+7259,2,5,0,0,bord,0,board,board
+7260,2,5,0,0,snijwapen,0,cutting weapon,cutting weapon
+7261,2,5,0,0,brandstof in de open haard,0,fuel in the fireplace,fuel in the fireplace
+7262,2,5,0,0,om te lezen,0,to read,to read
+7263,2,5,0,0,geheime boodschappen versturen,0,send secret messages,send secret messages
+7264,2,5,0,0,om mee te gooien,0,to throw,to throw
+7265,2,5,0,0,naar de kringloop,0,to the cycle,to the cycle
+7266,2,5,0,0,dobber,0,float,float
+7267,2,5,0,0,vastzetten wiebelende tafel,0,securing wobbly table,securing wobbly table
+7268,2,5,0,0,liniaal,0,ruler,ruler
+7269,2,5,0,0,yogasteen,0,yoga stone,yoga stone
+7270,2,5,0,0,bij oud papier,0,scrap paper,scrap paper
+7271,2,5,0,0,dakpan,0,roof tile,roof tile
+7272,2,5,0,0,om iets te verhogen,0,to increase sth.,raise something

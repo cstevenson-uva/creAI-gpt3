@@ -1,0 +1,274 @@
+AUT-response_id,participant_fk,stimulus_fk,starttime,endtime,response,toptwo,response_EN_translated,response_EN_corrected
+29,1,8,0,0,geluidsversterker,NULL,sound amplifier,sound amplifier
+30,1,8,0,0,huisdier,NULL,pet,pet
+31,1,8,0,0,pennenhouder,NULL,penholder,Pen holder
+32,1,8,0,0,om mee te gooien,NULL,to throw,to throw
+68,7,8,1464597939012,1464597957135,vijl,1,file,file
+69,7,8,1464597957135,1464597965375,drukpers,1,printing press,printing press
+70,7,8,1464597965375,1464597982254,om in te breken,NULL,to break in,to break in
+71,7,8,1464597982254,1464598043271,iemands hand breken,NULL,break someone's hand,break someone's hand
+72,7,8,1464598043271,1464598051912,een revolutie beginnen,NULL,start a revolution,start a revolution
+97,8,8,1464598872511,1464598874861,blikje 1,1,can 1,can 1
+98,8,8,1464598874861,1464598876651,blikje 2,1,can 2,can 2
+99,8,8,1464598876651,1464598878908,blikje 3,NULL,can 3,can 3
+100,8,8,1464598878908,1464598880882,blikje 4,NULL,can 4,can 4
+118,9,8,1464598999753,1464599002467,blikje,NULL,can of,can of
+119,9,8,1464599002467,1464599005384,blikje2,1,can2,can2
+120,9,8,1464599005384,1464599008892,blikj3,1,canj3,canj3
+163,11,8,1464608915897,1464608926955,Met de lipjes kan je een drankspel spelen,1,With the tabs you can play a drinking game,With the tabs you can play a drinking game
+164,11,8,1464608926955,1464608942011,"Met het blik zelf kan je een mes maken, mocht je een kapotte hebben",1,"With the can itself you can make a knife, should you have a broken one","With the can itself you can make a knife, should you have a broken one"
+165,11,8,1464608942011,1464608964907,In een blikje kan je dingen bewaren (maar dat is ook wel een beetje z'n oorspronkelijke toepassing),NULL,In a can you can store things (but that's also kind of its original use),In a can you can store things (but that's also kind of its original use)
+166,11,8,1464608964907,1464608985388,Je kan er een gewicht van maken door het te vullen met aarde.,NULL,You can make it a weight by filling it with soil.,You can make it a weight by filling it with soil.
+167,11,8,1464608985388,1464608994181,(zodat iets niet wegwaait),NULL,(so that something doesn't blow away),(so that something doesn't blow away)
+229,12,8,1464696219539,1464696232872,tandenborstel houder,NULL,toothbrush holder,toothbrush holder
+230,12,8,1464696232872,1464696277761,een kauwgum bakje,1,a chewing gum tray,a chewing gum tray
+231,12,8,1464696277761,1464696279883,een vaasjr,NULL,a vasejr,a vase
+232,12,8,1464696279883,1464696286692,een wapen,NULL,a weapon,a weapon
+233,12,8,1464696286692,1464696336923,raketmotor,1,rocket motor,rocket motor
+276,13,8,1464697212194,1464697220725,pennendoos,NULL,pen box,pen box
+277,13,8,1464697220725,1464697227266,tandeborstel houder,NULL,toothbrush holder,toothbrush holder
+278,13,8,1464697227266,1464697230050,bloempot,NULL,flowerpot,flowerpot
+279,13,8,1464697230050,1464697233225,glas,NULL,glass,glass
+280,13,8,1464697233225,1464697242652,bakje om dingen in te bewaren,NULL,container to keep things in,container to keep things in
+281,13,8,1464697242652,1464697252783,een telefoon,1,a phone,a phone
+282,13,8,1464697252783,1464697278647,als je er gaatjes in prikt kan je het als douchekop gebruiken,1,if you poke holes in it you can use it as a shower head,if you poke holes in it you can use it as a shower head
+283,13,8,1464697278647,1464697283868,als wapen,NULL,as a weapon,as a weapon
+284,13,8,1464697283868,1464697317977,het raam open houden,NULL,keep the window open,keep the window open
+375,14,8,1464780210932,1464780215077,iets uit drinken,NULL,draught sth.,to drink from
+376,14,8,1464780215077,1464780222340,achter je auto hangen als je gaat trouwen,NULL,hang behind your car when you get married,hang behind your car when you get married
+377,14,8,1464780222340,1464780234867,"gebruiken als telefoon (je weet wel, met zo'n touwtje er tussen) ",NULL,"Use as a phone (you know, with one of those strings in between) ","Use as a phone (you know, with one of those strings in between) "
+378,14,8,1464780234867,1464780239989,muziek mee maken/geluid maken,NULL,make music/sound with it,make music/sound with it
+379,14,8,1464780239989,1464780246991,tegen iemands hoofd aan gooien (wapen),NULL,throwing against someone's head (weapon),throwing against someone's head (weapon)
+380,14,8,1464780246991,1464780254963,gebruiken in een kunstwerk ,NULL,use in a work of art ,use in a work of art 
+381,14,8,1464780254963,1464780263599,gebruiken als sieradendoosje,NULL,use as jewelry box,use as jewelry box
+382,14,8,1464780263599,1464780274274,platstampen en gebruiken bij ijshockey ,1,crush and use in ice hockey ,crush and use in ice hockey 
+383,14,8,1464780274274,1464780294153,het labeltje eraf halen en daar een oorbel van maken,NULL,take off the label and make an earring out of it,take off the label and make an earring out of it
+384,14,8,1464780294153,1464780304061,het labeltje gebruiken en daar iets mee snijden (want het is scherp),NULL,use the label and cut something with it (because it is sharp),use the label and cut something with it (because it is sharp)
+385,14,8,1464780304061,1464780311637,als opvanger voor de regen als het lekt,NULL,as a catch for the rain when it leaks,as a catch for the rain when it leaks
+386,14,8,1464780311637,1464780315487,als vaasje,NULL,as a vase,as a vase
+387,14,8,1464780315487,1464780324355,als kaarsenhouder,1,as a candle holder,as a candle holder
+450,15,8,1464785545037,1464785553181,spiegel,NULL,mirror,mirror
+451,15,8,1464785553181,1464785558498,autootje,NULL,car,car
+452,15,8,1464785558498,1464785560159,speelgoed,NULL,toys,toys
+453,15,8,1464785560159,1464785566713,sieraad,NULL,jewelry,jewelry
+454,15,8,1464785567043,1464785586326,behang (als je er maar gneoeg naast elkaar plakt),NULL,wallpaper (as long as you stick enough next to each other),wallpaper (as long as you stick enough next to each other)
+455,15,8,1464785586326,1464785604360,gooimateriaal,NULL,throwing equipment,throwing equipment
+456,15,8,1464785604360,1464785609286,mes,1,knife,knife
+457,15,8,1464785609286,1464785625841,sleutelhanger (met het klipje van het blikje),NULL,key ring (with the clip from the can),key ring (with the clip from the can)
+458,15,8,1464785625841,1464785639669,rammelaar (klipje in blikje),NULL,rattle (clip in tin),rattle (clip in tin)
+459,15,8,1464785639669,1464785651347,kunst,1,art,art
+460,15,8,1464785651347,1464785660023,denk aan andy warhole,NULL,think andy warhole,Remember andy warhole
+513,16,8,1464787953975,1464787957859,kunst,1,art,art
+514,16,8,1464787957859,1464787971331,speelgoed,NULL,toys,toys
+515,16,8,1464787971331,1464787983298,onderzetter,1,coaster,coaster
+516,16,8,1464787983298,1464788040182,ketting,NULL,chain,chain
+517,16,8,1464788040182,1464788041430,slingers,NULL,garlands,garlands
+596,17,8,1464797135140,1464797144112,een draadtelefoon maken,1,make a wired phone,make a wired phone
+597,17,8,1464797144112,1464797148912,het vertrappen,NULL,trampling,trampling
+598,17,8,1464797148912,1464797151808,gooien,NULL,throw,throw
+599,17,8,1464797151808,1464797152552,vangen,NULL,catch,catch
+600,17,8,1464797152552,1464797154024,begraven,NULL,buried,buried
+601,17,8,1464797154024,1464797155031,opgaven,NULL,tasks,tasks
+602,17,8,1464797155031,1464797156159,neerleggen,NULL,Lay down,Lay down
+603,17,8,1464797156159,1464797157839,oprapen,NULL,pick up,pick up
+604,17,8,1464797157839,1464797163175,een toren van blikjes maken,NULL,make a tower out of cans,make a tower out of cans
+605,17,8,1464797163175,1464797169207,een ruit ermee ingooien,NULL,smash a window with it,smash a window with it
+606,17,8,1464797169207,1464797181710,met een bal tegen een stapel blikken gooien,NULL,throwing a ball against a pile of cans,throwing a ball against a pile of cans
+607,17,8,1464797181710,1464797185495,er een lamp van maken,1,turn it into a lamp,turn it into a lamp
+608,17,8,1464797185495,1464797191462,er een ventilator van maken,NULL,make it a fan,make it a fan
+609,17,8,1464797191462,1464797198350,er een bekerhouder van maken,NULL,turn it into a cup holder,turn it into a cup holder
+610,17,8,1464797198350,1464797219437,afval ingooien,NULL,litter,litter
+611,17,8,1464797219437,1464797226484,eruit drinken,NULL,drink from it,drink from it
+680,18,8,1464799654997,1464799666969,de straat mee vervuilen ,NULL,pollute the streets ,pollute the streets 
+681,18,8,1464799666969,1464799675977,recycelen ,NULL,recycle ,recycle 
+682,18,8,1464799675977,1464799683120,een ketting van maken ,1,necklace it ,necklace it 
+683,18,8,1464799683120,1464799694951,met het lipje van een blikje een jurkje/ shirtje maken ,1,using the tab of a can to make a dress/shirt ,using the tab of a can to make a dress/shirt 
+684,18,8,1464799694951,1464799713318,het alaminuim gebruiken voor bakjes maken ,NULL,use the alum for making trays ,use the alum for making trays 
+685,18,8,1464799713318,1464799723230,gebruiken om met kinderen te knutselen \,NULL,Use to do crafts with children.,Use to do crafts with children.
+789,19,8,1464867583590,1464867587603,drinken,NULL,drink,drink
+790,19,8,1464867587603,1464867590835,om proberen kapot te maken,NULL,to try to destroy,to try to destroy
+791,19,8,1464867590835,1464867594923,als voorbeeld van afval,NULL,as an example of waste,as an example of waste
+792,19,8,1464867594923,1464867598563,om weg te gooien,NULL,to throw away,to throw away
+793,19,8,1464867598563,1464867602363,zo mooi mogelijk versieren,NULL,decorate as nicely as possible,decorate as nicely as possible
+794,19,8,1464867602363,1464867609690,als spel om om te schieten,1,as a game to shoot for,as a game to shoot for
+795,19,8,1464867609690,1464867624634,ter positie aanduiding (strategie bespreken),NULL,to indicate position (discuss strategy),to indicate position (discuss strategy)
+796,19,8,1464867624634,1464867627842,aanduiden van een bepaald punt,NULL,designating a certain point,designating a certain point
+797,19,8,1464867627842,1464867632394,wie het verst kan gooien,NULL,who can throw the farthest,who can throw the farthest
+798,19,8,1464867632394,1464867639345,wie het verst kan schieten,NULL,who can shoot the farthest,who can shoot the farthest
+799,19,8,1464867639345,1464867648849,wie met zn buik het blikje naar de lijn kan bewegen,NULL,who can move the can to the line with his belly,who can move the can to the line with his belly
+800,19,8,1464867648849,1464867662160,tussen twee buiken het blikje naar een andere kant toebrengen,1,between two bellies bring the can to another side,between two bellies bring the can to another side
+801,19,8,1464867662160,1464867670065,"vullen met water, om water te verplaatsen",NULL,"fill with water, to move water","fill with water, to move water"
+802,19,8,1464867670065,1464867676832,gaatjes in prikken,NULL,Puncture holes,Puncture holes
+803,19,8,1464867676832,1464867686248,versieren zo mooi mogelijk,NULL,decorate as nicely as possible,decorate as nicely as possible
+804,19,8,1464867686248,1464867695071,een kaarsje erin doen ter sfeerverlichting,NULL,put in a candle for mood lighting,put in a candle for mood lighting
+886,20,8,1464868472151,1464868475358,eruit drinken,NULL,drink from it,drink from it
+887,20,8,1464868475358,1464868480310,het recyclen,NULL,recycling,recycling
+888,20,8,1464868480310,1464868482982,ermee gooien,NULL,toss it,toss it
+889,20,8,1464868482982,1464868486782,reclame erop maken,NULL,advertise on it,advertise on it
+890,20,8,1464868486782,1464868491583,het natekenen,NULL,tracing,tracing
+891,20,8,1464868491583,1464868499110,het kleindrukken,NULL,smallprinting,squash it
+892,20,8,1464868499110,1464868505180,verzamelen voor statiegeld ,NULL,collect for deposit ,collect for recycling
+893,20,8,1464868505180,1464868515404,openen,NULL,open,open it
+894,20,8,1464868515404,1464868527005,wespen ermee vangen als je er cola in doet,1,catch wasps with it if you put cola in it,catch wasps with it if you put cola in it
+895,20,8,1464868527005,1464868533628,meenemen voor onderweg,NULL,take along for the ride,take along for the ride
+896,20,8,1464868533628,1464868543204,schudden voor openen,NULL,shake before opening,shake before opening
+897,20,8,1464868543204,1464868548723,koelen,NULL,cooling,cooling
+898,20,8,1464868548723,1464868566819,telefoon van maken met lijn ertussen,1,turn it into a telephone with a line in between,turn it into a telephone with a line in between
+899,20,8,1464868566819,1464868579326,erop lopen als stelten met touw eraan voor kinderen,NULL,walking on it like stilts with rope attached for children,walking on it like stilts with rope attached for children
+900,20,8,1464868579326,1464868588225,omver gooien op de kermis,NULL,knocking over at the fairground,knocking over at the fairground
+1011,23,8,1464869677612,1464869689481,lunchbakje,NULL,lunch tray,lunch tray
+1012,23,8,1464869689481,1464869693439,afvalbak,NULL,waste bin,waste bin
+1013,23,8,1464869693439,1464869700829,muziek mee maken,NULL,make music with it,make music with it
+1014,23,8,1464869700829,1464869719675,"met touw eraan en dan iets doorgeven, praten erdoor",NULL,"with rope attached and then pass something, talking through it","with rope attached and then pass something, talking through it"
+1015,23,8,1464869719675,1464869723527,handtas,NULL,handbag,handbag
+1016,23,8,1464869723527,1464869739467,als grote ketting 'steen' ,NULL,as a large chain 'stone ,as a large chain 'stone 
+1017,23,8,1464869739467,1464869752022,zodat de deur niet dichtvalt,NULL,so that the door does not close,so that the door does not close
+1018,23,8,1464869752022,1464869759461,plantenbak,NULL,planter,planter
+1019,23,8,1464869759461,1464869770660,voorraaddoos,NULL,storage box,storage box
+1020,23,8,1464869770660,1464869781044,verrekijker (met lens erin),1,binoculars (with lens in them),binoculars (with lens in them)
+1021,23,8,1464869781044,1464869790625,om je haar in een knot te doen erom heen,1,to put your hair in a bun around it,to put your hair in a bun around it
+1027,22,8,1464869852489,1464869873412,pennenbakje,NULL,pen tray,pen tray
+1028,22,8,1464869873412,1464869891502,klosjes achter je fiets binden,1,Tie bobbins behind your bicycle,Tie bobbins behind your bicycle
+1029,22,8,1464869891502,1464869896422,waxinelichtje,NULL,tea light,tea light
+1030,22,8,1464869896422,1464869906190,lampje van maken,1,turn it into a lamp,turn it into a lamp
+1031,22,8,1464869906190,1464869945402,erop zitten als kruk,NULL,sitting on it as a crutch,sitting on it as a crutch
+1032,22,8,1464869945402,1464869962984,erop staan als podium (groot blik),NULL,standing on it as a stage (large can),standing on it as a stage (large can)
+1062,24,8,1464872447589,1464872475169,achter een auto binden bij een pas getrouwd stel,1,tying behind a car at a newlywed couple's house,tying behind a car at a newlywed couple's house
+1063,24,8,1464872475169,1464872541983,"je kunt het gebruiken voor creatieve projecten, sinterklaassurprises enzo",1,"you can use it for creative projects, sinterklaas surprises and so on","you can use it for creative projects, sinterklaas surprises and so on"
+1064,24,8,1464872541983,1464872562294,om dingen in op te bergen,NULL,to store things in,to store things in
+1121,25,8,1464946288380,1464946292040,bal,NULL,ball,ball
+1122,25,8,1464946292040,1464946300688,elektriciteitsgeleider,NULL,electrical conductor,electrical conductor
+1123,25,8,1464946300688,1464946338245,als telefoon met twee blikjes en een touwtje,NULL,as a telephone with two cans and a string,as a telephone with two cans and a string
+1124,25,8,1464946338245,1464946355532,soepkom,NULL,soup bowl,soup bowl
+1125,25,8,1464946355532,1464946366508,trommel,NULL,drum,drum
+1126,25,8,1464946366508,1464946372195,muziekinstrument,NULL,musical instrument,musical instrument
+1127,25,8,1464946372195,1464946394946,bril: twee blikjes met de onderkant eruit,1,glasses: two cans with the bottom out,glasses: two cans with the bottom out
+1128,25,8,1464946394946,1464946404194,tunnel voor mieren of andere kleine dieren,1,tunnel for ants or other small animals,tunnel for ants or other small animals
+1169,26,8,1464954094781,1464954109137,weggooien,NULL,throw away,throw away
+1170,26,8,1464954109137,1464954129600,openknippen en sierraad van maken,NULL,cut open and make into jewelry,cut open and make into jewelry
+1171,26,8,1464954129600,1464954151735,als lampenkap,NULL,as a lampshade,as a lampshade
+1172,26,8,1464954151735,1464954171542,een bierblikje? of voedselconserven?,NULL,a beer can? or canned food?,a beer can? or canned food?
+1173,26,8,1464954171542,1464954182149,mee bellen,NULL,ring with,ring with
+1174,26,8,1464954182149,1464954196533,kooi van farraday maken,NULL,make farraday cage,make farraday cage
+1214,27,8,1464967663797,1464967685897,target practice,NULL,target practice,target practice
+1215,27,8,1464967685897,1464967721223,mes (eerst open scheuren),1,knife (tear open first),knife (tear open first)
+1216,27,8,1464967721223,1464967738302,hoofddeksel,NULL,headgear,headgear
+1217,27,8,1464967738302,1464967754493,neptelefoon,1,fake phone,fake phone
+1256,28,8,1464975986350,1464975994137,om uit te drinken,NULL,to drink from,to drink from
+1257,28,8,1464975994137,1464975997281,als voetbal,1,as soccer,as soccer
+1258,28,8,1464975997281,1464976038513,"blik in de water, moet je echt op youtube opzoeken!!",NULL,"can in the water, you should really look it up on youtube!!!","can in the water, you should really look it up on youtube!!!"
+1259,28,8,1464976038513,1464976075684,afval,1,waste,waste
+1299,29,8,1465130622620,1465130635726,wapen,1,weapon,weapon
+1300,29,8,1465130635726,1465130669508,bowlen,1,bowling,bowling
+1372,30,8,1465153494772,1465153520234,plasic bakje met deksel,NULL,plasic container with lid,plastic container with lid
+1373,30,8,1465153520234,1465153528738,pan met deksel,NULL,pan with lid,pan with lid
+1374,30,8,1465153528738,1465153538776,pot met deksel,NULL,pot with lid,pot with lid
+1375,30,8,1465153538776,1465153541475,thermoskan,NULL,thermos,thermos
+1376,30,8,1465153541475,1465153552719,fles,NULL,bottle,bottle
+1377,30,8,1465153552719,1465153562213,drinkpak,NULL,drink suit,drink suit
+1378,30,8,1465153562213,1465153588024,plastic zakje die je kan afsluiten,1,plastic bag that you can close,plastic bag that you can close
+1379,30,8,1465153588024,1465153608685,aluminium folie in eenpuntzakje vouwen,1,folding aluminum foil into a pointy bag,folding aluminum foil into a pointy bag
+1411,35,8,1465156667876,1465156688134,speelgoed ervan maken,NULL,make it a toy,make it a toy
+1412,35,8,1465156688134,1465156707384,als rammelaar gebruiken,NULL,use as a rattle,use as a rattle
+1413,35,8,1465156707384,1465156728266,ermee voetballen,1,play soccer with it,play soccer with it
+1414,35,8,1465156728266,1465156753909,spullen in bewaren,1,store items,store items
+1487,36,8,1465160219940,1465160242065,Platslaan en voorwerpen van maken,1,Flattening and making objects out of them,Flattening and making objects out of them
+1488,36,8,1465160242065,1465160264714,speelgoed mee maken voor onder je voeten,NULL,Make toys for your feet,Make toys for your feet
+1489,36,8,1465160264714,1465160271449,jojo van maken,NULL,make yo-yo,make yo-yo
+1490,36,8,1465160271449,1465160280561,vullen,NULL,fill,fill
+1491,36,8,1465160280561,1465160291027,ketting van de lipjes,1,chain of the tabs,chain of the tabs
+1492,36,8,1465160291027,1465160311709,gebruien als versteviging van muren oid,NULL,Use as reinforcement for walls etc.,Use as reinforcement for walls etc.
+1503,37,8,1465160568352,1465160596543,decoratie,NULL,decoration,decoration
+1504,37,8,1465160596543,1465160628895,voetbal,1,soccer,soccer
+1505,37,8,1465160628895,1465160652652,instrument,1,instrument,instrument
+1533,38,8,1465203520608,1465203544388,muziek maken,1,make music,make music
+1534,38,8,1465203544388,1465203552892,als asbak gebruiken,NULL,use as an ashtray,use as an ashtray
+1535,38,8,1465203552892,1465203582054,schietobject,NULL,shooting object,shooting object
+1536,38,8,1465203582054,1465203601375,kaarsenstandaard,1,candlestick,candlestick
+1575,39,8,1465210672288,1465210678225,om uit te drinken,NULL,to drink from,to drink from
+1576,39,8,1465210678225,1465210684111,om tegen aan te schoppen,1,to kick against,to kick against
+1577,39,8,1465210684111,1465210700616,om dingen in te bewaren,NULL,to keep things in,to keep things in
+1578,39,8,1465210700616,1465210776293,bloemen in te zetten,1,flowers to deploy,flowers to deploy
+1609,40,8,1465222397031,1465222407030,blikjes gooien,NULL,can toss,can toss
+1610,40,8,1465222407030,1465222446873,aan een zwerver geven die blikjes ophaalt,1,give to a vagrant who collects cans,give to a vagrant who collects cans
+1611,40,8,1465222446873,1465222468092,achter de huwelijksauto hangen,NULL,hang behind the wedding car,hang behind the wedding car
+1612,40,8,1465222468092,1465222481048,hergebruiken,1,reuse,reuse
+1656,42,8,1465294148216,1465294200215,Op staan,NULL,On standing,On standing
+1708,43,8,1465297167150,1465297171489,auto vouwen,NULL,car folding,car folding
+1709,43,8,1465297171489,1465297190585,heet maken en mee koken/bakken,1,Make hot and cook with it/bake,Make hot and cook with it/bake
+1710,43,8,1465297190585,1465297200137,sierraad,NULL,jewelry,jewelry
+1711,43,8,1465297200137,1465297217361,voetbal,NULL,soccer,soccer
+1712,43,8,1465297217361,1465297219600,hockeypuk,NULL,hockeypuk,Hockey puck
+1713,43,8,1465297219600,1465297261753,scherpe kant gebruiken om papier te snijden,1,use sharp edge to cut paper,use sharp edge to cut paper
+1714,43,8,1465297261753,1465297270968,instrument,NULL,instrument,instrument
+1715,43,8,1465297270968,1465297280584,bakje,NULL,tray,tray
+1745,44,8,1465318541283,1465318577190,Voetballen,1,Soccer balls,Soccer balls
+1746,44,8,1465318577190,1465318642506,"Twee blikjes en een touwtje erdoor om te ""telefoneren""",1,"Two cans and a string through them to ""make phone calls""","Two cans and a string through them to ""make phone calls"""
+1813,45,8,1465324607968,1465324612971,kunst,NULL,art,art
+1814,45,8,1465324612971,1465324621067,vaas,NULL,vase,vase
+1815,45,8,1465324621067,1465324649706,asbak,1,ashtray,ashtray
+1816,45,8,1465324649706,1465324695274,bieropener,1,beer opener,beer opener
+1817,45,8,1465324695274,1465324708849,wateropvanger,NULL,water collector,water collector
+1903,46,8,1465327756581,1465327762752,deurstopper,1,doorstop,doorstop
+1904,46,8,1465327762752,1465327766415,benzinetank,NULL,gasoline tank,gasoline tank
+1905,46,8,1465327766415,1465327772702,chemisch afvalvat,NULL,chemical waste drum,chemical waste drum
+1906,46,8,1465327772702,1465327785621,opslag tank,NULL,storage tank,storage tank
+1907,46,8,1465327785621,1465327794477,kraan,NULL,crane,crane
+1908,46,8,1465327794477,1465327800300,douche kop,NULL,shower head,shower head
+1909,46,8,1465327800300,1465327805076,telefoonhoesje,1,phone case,phone case
+1910,46,8,1465327805076,1465327820506,elektrische verbinding,NULL,electrical connection,electrical connection
+1911,46,8,1465327820506,1465327826194,kunstwerk,NULL,artwork,artwork
+1912,46,8,1465327826194,1465327836977,seksspeeltje,NULL,sex toy,sex toy
+1913,46,8,1465327836977,1465327839465,moordwapen,NULL,murder weapon,murder weapon
+1957,47,8,1465333391878,1465333397438,plantenbak,1,planter,planter
+1958,47,8,1465333397438,1465333411324,opslag pennen,NULL,storage pens,storage pens
+1959,47,8,1465333411324,1465333416828,kaarshouder,NULL,candle holder,candle holder
+1960,47,8,1465333416828,1465333436822,kopje,NULL,cup,cup
+1961,47,8,1465333436822,1465333443315,als kom,NULL,as a bowl,as a bowl
+1962,47,8,1465333443315,1465333459420,spaarpot,1,money box,money box
+1963,47,8,1465333459420,1465333480996,"afwas ""droger"" voor bestek",NULL,"washing up ""dryer"" for cutlery","washing up ""dryer"" for cutlery"
+1964,47,8,1465333480996,1465333496072,viskom,NULL,fishbowl,fishbowl
+1965,47,8,1465333496072,1465333511132,achter auto,NULL,behind car,behind car
+2013,48,8,1465383314764,1465383334418,speelgoed maken (auto),1,make toys (car),make toys (car)
+2014,48,8,1465383334418,1465383340433,mee snijden,NULL,include cutting,include cutting
+2015,48,8,1465383340433,1465383355905,boot mee dichtmaken die lekt,NULL,seal the boat that is leaking,seal the boat that is leaking
+2016,48,8,1465383355905,1465383371746,water verzamelen,NULL,water collection,water collection
+2017,48,8,1465383371746,1465383384322,auto mee maken,1,make a car with it,make a car with it
+2018,48,8,1465383384322,1465383399154,wasbak van maken,NULL,make a washbasin,make a washbasin
+2019,48,8,1465383399154,1465383411297,plantenbak,NULL,planter,planter
+2046,49,8,1465401324147,1465401368745,ijsvormpje,1,ice cream mold,ice cream mold
+2134,50,8,1465418233279,1465418238522,mee voetballen,NULL,play soccer,play soccer
+2135,50,8,1465418238522,1465418256696,"schudden, openen en lekker coladouchen",1,"shake, open and enjoy a cola shower","shake, open and enjoy a cola shower"
+2136,50,8,1465418256696,1465418288097,in een muizenhol stoppen zodat die etters er niet meer uit kunnen komen,NULL,put in a mouse hole so that those bastards can't get out,put in a mouse hole so that those bastards can't get out
+2137,50,8,1465418288097,1465418300649,rollen als bowlingbal,NULL,rolling as a bowling ball,rolling as a bowling ball
+2138,50,8,1465418300649,1465418315160,gebruiken als ijshockeypuck,NULL,use as an ice hockey puck,use as an ice hockey puck
+2139,50,8,1465418315160,1465418330344,"vier blikjes op hun zij, plank erop en skateboarden",1,"four cans on their sides, board on them and skateboarding","four cans on their sides, board on them and skateboarding"
+2140,50,8,1465418330344,1465418344681,als haltertjes gebruiken,NULL,use as dumbbells,use as dumbbells
+2148,51,8,1465418047913,1465418060172,tegen aan tikken voor muziek,NULL,tap against it for music,tap against it for music
+2149,51,8,1465418060172,1465418071162,gebruiken als bal voor spelletjes zoals voetbal,NULL,use as a ball for games such as soccer,use as a ball for games such as soccer
+2150,51,8,1465418071162,1465418099299,filmen als sfeer in buurt,NULL,filming as atmosphere in neighborhood,filming as atmosphere in neighborhood
+2151,51,8,1465418099299,1465418115374,hand trainen door verkreukelen,NULL,hand training by crumpling,hand training by crumpling
+2152,51,8,1465418115374,1465418124849,werpen,NULL,pitching,pitching
+2153,51,8,1465418124849,1465418132526,"wespenvangen, een val",NULL,"wasp trap, a trap","wasp trap, a trap"
+2154,51,8,1465418132526,1465418144265,in tuin tegen katten,NULL,in garden against cats,in garden against cats
+2155,51,8,1465418144265,1465418150630,"scherp, snijden",1,"sharp, cutting","sharp, cutting"
+2156,51,8,1465418150630,1465418162246,"rollen, deeg rollen of iets anders",1,"rolling, rolling dough or something else","rolling, rolling dough or something else"
+2182,53,8,1466513624656,1466513633754,pennehouder,1,pen holder,pen holder
+2183,53,8,1466513633754,1466513648861,vaderdagcadeau,1,father's day gift,father's day gift
+2184,53,8,1466513648861,1466513651467,versieren,NULL,decorate,decorate
+7305,2,8,0,0,zwembad voor mieren,0,pool for ants,pool for ants
+7306,2,8,0,0,pennenhouder,0,penholder,pen holder
+7307,2,8,0,0,lipje wegschieten,0,tab off,tab off
+7308,2,8,0,0,camera statief,0,camera tripod,camera tripod
+7309,2,8,0,0,ijshockey-puck,0,ice hockey puck,ice hockey puck
+7310,2,8,0,0,magneet testen,0,magnet testing,magnet testing
+7311,2,8,0,0,verzamelen,0,collect,collect
+7312,2,8,0,0,stapelen,0,stacking,stacking
+7313,2,8,0,0,hoedje,0,hat,hat
+7314,2,8,0,0,uit drinken,0,from drinking,from drinking
+7315,2,8,0,0,behang,0,wallpaper,wallpaper
+7316,2,8,0,0,rollen,0,rolls,rolls
+7317,2,8,0,0,spaarpot,0,money box,money box
+7318,2,8,0,0,stoelbekleding,0,seat cover,seat cover
+7319,2,8,0,0,reflector op fiets,0,reflector on bicycle,reflector on bicycle
+7320,2,8,0,0,asbak,0,ashtray,ashtray

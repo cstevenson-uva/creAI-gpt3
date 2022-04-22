@@ -1,0 +1,276 @@
+AUT-response_id,participant_fk,stimulus_fk,starttime,endtime,response,toptwo,response_EN_translated,response_EN_corrected
+5,1,2,0,0,hefboom,NULL,lever,lever
+6,1,2,0,0,moordwapen,NULL,murder weapon,murder weapon
+7,1,2,0,0,badspeeltje,NULL,bath toy,bath toy
+8,1,2,0,0,vuur mee maken,NULL,make fire with it,make fire with it
+38,7,2,1464597939012,1464597957135,vijl,1,file,file
+39,7,2,1464597957135,1464597965375,drukpers,1,printing press,printing press
+40,7,2,1464597965375,1464597982254,om in te breken,NULL,to break in,to break in
+41,7,2,1464597982254,1464598043271,iemands hand breken,NULL,break someone's hand,break someone's hand
+42,7,2,1464598043271,1464598051912,een revolutie beginnen,NULL,start a revolution,start a revolution
+77,8,2,1464598804909,1464598806762,vork 1,1,fork 1,fork 1
+78,8,2,1464598806762,1464598807994,vork 2,1,fork 2,fork 2
+79,8,2,1464598807994,1464598809094,vork 3,NULL,fork 3,fork 3
+80,8,2,1464598809094,1464598810323,vork 4,NULL,fork 4,fork 4
+103,9,2,1464598925779,1464598927337,kam,1,comb,comb
+104,9,2,1464598927337,1464598930230,haarkam,NULL,hair comb,hair comb
+105,9,2,1464598930230,1464598933314,steekmiddel,1,stitching agent,stitching agent
+127,11,2,1464608190321,1464608208998,Als kabelgootje,NULL,As cable tray,As cable tray
+128,11,2,1464608208998,1464608239650,Als je vork erg stevig is kan je hem gebruiken als haring,NULL,If your fork is very sturdy you can use it as a herring,If your fork is very sturdy you can use it as a herring
+129,11,2,1464608239650,1464608252537,Of om andere draden mee in een positie te houden,1,Or to hold other wires in a position with,Or to hold other wires in a position with
+130,11,2,1464608252537,1464608269820,Je kan iemand verwonden met een vork (lijkt me moeizaam),NULL,You can injure someone with a fork (seems laborious to me),You can injure someone with a fork (seems laborious to me)
+131,11,2,1464608269820,1464608280440,Of je naam in een muur krassen,NULL,Or scratch your name into a wall,Or scratch your name into a wall
+132,11,2,1464608280440,1464608300535,Als je hem buigt door verhitting kan je er een armband van maken,1,If you bend it by heating it you can make a bracelet out of it,If you bend it by heating it you can make a bracelet out of it
+173,12,2,1464695476175,1464695481310,een mes,NULL,a knife,a knife
+174,12,2,1464695481310,1464695484302,een lepel,NULL,a spoon,a spoon
+175,12,2,1464695484302,1464695489944,een krabber,NULL,a scraper,a scraper
+176,12,2,1464695489944,1464695497079,een schroevendraaier,NULL,a screwdriver,a screwdriver
+177,12,2,1464695497079,1464695508574,behangafhaalding,NULL,wallpaper pickup,wallpaper pickup
+178,12,2,1464695508574,1464695519883,een steekwapen,NULL,a stabbing weapon,a stabbing weapon
+179,12,2,1464695519883,1464695534813,een kapstok voor barbiekleren,NULL,a coat rack for barbie clothes,a coat rack for barbie clothes
+180,12,2,1464695534813,1464695545111,een bezem,NULL,a broom,a broom
+181,12,2,1464695545111,1464695552817,een tandenborstel,1,a toothbrush,a toothbrush
+182,12,2,1464695552817,1464695561031,een perforator,NULL,a hole punch,a hole punch
+183,12,2,1464695561031,1464695572148,breistokjes,1,knitting sticks,knitting sticks
+240,13,2,1464696482431,1464696486836,een kam,NULL,a comb,a comb
+241,13,2,1464696486836,1464696517286,je kan een vork ombuigen en aan de muur schroeven om er vervolgens een hangplant aan te hangen,1,you can bend a fork and screw it to the wall and then hang a hanging plant from it,you can bend a fork and screw it to the wall and then hang a hanging plant from it
+242,13,2,1464696517286,1464696536821,je kan de tanden van een vork zo buigen dat het een standaard wordt voor naamkaartjes aan een tafel,1,you can bend the tines of a fork so that it becomes a stand for name tags at a table,you can bend the tines of a fork so that it becomes a stand for name tags at a table
+243,13,2,1464696536821,1464696554649,als hark om de tuin mee te harken,NULL,as a rake for raking the garden,as a rake for raking the garden
+244,13,2,1464696554649,1464696558495,als sleutel ,NULL,as the key ,as the key 
+245,13,2,1464696558495,1464696575727,je kan het raam open houden met een vork zodat het niet dichtwaait ,NULL,you can hold the window open with a fork so it doesn't blow shut ,you can hold the window open with a fork so it doesn't blow shut 
+246,13,2,1464696575727,1464696601401,wapen,NULL,weapon,weapon
+301,14,2,1464779468224,1464779470212,eten,NULL,food,food
+302,14,2,1464779470212,1464779473676,gaatjes maken,NULL,bob,bob
+303,14,2,1464779473676,1464779478478,geluid maken,NULL,make noise,make noise
+304,14,2,1464779478478,1464779486489,om in je haar te doen om je knotje mee vast te houden,NULL,To put in your hair to hold your bun,To put in your hair to hold your bun
+305,14,2,1464779486489,1464779499722,iets kerven in hout/steen o.i.d.,NULL,carve something in wood/stone or the like.,carve something in wood/stone or the like.
+306,14,2,1464779499722,1464779504483,je haar mee kammen,1,comb your hair,comb your hair
+307,14,2,1464779504483,1464779516480,als wapen gebruiken,NULL,rifle,rifle
+308,14,2,1464779516480,1464779527382,snijden (ipv een mes),NULL,cutting (instead of a knife),cutting (instead of a knife)
+309,14,2,1464779527382,1464779546896,als tandenstoker,NULL,as a toothpick,as a toothpick
+310,14,2,1464779546896,1464779559242,krabben op je rug,NULL,scratching your back,scratching your back
+311,14,2,1464779559242,1464779567064,vuil onder je nagels vandaan halen,1,get dirt from under your nails,get dirt from under your nails
+395,15,2,1464784811242,1464784814943,borstel,1,brush,brush
+396,15,2,1464784814943,1464784821245,onkruidwieder,NULL,weed whacker,weed whacker
+397,15,2,1464784821245,1464784825649,rugkrabber,1,back scraper,back scraper
+398,15,2,1464784825649,1464784833507,prikstok voor vuilnis,NULL,stick for garbage,stick for garbage
+399,15,2,1464784833507,1464784853723,katapult voor het schieten van eten,NULL,catapult for shooting food,catapult for shooting food
+400,15,2,1464784853723,1464784865310,houder voor je punnikwerkje,NULL,holder for your punk work,holder for your punk work
+401,15,2,1464784865310,1464784881171,puntjesprikker in papier,NULL,paper puncture,paper puncture
+402,15,2,1464784881171,1464784905048,figurenmaker in deeg voor koekjes,NULL,figure maker in dough for cookies,figure maker in dough for cookies
+403,15,2,1464784905048,1464784920826,aandrukken van de randjes van de appelflap,NULL,pressing the edges of the apple turnovers,pressing the edges of the apple turnovers
+468,16,2,1464787221343,1464787227020,wapen,NULL,weapon,weapon
+469,16,2,1464787227020,1464787233203,gaatjesprikker,NULL,hole puncher,hole puncher
+470,16,2,1464787233203,1464787243099,standaard,NULL,standard,standard
+471,16,2,1464787243099,1464787253971,schep,NULL,scoop,scoop
+472,16,2,1464787253971,1464787260642,tuiniergerei,1,gardening tools,gardening tools
+473,16,2,1464787260642,1464787266586,mixer,NULL,mixer,mixer
+474,16,2,1464787266586,1464787331134,draad uit kleding haal tool,1,thread from clothing retrieval tool,thread from clothing retrieval tool
+528,17,2,1464796572011,1464796575495,gooien,NULL,throw,throw
+529,17,2,1464796575495,1464796576663,vangen,NULL,catch,catch
+530,17,2,1464796576663,1464796583615,in de grond prikken,NULL,pick in the ground,pick in the ground
+531,17,2,1464796583615,1464796591342,soep eten,1,eat soup,eat soup
+532,17,2,1464796591342,1464796596326,snoep eten,NULL,eat candy,eat candy
+533,17,2,1464796596326,1464796602102,Lois prikken,NULL,Lois pricks,Lois pricks
+534,17,2,1464796602102,1464796607893,ombuigen,NULL,redirect,redirect
+535,17,2,1464796607893,1464796610021,weer recht buigen,NULL,straighten,straighten
+536,17,2,1464796610021,1464796622332,vlees snijden,NULL,meat cutting,meat cutting
+537,17,2,1464796622332,1464796645699,deeg in stukjes prikken,NULL,prick dough into pieces,prick dough into pieces
+538,17,2,1464796645699,1464796653795,in een lijn leggen,NULL,line up,line up
+539,17,2,1464796653795,1464796665642,er een ei op leggen en een race doen,1,put an egg on it and do a race,put an egg on it and do a race
+540,17,2,1464796665642,1464796677690,roeren,NULL,stir,stir
+621,18,2,1464798900562,1464798906034,om mee te eten ,NULL,to eat with ,to eat with 
+622,18,2,1464798906034,1464798913706,om een katepult mee te maken ,1,To make a catapult with ,To make a catapult with 
+623,18,2,1464798913706,1464798925033,om een kunstwerk van te maken ,NULL,to make a work of art ,to make a work of art 
+624,18,2,1464798925033,1464798930177,om soep te eten ,NULL,to eat soup ,to eat soup 
+625,18,2,1464798930177,1464798957562,als ketting maken voor je outpit \,1,as a necklace make for your outpit.,as a necklace make for your outfit.
+626,18,2,1464798957562,1464798968103,ogen uitsteken ,NULL,blink ,poke eyes out
+627,18,2,1464798968103,1464798984878,gaatjes maken in je quiche deeg ,NULL,making holes in your quiche dough ,making holes in your quiche dough 
+628,18,2,1464798984878,1464798999710,gebruikenm als hulp middel bij kleien,NULL,use as an aid to claying,use as an aid to clay with
+698,19,2,1464866850823,1464866853508,eten,NULL,food,food
+699,19,2,1464866853508,1464866857796,om te roeren,NULL,to stir,to stir
+700,19,2,1464866857796,1464866862844,om mee te spelen,NULL,to play with,to play with
+701,19,2,1464866862844,1464866867900,om je haren mee te kammen,NULL,to comb your hair with,to comb your hair with
+702,19,2,1464866867900,1464866873899,om haartjes van kleding af te halen,NULL,to remove hairs from clothing,to remove hairs from clothing
+703,19,2,1464866873899,1464866886947,om iets uit de modder te halen,NULL,to get something out of the mud,to get something out of the mud
+704,19,2,1464866886947,1464866897427,om ergens in te prikken (afval opruimen),NULL,To poke around in something (clean up trash),To poke around in something (clean up trash)
+705,19,2,1464866897427,1464866903282,als spiegel,NULL,as a mirror,as a mirror
+706,19,2,1464866903282,1464866917602,als hulpmiddel bij acteren,NULL,as a tool for acting,as a tool for acting
+707,19,2,1464866917602,1464866923874,voor dirigeren,1,for conducting,for conducting
+708,19,2,1464866923874,1464866932441,om iets aan te wijzen,NULL,to point out something,to point out something
+709,19,2,1464866932441,1464866939633,als dartpijl,1,as a dart,as a dart
+710,19,2,1464866939633,1464866955281,als zilver voorwerp,NULL,as a silver object,as a silver object
+711,19,2,1464866955281,1464866969865,(om te laten zien wat zilver is),NULL,(to show what silver is),(to show what silver is)
+819,20,2,1464867739206,1464867744455,prikken van eten,NULL,pricking of food,pricking of food
+820,20,2,1464867744455,1464867749112,iemand ermee prikken,NULL,jab someone with it,jab someone with it
+821,20,2,1464867749112,1464867760551,"ombuigen, Uri geller achtig",1,"turn around, Uri geller-like","turn around, Uri geller-like"
+822,20,2,1464867760551,1464867786227,middelste twee staven eruit halen en als bonbon vork inzetten,1,take out the two middle bars and use as a fork for chocolates,take out the two middle bars and use as a fork for chocolates
+823,20,2,1464867786227,1464867798748,muziek maken,NULL,make music,make music
+824,20,2,1464867798748,1464867814500,aandacht vragen aan tafel voor een speech,NULL,Drawing attention at the table to a speech,Drawing attention at the table to a speech
+825,20,2,1464867814500,1464867827971,je kan er iets mee oppakken,NULL,you can pick up something with it,you can pick up something with it
+826,20,2,1464867827971,1464867832604,gaarheid van vlees testen,NULL,test the doneness of meat,test if cooked meat is done
+917,23,2,1464868943087,1464868952853,tekenen in zand,NULL,drawing in sand,drawing in sand
+918,23,2,1464868952853,1464868956794,tekenen met verf,NULL,drawing with paint,drawing with paint
+919,23,2,1464868956794,1464868964322,aanwijsstok,NULL,pointer,pointer
+920,23,2,1464868964322,1464868973011,oorbel,NULL,earring,earring
+921,23,2,1464868973011,1464868985531,fotohouder,1,photo holder,photo holder
+922,23,2,1464868985531,1464869008105,"iemand prikken, waarschuwen",NULL,"poking someone, warning them","poking someone, warning them"
+923,23,2,1464869008105,1464869019706,muziekinstrument (op tafel tikken oid),NULL,"musical instrument (tapping on the table, etc.)","musical instrument (tapping on the table, etc.)"
+924,23,2,1464869019706,1464869038286,in plaats van een verlamde hand,NULL,instead of a paralyzed hand,instead of a paralyzed hand
+925,23,2,1464869038286,1464869060087,klokwijzer,1,clock hand,clock hand
+941,22,2,1464869091963,1464869100623,haren kammen,1,comb hair,comb hair
+942,22,2,1464869100623,1464869112566,ombuigen tot armband,1,turn into a bracelet,turn into a bracelet
+943,22,2,1464869112566,1464869129546,je huid krabben wanneer je jeuk hebt,NULL,Scratching your skin when you are itching,Scratching your skin when you are itching
+944,22,2,1464869129546,1464869171993,ermee spelen door op rand van de tafel te leggen en laten lanceren,NULL,play with it by placing it on the edge of the table and let it launch,play with it by placing it on the edge of the table and let it launch
+945,22,2,1464869171993,1464869205598,harken,NULL,raking,raking
+1037,24,2,1464871676047,1464871700828,haren kammen,NULL,comb hair,comb hair
+1038,24,2,1464871700828,1464871717843,strikjes maken,1,make bows,make bows
+1039,24,2,1464871717843,1464871741594,blikopener,NULL,can opener,can opener
+1040,24,2,1464871741594,1464871781417,liniaal,1,ruler,ruler
+1073,25,2,1464945495951,1464945504091,spijker,NULL,nail,nail
+1074,25,2,1464945504091,1464945513314,wapen,NULL,weapon,weapon
+1075,25,2,1464945513314,1464945526569,hefboom/katapult,NULL,lever/catapult,lever/catapult
+1076,25,2,1464945526569,1464945553368,armbanden/kettingen aan hangen,1,bracelets/chains to hang from,bracelets/chains to hang from
+1077,25,2,1464945553368,1464945571367,als pen,NULL,as pen,as pen
+1078,25,2,1464945571367,1464945605941,om mee te breien/haken etc.,1,To knit/crochet etc.,To knit/crochet etc.
+1135,26,2,1464953356407,1464953364947,haar kammen,NULL,hair combs,hair combs
+1136,26,2,1464953364947,1464953378778,als kapstok aan de muur bevestigen,NULL,attach to the wall as a coat rack,attach to the wall as a coat rack
+1137,26,2,1464953378778,1464953410768,als haarsieraad in een knot steken,NULL,as a hair ornament in a bun,as a hair ornament in a bun
+1138,26,2,1464953410768,1464953440383,om je rug mee te krabben,NULL,To scratch your back,To scratch your back
+1183,27,2,1464966928581,1464966983455,schroevendraaier (achterkant),1,screwdriver (back),screwdriver (back)
+1184,27,2,1464966983455,1464967006254,bierflesje openen,1,open a beer bottle,open a beer bottle
+1185,27,2,1464967006254,1464967018189,om iets los te peuteren,NULL,to elicit a response,to elicit a response
+1222,28,2,1464975200682,1464975207278,iemand mee dood steken,NULL,knife someone,knife someone
+1223,28,2,1464975207278,1464975208967,eten,NULL,food,food
+1224,28,2,1464975208967,1464975220474,iets onder de bank vandaan halen,1,pull sth. out from under the sofa,pull something out from under the sofa
+1225,28,2,1464975220474,1464975233507,om krassen mee te maken,1,to make scratches with,to make scratches with
+1226,28,2,1464975233507,1464975256510,iemand mee te slaan,NULL,to hit someone with,to hit someone with
+1265,29,2,1465129883992,1465129899974,wapen,NULL,weapon,weapon
+1266,29,2,1465129899974,1465129903121,kam,1,comb,comb
+1267,29,2,1465129903121,1465129921235,eten,NULL,food,food
+1268,29,2,1465129921235,1465129925890,prikker,1,spike,spike
+1269,29,2,1465129925890,1465129960392,roerijzer,NULL,roerijzer,stir with
+1309,30,2,1465152760091,1465152768615,sateprikker,NULL,skewer,skewer
+1310,30,2,1465152768615,1465152775378,stokjes,NULL,sticks,sticks
+1311,30,2,1465152775378,1465152796315,samenbundelen van messen,1,bundling of knives,bundling of knives
+1312,30,2,1465152796315,1465152806705,ijzeren staafjes,NULL,iron rods,iron rods
+1313,30,2,1465152806705,1465152817366,klemtang,NULL,clamping pliers,clamping pliers
+1314,30,2,1465152817366,1465152828038,zuignap,1,suction cup,suction cup
+1315,30,2,1465152828038,1465152834847,magneet,NULL,magnet,magnet
+1316,30,2,1465152834847,1465152847125,2 lepels,NULL,2 spoons,2 spoons
+1317,30,2,1465152847125,1465152872629,vingers,NULL,fingers,fingers
+1385,35,2,1465155924625,1465155939555,eten,NULL,food,food
+1386,35,2,1465155939555,1465155946542,oprapen,NULL,pick up,pick up
+1387,35,2,1465155946542,1465155965530,tekenen in het zand,1,drawing in the sand,drawing in the sand
+1388,35,2,1465155965530,1465155987884,iets opvanngen,1,collect sth.,catch something
+1389,35,2,1465155987884,1465156004908,iets ermee weggooien,NULL,dispose of sth.,To throw something away
+1390,35,2,1465156004908,1465156034498,iets openen,NULL,unlock sth.,unlock something
+1418,36,2,1465159476518,1465159488362,Rekeningen schrijven,NULL,Writing accounts,Writing accounts
+1419,36,2,1465159488362,1465159492996,stemmen,NULL,vote,vote
+1420,36,2,1465159492996,1465159503780,chinees eten,NULL,Chinese food,Chinese food
+1421,36,2,1465159503780,1465159512596,splitsing,NULL,split,split
+1422,36,2,1465159512596,1465159534838,fondefdeel van fiets,NULL,fondef part of bicycle,part of bicycle
+1423,36,2,1465159534838,1465159555712,lantaarnpaal,NULL,lamppost,lamppost
+1424,36,2,1465159555712,1465159593069,lampje,NULL,light,light
+1444,37,2,1465159745430,1465159752280,tandenstoker,NULL,toothpick,toothpick
+1445,37,2,1465159752280,1465159758995,haarkruller,NULL,hair curler,hair curler
+1446,37,2,1465159758995,1465159761953,borstel,1,brush,brush
+1447,37,2,1465159761953,1465159781011,vastzetten in de grond als paal,NULL,fix in the ground as a pole,fix in the ground as a pole
+1448,37,2,1465159781011,1465159787466,ruggenkrabber,1,backbreaker,scratch your back 
+1449,37,2,1465159787466,1465159799984,speerwerpen,NULL,javelin throw,javelin throw
+1450,37,2,1465159799984,1465159822663,wapen,NULL,weapon,weapon
+1451,37,2,1465159822663,1465159846143,nagelschoonmaker,NULL,nail cleaner,nail cleaner
+1452,37,2,1465159846143,1465159863991,kunstwerk,NULL,artwork,artwork
+1509,38,2,1465202784523,1465202792406,gras mee harken,NULL,raking grass,raking grass
+1510,38,2,1465202792406,1465202805911,een kandelaar van vouwen,1,a candlestick of folds,a candlestick of folds
+1511,38,2,1465202805911,1465202817231,sieraden hanger,1,jewelry pendant,jewelry pendant
+1512,38,2,1465202817231,1465202857201,gaatjes mee prikken,NULL,Puncture holes,Puncture holes
+1540,39,2,1465209790874,1465209796267,eten,NULL,food,food
+1541,39,2,1465209796267,1465209799196,schilderen,1,painting,painting
+1542,39,2,1465209799196,1465209806867,bouwen,NULL,build,build
+1543,39,2,1465209806867,1465209808172,spelen,NULL,play,play
+1544,39,2,1465209808172,1465209814972,graven,1,dig,dig
+1545,39,2,1465209814972,1465209850090,dingen leeg te schrapen,NULL,scraping things out,scraping things out
+1546,39,2,1465209850090,1465209875433,blik open te maken,NULL,can open,can open
+1547,39,2,1465209875433,1465209897241,iemand pijn doen,NULL,harm someone,harm someone
+1584,40,2,1465221659866,1465221673158,tuingereedschap,NULL,garden tools,garden tools
+1585,40,2,1465221673158,1465221682522,theelepeltje,1,teaspoon,teaspoon
+1586,40,2,1465221682522,1465221697319,kauwgum van de stoep halen,1,picking up gum from the sidewalk,picking up gum from the sidewalk
+1587,40,2,1465221697319,1465221724250,wapen,NULL,weapon,weapon
+1617,41,2,1465292391944,1465292398875,Steken,NULL,Stitches,Stitches
+1618,41,2,1465292398875,1465292406345,haren kammen,NULL,comb hair,comb hair
+1619,41,2,1465292406345,1465292417118,knoop uit elkaar halen ,NULL,disassemble knot ,disassemble knot 
+1620,41,2,1465292417118,1465292433042,Ergens ' iets uit peuteren ,NULL,Prying something ' out of something ,Prying something ' out of something 
+1621,41,2,1465292433042,1465292448951,als schroevendraaier gebruiken ,NULL,use as a screwdriver ,use as a screwdriver 
+1622,41,2,1465292448951,1465292465859,Gaatjes prikken in van alles,NULL,Poking holes in all kinds of things,Poking holes in all kinds of things
+1627,42,2,1465293322920,1465293330061,Gaatjes prikken ,NULL,Puncture holes ,Puncture holes 
+1628,42,2,1465293330061,1465293337748,Haar kammen,1,Hair combing,Hair combing
+1629,42,2,1465293337748,1465293348804,iets ergens tussenuit peuteren ,NULL,pick out sth. ,pick out something
+1630,42,2,1465293348804,1465293354241,kriebelen ,NULL,tickle ,tickle 
+1631,42,2,1465293354241,1465293368747,op je rug kriebelen ,NULL,scratch your back ,scratch your back 
+1632,42,2,1465293368747,1465293384639,een knoop eruit halen,1,unbutton,unbutton
+1633,42,2,1465293384639,1465293402529,krassen in een raam maken,NULL,make scratches in a window,make scratches in a window
+1664,43,2,1465296425249,1465296445673,"stokje voor in je haar, net zoals Aziaten hebben",NULL,"stick for in your hair, just as Asians have","stick for in your hair, just as Asians have"
+1665,43,2,1465296445673,1465296457537,breinaald,1,knitting needle,knitting needle
+1666,43,2,1465296457537,1465296465832,drumstick,NULL,drumstick,drumstick
+1667,43,2,1465296465832,1465296477057,triangel stokje,NULL,triangle stick,triangle stick
+1668,43,2,1465296477057,1465296506808,voor zansculptuur,NULL,for zansculpture,for sand sculpture
+1669,43,2,1465296506808,1465296526600,haring voor bij de tent,NULL,herring for the tent,herring for the tent
+1670,43,2,1465296526600,1465296533002,kam,1,comb,comb
+1722,44,2,1465317810667,1465317815733,Gaatjes prikken,1,Puncture holes,Puncture holes
+1723,44,2,1465317815733,1465317894725,Iets kerven,1,Carve something,Carve something
+1756,45,2,1465323861472,1465323866015,steken,NULL,stitches,stitches
+1757,45,2,1465323866015,1465323871079,neuspeuteren,1,nose picking,nose picking
+1758,45,2,1465323871079,1465323873360,blikopener,NULL,can opener,can opener
+1759,45,2,1465323873360,1465323886791,bieropener,NULL,beer opener,beer opener
+1760,45,2,1465323886791,1465323891815,elektriciteit geleiden,NULL,conduct electricity,conduct electricity
+1761,45,2,1465323891815,1465323914687,gekke haar klip voor mensen met afro,1,crazy hair clip for people with afro,crazy hair clip for people with afro
+1762,45,2,1465323914687,1465323930094,pincet,NULL,tweezers,tweezers
+1763,45,2,1465323930094,1465323939365,rugkrabber,NULL,back scraper,back scraper
+1764,45,2,1465323939365,1465323970149,als mes,NULL,as a knife,as a knife
+1830,46,2,1465327021432,1465327031752,eetgerij,NULL,dining,dining
+1831,46,2,1465327031752,1465327046487,chirurgisch instrument,1,surgical instrument,surgical instrument
+1832,46,2,1465327046487,1465327053413,onkruid wieder,1,weed whacker,weed whacker
+1833,46,2,1465327053413,1465327058453,gereedschap,NULL,tools,tools
+1834,46,2,1465327058453,1465327063084,rugkrabber,NULL,back scraper,back scraper
+1835,46,2,1465327063084,1465327079619,vis schraaper,NULL,fish scraper,fish scraper
+1836,46,2,1465327079619,1465327083842,moordwapen,NULL,murder weapon,murder weapon
+1837,46,2,1465327083842,1465327087842,seksspeeltje,NULL,sex toy,sex toy
+1838,46,2,1465327087842,1465327102697,CD rekje,NULL,CD rack,CD rack
+1839,46,2,1465327102697,1465327106080,speelgoed,NULL,toys,toys
+1840,46,2,1465327106080,1465327124983,kam,NULL,comb,comb
+1920,47,2,1465332661113,1465332668340,kam ariel ,1,comb ariel ,comb ariel 
+1921,47,2,1465332668340,1465332676947,verven,NULL,dye,dye
+1922,47,2,1465332676947,1465332680475,graven,NULL,dig,dig
+1923,47,2,1465332680475,1465332698025,als onderdeel van kunstwerk,NULL,as part of artwork,as part of artwork
+1924,47,2,1465332698025,1465332706942,schroevendraaier,1,screwdriver,screwdriver
+1925,47,2,1465332706942,1465332711949,blik opener,NULL,can opener,can opener
+1926,47,2,1465332711949,1465332725356,gaten te maken,NULL,make holes,make holes
+1975,48,2,1465382577944,1465382598354,kunstobject,1,art object,art object
+1976,48,2,1465382598354,1465382622497,darten met vork,NULL,darts with fork,darts with fork
+1977,48,2,1465382622497,1465382630738,eten,NULL,food,food
+1978,48,2,1465382630738,1465382681714,mes in vork bij tafel dekken,1,knife in fork when setting the table,knife in fork when setting the table
+2024,49,2,1465400584376,1465400609830,schilderen,1,painting,painting
+2025,49,2,1465400609830,1465400637952,bakje openen,1,open container,open container
+2053,50,2,1465417497609,1465417512904,gebruiken als duivelsstaart,1,use as a devil's tail,use as a devil's tail
+2054,50,2,1465417512904,1465417529977,schepje voor in de zandbak,NULL,shovel for the sandbox,shovel for the sandbox
+2055,50,2,1465417529977,1465417536384,als kam gebruiken,NULL,use as a comb,use as a comb
+2056,50,2,1465417536384,1465417606296,figuurtjes maken als je er inkt erover spuit,1,make little figures when you spray ink on them,make little figures when you spray ink on them
+2057,50,2,1465417606296,1465417613400,tennisracket,NULL,tennis racket,tennis racket
+2070,51,2,1465417314953,1465417338629,dingen opprikken van straat zodat je handen niet vies worden en je ze in de prullenbak kan gooien,NULL,picking things up from the street so your hands don't get dirty and you can throw them in the trash,picking things up from the street so your hands don't get dirty and you can throw them in the trash
+2071,51,2,1465417338629,1465417377231,in iets prikken zodat ze recht overeind staan en dat is een instrumen: vormen waar je tegenaan tikt,1,poke into something so that they stand up straight and that is an instrumen: shapes that you tap into,poke into something so that they stand up straight and that is an instrument: shapes that you tap into
+2072,51,2,1465417377231,1465417397987,"in de tuin, in de aarde, zodat katten er niet willen komen",1,"in the garden, in the earth, so that cats do not want to come there","in the garden, in the earth, so that cats do not want to come there"
+2073,51,2,1465417397987,1465417419609,in de verf dopen en streepjes trekken in een moment van creativiteit,NULL,dipping into the paint and drawing dashes in a moment of creativity,dipping into the paint and drawing dashes in a moment of creativity
+2074,51,2,1465417419609,1465417425078,krabben,NULL,crabs,crabs
+2163,53,2,1466512745109,1466512763820,kam,1,comb,comb
+2164,53,2,1466512763820,1466512779645,om elastiekjes mee te schieten,1,to shoot rubber bands with,to shoot rubber bands with
+2165,53,2,1466512779645,1466512783995,hark,NULL,rake,rake
+12822,0,2,1493973240629,1493973250015,geleider,NULL,conductor,conductor
+12823,0,2,1493973250015,1493973260121,katapult,NULL,catapult,catapult
+12824,0,2,1493973260121,1493973275975,elastiek bewaren,NULL,keep elastic,keep elastic
+12825,0,2,1493973275975,1493973288037,spoel maken,NULL,bobbin,bobbin
+12826,0,2,1493973288037,1493973302719,punaise vervanger,NULL,thumbtack substitute,thumbtack substitute
+12827,0,2,1493973302719,1493973313968,dartpijl,NULL,dart,dart
+12828,0,2,1493973313968,1493973333647,telepathie,NULL,telepathy,telepathy
+12829,0,2,1493973333647,1493973342614,doelpaal,NULL,goalpost,goalpost
+12830,0,2,1493973342614,1493973345432,vlag,NULL,flag,flag

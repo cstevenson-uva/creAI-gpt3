@@ -1,0 +1,257 @@
+research_id,response_id,respondent_id,object,original_response,cleaned_response,originality_rater02,utility_rater02
+CES201606,1876,46,book,aanbeeld,aanbeeld,5,1
+CES201606,1284,29,book,aanmaakblok,aanmaakblok,3,5
+CES201606,2117,51,book,aanmaakblokken openhaart,aanmaakblokken open haard,3,5
+CES201606,574,17,book,achterstevoren lezen,achterstevoren lezen,3,4
+CES201606,1943.2,47,book, afschermen tegen zon,afschermen tegen zon,3,4
+CES201606,208,12,book,baksteen,baksteen,3,3
+CES201606,2096,50,book,een barricade bouwen op straat,barricade bouwen straat,4,2
+CES201606,1868,46,book,beeldschermstandaard,beeldschermstandaard,2,5
+CES201606,563,17,book,begraven,begraven,2,4
+CES201606,852,20,book,naar beneden gooien,beneden gooien,2,5
+CES201606,859,20,book,bibliotheek aanleggen,bibliotheek aanleggen,1,5
+CES201606,501,16,book,bijzettafel,bijzettafel,2,4
+CES201606,746,19,book,om blaadjes uit te scheuren,blaadjes scheuren,2,5
+CES201606,1457,36,book,blz eruit scheuren en collage van maken,bladzijde eruit scheuren collage,2,5
+CES201606,2112,51,book,bladzijden eruithalen kaft,bladzijden eruit halen kaft,2,5
+CES201606,210,12,book,bloempot,bloempot,4,3
+CES201606,432,15,book,je kunt een boek goed rechtop zetten en er achter spieken,boek goed rechtop zetten achter spieken,2,5
+CES201606,2092.1,50,book,Een boek neerleggen daarachter twee,boek neerleggen daarachter,1,5
+CES201606,1156,26,book,boekwerpen: de sport,boek werpen sport,2,3
+CES201606,855.2,20,book, boekenkast van boeken,boekenkast boeken,1,5
+CES201606,1866,46,book,boekenlegger,boekenlegger,2,4
+CES201606,1154,26,book,gebruiken als boekenplank,boekenplank,2,4
+CES201606,1867,46,book,boekenstandaard,boekenstandaard,2,5
+CES201606,855.1,20,book,als boekenstandaard aan de muur hangen,boekenstandaard muur hangen,2,5
+CES201606,430,15,book,gebruiken als boekensteun,boekensteun,2,5
+CES201606,1454,36,book,boekensteun,boekensteun,2,5
+CES201606,1602,40,book,boekensteun,boekensteun,2,5
+CES201606,1685,43,book,boekensteun,boekensteun,2,5
+CES201606,964,23,book,bord,bord,3,3
+CES201606,744,19,book,om mee te bouwen (meerdere),bouwen,2,3
+CES201606,350,14,book,je kunt het ook gebruiken als bouwsteen,bouwsteen,2,3
+CES201606,1562,39,book,als bouwsteen gebruiken,bouwsteen,2,3
+CES201606,498,16,book,brandmateriaal,brandmateriaal,3,5
+CES201606,1732,44,book,Brandmateriaal,brandmateriaal,3,5
+CES201606,1285,29,book,brandstof (open haard),brandstof,3,5
+CES201606,2035,49,book,brandstof,brandstof,3,5
+CES201606,1686,43,book,brandstof om het vuur mee aan te houden,brandstof vuur houden,3,5
+CES201606,741,19,book,om iemand iets bij te brengen/leren,brengen leren,1,5
+CES201606,1877,46,book,bureau,bureau,4,2
+CES201606,970,23,book,als cadeau verpakking,cadeau verpakking,3,4
+CES201606,1350,30,book,cd/dvd s[eler met luisterdvd,cd dvd speler luister dvd,0,0
+CES201606,209,12,book,decoratie,decoratie,3,4
+CES201606,347,14,book,als decoratie gebruiken (bijv in je boekenkast),decoratie,3,4
+CES201606,499,16,book,decoratie,decoratie,3,3
+CES201606,653,18,book,als decoratie in de kamer ,decoratie kamer,3,4
+CES201606,1995,48,book,decoratie in kast,decoratie kast,3,4
+CES201606,1199,27,book,deurstop,deurstop,3,4
+CES201606,1525,38,book,deurstopper,deurstopper,3,4
+CES201606,1731,44,book,Deurstopper,deurstopper,3,4
+CES201606,1869,46,book,deurstopper,deurstopper,3,4
+CES201606,1937,47,book,deurstop,deurstopper,3,4
+CES201606,2033,49,book,deurstopper,deurstopper,3,4
+CES201606,862,20,book,dingen aantonen,dingen aantonen,1,5
+CES201606,344,14,book,je kunt er dingen in opschrijven,dingen opschrijven,1,5
+CES201606,1458,36,book,domino mee spelen,domino spelen,4,4
+CES201606,745,19,book,om doorheen te bladeren ,doorheen bladeren,1,5
+CES201606,2095,50,book,dun boek: als vliegenmepper,dun boek vliegenmepper,2,5
+CES201606,1342,30,book,ereader,ereader,1,5
+CES201606,861,20,book,erin markeren,erin markeren,1,5
+CES201606,863,20,book,ernaar verwijzen,ernaar verwijzen,1,5
+CES201606,851,20,book,erop staan als opstapje,erop staan opstapje,2,4
+CES201606,341,14,book,eruit lezen,eruit lezen,1,5
+CES201606,864,20,book,eruit een liedje zingen,eruit liedje zingen,1,5
+CES201606,1353,30,book,film,film,0,0
+CES201606,750,19,book,als gatdichtstopper,gat dicht stoppen,4,2
+CES201606,1688,43,book,gat er in snijden zodat het een geheime opslag wordt,gat snijden zodat geheime opslag,3,4
+CES201606,2036,49,book,een geheimvak van knutselen,geheim vak knutselen,3,4
+CES201606,654,18,book,om een geheime verstop plek in te maken ,geheime verstop plek,3,4
+CES201606,343,14,book,geluid mee maken,geluid,2,5
+CES201606,497,16,book,gewicht,gewicht,2,4
+CES201606,561,17,book,gooien,gooien,2,5
+CES201606,748,19,book,om mee te gooien,gooien,2,5
+CES201606,1941.2,47,book, gooien,gooien,2,5
+CES201606,1798,45,book,gordijn,gordijn,5,2
+CES201606,850,20,book,hard dichtklappen als statement,hard dichtklappen statement,2,4
+CES201606,966,23,book,hoed,hoed,4,3
+CES201606,1486,37,book,hoed,hoed,4,3
+CES201606,2118.2,51,book, van hoed tot kladpapier,hoed kladpapier,4,3
+CES201606,742,19,book,als hoedje op je hoofd,hoedje hoofd,4,3
+CES201606,2113.2,51,book, in een hoek,hoek,2,3
+CES201606,1643,42,book,gebruiken om iets op te hogen,hogen,2,4
+CES201606,749,19,book,als hoofdonderlegger,hoofd onderlegger,3,4
+CES201606,849,20,book,iemand op het hoofd slaan,hoofd slaan,2,5
+CES201606,2114,51,book,op je hoofd tegen de zon,hoofd tegen zon,2,5
+CES201606,206,12,book,hoofddeksel,hoofddeksel,4,3
+CES201606,571,17,book,een huis van boeken bouwen,huis boeken bouwen,3,3
+CES201606,1942,47,book,huis te bouwen voor barbies,huis bouwen barbies,3,3
+CES201606,572,17,book,een hut van boeken bouwen,hut boeken bouwen,3,3
+CES201606,1564,39,book,inspiratie op te doen,inspiratie,1,5
+CES201606,656,18,book,om jezelf te slaan ,jezelf slaan,2,4
+CES201606,568,17,book,jongleren,jongleren,3,5
+CES201606,2113.1,51,book,een kartonnen plank,kartonnen plank,3,4
+CES201606,856,20,book,in de kast zetten,kast zetten,2,5
+CES201606,659,18,book,om kasten te vullen ,kasten vullen,2,5
+CES201606,1997,48,book,kinderhuisje bouwen,kinderhuisje bouwen,3,3
+CES201606,500,16,book,kladboek,kladboek,1,5
+CES201606,740,19,book,om een kleur mee uit te leggen,kleur leggen,4,4
+CES201606,747,19,book,om uit te knippen,knippen,2,5
+CES201606,2093,50,book,koelte toewuiven,koelte toewuiven,2,4
+CES201606,854,20,book,kopen,kopen,1,5
+CES201606,1349,30,book,krijtbord ,krijtbord,3,2
+CES201606,1644,42,book,als krukje gebruiken,krukje,4,3
+CES201606,1789,45,book,kunst,kunst,3,3
+CES201606,1939,47,book,kunst om aan de muur te hangen,kunst muur hangen,3,3
+CES201606,1563,39,book,als kunst neerzetten,kunst neerzetten,3,3
+CES201606,1642,42,book,als kussen gebruiken ,kussen,4,3
+CES201606,1874,46,book,kussen,kussen,4,3
+CES201606,2098,50,book,of een L,l,0,0
+CES201606,1456,36,book,labyrinth mee bouwen,labyrint bouwen,5,3
+CES201606,1201,27,book,ladder,ladder,4,2
+CES201606,1348,30,book,laptop,laptop,0,0
+CES201606,1240,28,book,uit te leren,leren,1,5
+CES201606,2091,50,book,leuke toren mee bouwen,leuke toren bouwen,2,4
+CES201606,651,18,book,om te lezen ,lezen,1,5
+CES201606,737,19,book,om te lezen,lezen,1,5
+CES201606,845,20,book,lezen,lezen,1,5
+CES201606,1239,28,book,uit te lezen,lezen,1,5
+CES201606,1399,35,book,lezen,lezen,1,5
+CES201606,1559,39,book,lezen,lezen,1,5
+CES201606,1993,48,book,lezen,lezen,1,5
+CES201606,1155,26,book,lijmen aan de muur als decoratie,lijmen muur decoratie,3,3
+CES201606,1402,35,book,losse papiertjes vastleggen,losse papiertjes vastleggen,2,5
+CES201606,1796,45,book,luier,luier,5,3
+CES201606,739,19,book,mooi voor de sier in kamer,mooi sier kamer,1,3
+CES201606,1871,46,book,moordwapen,moordwapen,2,3
+CES201606,1873,46,book,muismat,muismat,2,4
+CES201606,658,18,book,om een muur mee te bouwen ,muur bouwen,2,3
+CES201606,1526,38,book,muurplank,muurplank,3,4
+CES201606,968.1,23,book,muziek maken,muziek,3,4
+CES201606,566,17,book,niet lezen,niet lezen,1,5
+CES201606,738,19,book,als onderlegger voor iets,onderlegger,2,5
+CES201606,205,12,book,onderzetter,onderzetter,2,5
+CES201606,261,13,book,onderzetter,onderzetter,2,5
+CES201606,345,14,book,gebruiken als onderzetter,onderzetter,2,5
+CES201606,426,15,book,onderzetter,onderzetter,2,5
+CES201606,496,16,book,onderzetter,onderzetter,2,5
+CES201606,963,23,book,onderzetter,onderzetter,2,5
+CES201606,1052,24,book,onderzetter,onderzetter,2,5
+CES201606,1103,25,book,onderzetter,onderzetter,2,5
+CES201606,1287,29,book,onderzetter,onderzetter,2,5
+CES201606,1455,36,book,onderzetter,onderzetter,2,5
+CES201606,1485,37,book,onderzetter,onderzetter,2,5
+CES201606,1523,38,book,onderzetter,onderzetter,2,5
+CES201606,1689,43,book,onderzetter,onderzetter,2,5
+CES201606,1938,47,book,onderzetter,onderzetter,2,5
+CES201606,2097,50,book,openhouden en zo een V vormen,openhouden v vormen,1,4
+CES201606,565,17,book,opeten,opeten,4,1
+CES201606,1241,28,book,opgavenboek,opgavenboek,1,5
+CES201606,564,17,book,opgraven,opgraven,3,3
+CES201606,425,15,book,ophoging voor je computer,ophoging computer,2,4
+CES201606,1940,47,book,ophoging voor laptop,ophoging laptop,2,4
+CES201606,1400,35,book,opstapelen voor verhoging,opstapelen verhoging,2,4
+CES201606,346,14,book,gebruiken als opstapje,opstapje,2,4
+CES201606,431,15,book,opvulling van de kast,opvulling kast,1,5
+CES201606,1793,45,book,origami,origami,2,4
+CES201606,847,20,book,pagina's uitscheuren en als confetti uit het raam gooien,pagina s uitscheuren confetti raam gooien,3,5
+CES201606,2116,51,book,pannenonderzetter,pannen onderzetter,2,5
+CES201606,2118.1,51,book,papier kun je voor vanalles gebruiken,papier kun,1,5
+CES201606,1401,35,book,op papier leggen voor gladstrijken,papier leggen gladstrijken,2,5
+CES201606,1151,26,book,papier bij wijze van stressvermindering scheuren,papier wijze stressvermindering scheuren,2,4
+CES201606,1794,45,book,papiersnippers voor in de surprise,papiersnippers surprise,2,5
+CES201606,263,13,book,als paraplu tegen de regen,paraplu tegen regen,4,3
+CES201606,1943.1,47,book,parasol,parasol,4,3
+CES201606,1347,30,book,pc,pc,0,0
+CES201606,1992,48,book,als pers om iets glad te krijgen,pers glad krijgen,2,5
+CES201606,1104,25,book,plankje aan de muur,plankje muur,3,4
+CES201606,1343,30,book,radio met dj die verhalen vertelt,radio dj verhalen vertelt,3,5
+CES201606,570,17,book,het ruilen tegen iets leuks,ruilen tegen leuks,2,5
+CES201606,1791,45,book,ruimte opvulling,ruimte opvulling,1,5
+CES201606,2094,50,book,ruiten mee ingooien,ruiten ingooien,2,4
+CES201606,1153,26,book,scheiding voor in een kast,scheiding kast,2,5
+CES201606,1100,25,book,schrift,schrift,2,5
+CES201606,1734,44,book,Schrift,schrift,2,5
+CES201606,1344,30,book,schrift met pen,schrift pen,2,5
+CES201606,569,17,book,er in schrijven,schrijven,2,5
+CES201606,752,19,book,om in te schrijven,schrijven,2,5
+CES201606,848,20,book,schrijven,schrijven,2,5
+CES201606,1994,48,book,om in te schrijven,schrijven,2,5
+CES201606,1872,46,book,seksspeeltje,seksspeeltje,4,1
+CES201606,1797,45,book,chag draaie,shag draaien,4,4
+CES201606,2120,51,book,voor de sier in huis,sier huis,3,4
+CES201606,857,20,book,als sierobject in de kamer leggen,sierobject kamer leggen,3,4
+CES201606,575,17,book,er sigaretten van draaien,sigaretten draaien,4,4
+CES201606,428,15,book,je kan er iemand mee slaan,slaan,2,4
+CES201606,655,18,book,om iemand mee te slaan ,slaan,2,4
+CES201606,1238,28,book,iemand mee slaan,slaan,2,4
+CES201606,1560,39,book,slaan,slaan,2,4
+CES201606,1640,42,book,Slaan,slaan,2,4
+CES201606,968.2,23,book, een soort trommel is het,soort trommel,3,4
+CES201606,743,19,book,om mee te spelen ,spelen,2,3
+CES201606,262,13,book, een stapel boeken als nachtkastje,stapel boeken nachtkastje,1,5
+CES201606,1453,36,book,Stapels mee bouwen,stapels bouwen,1,5
+CES201606,495,16,book,steun voor meubels,steun meubels,2,4
+CES201606,652,18,book,als steun pilaar ,steun pilaar,2,4
+CES201606,1150,26,book,steuntje voor meubelen,steuntje meubelen,2,4
+CES201606,661,18,book,een stoel van maken,stoel,3,3
+CES201606,1101,25,book,stoel,stoel,3,3
+CES201606,1875,46,book,stoel,stoel,3,3
+CES201606,573,17,book,een stoel van boeken bouwen,stoel boeken bouwen,3,3
+CES201606,1792,45,book,stoer doen met een boekenkast,stoer boekenkast,2,3
+CES201606,860,20,book,studeren,studeren,1,5
+CES201606,1102,25,book,tafel,tafel,3,3
+CES201606,657,18,book,om een tafel mee te bouwen ,tafel bouwen,3,3
+CES201606,969,23,book,om de tafel niet schuin te karten staan,tafel niet schuin karten staan,2,4
+CES201606,1790,45,book,tafel ophogen,tafel ophogen,2,4
+CES201606,1200,27,book,om de tafelpoten gelijk te krijgen,tafelpoten gelijk krijgen,2,4
+CES201606,427,15,book,tafeltennisbadje,tafeltennis badje,4,5
+CES201606,1242,28,book,in tekenen,tekenen,2,5
+CES201606,753,19,book,ter inspiratie,ter inspiratie,1,5
+CES201606,751,19,book,ter opvulling van koffer ,ter opvulling koffer,2,4
+CES201606,1352,30,book,theater,theater,0,0
+CES201606,207,12,book,trappetje,trappetje,3,3
+CES201606,429,15,book,je kan er op trommelen,trommelen,3,4
+CES201606,1105,25,book,tunnel,tunnel,0,0
+CES201606,1346,30,book,tv,tv,0,0
+CES201606,1345,30,book,typemachinen met papier,typemachine papier,0,0
+CES201606,1351,30,book,uitbeelden,uitbeelden,3,4
+CES201606,1996,48,book,uitspaken verzamelen,uitspraken verzamelen,3,5
+CES201606,562,17,book,vangen,vangen,2,5
+CES201606,846,20,book,verbranden,verbranden,3,5
+CES201606,351,14,book,verbranden in de kachel (als hout),verbranden kachel,3,5
+CES201606,2092.2,50,book, drie en verder.  Trapje voor de poes.,verder trapje poes,3,4
+CES201606,1107,25,book,verduisteraar,verduisteraar,3,3
+CES201606,965,23,book,verfdoek,verfdoek,3,3
+CES201606,1202,27,book,verfrommelde papieren glad strijken,verfrommelde papieren glad strijken,2,5
+CES201606,967,23,book,verhoging,verhoging,2,4
+CES201606,1524,38,book,verhoging,verhoging,2,4
+CES201606,1733,44,book,Verhoging,verhoging,2,4
+CES201606,2115,51,book,als verhoging van iets,verhoging,2,4
+CES201606,349,14,book,als verkoeler (wapperen met die bladeren),verkoelen,2,4
+CES201606,853,20,book,verkopen,verkopen,1,5
+CES201606,567,17,book,verscheuren,verscheuren,2,5
+CES201606,348,14,book,om iets in te verstoppen (bijv een briefje of een kauwgompje),verstoppen,3,4
+CES201606,1152,26,book,om in te verven,verven,3,4
+CES201606,858,20,book,verzamelen,verzamelen,2,5
+CES201606,2037,49,book,vliegenmepper,vliegenmepper,3,4
+CES201606,1687,43,book,vliegtuigjes vouwen,vliegtuigjes vouwen,3,5
+CES201606,660,18,book,om vuur mee te maken ,vuur,3,5
+CES201606,1203,27,book,vuur mee maken,vuur,3,5
+CES201606,1788,45,book,vuur,vuur,3,5
+CES201606,1561,39,book,om vuur aan te houden,vuur houden,3,5
+CES201606,2034,49,book,waaier,waaier,3,4
+CES201606,342,14,book,gebruiken als wapen (er mee gooien)\,wapen,3,4
+CES201606,1283,29,book,wapen,wapen,3,4
+CES201606,1941.1,47,book,als wapen,wapen,3,4
+CES201606,2119,51,book,wapperen als waaier,wapperen waaier,3,4
+CES201606,211,12,book,wcpapier,wc papier,3,4
+CES201606,1286,29,book,wc papier,wc papier,3,4
+CES201606,1691,43,book,wc papier,wc papier,3,4
+CES201606,1795,45,book,wc papier,wc papier,3,4
+CES201606,1870,46,book,wc papier,wc papier,3,4
+CES201606,2090,50,book,als het wc-papier op is gebruiken,wc papier,3,4
+CES201606,1690,43,book,wiebelende tafel mee rechtzetten,wiebelende tafel rechtzetten,2,4
+CES201606,1106,25,book,wikkel,wikkel,3,4
+CES201606,1484,37,book,zakdoek,zakdoek,3,3
+CES201606,1641,42,book,op zitten,zitten,2,3
