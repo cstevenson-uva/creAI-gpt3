@@ -1,0 +1,1147 @@
+id,gpt3_id,gpt3_created,gpt3_model,engine,timestamp,temperature,presence_penalty,frequency_penalty,instr_nr,instr_text,aut_object,gpt3_response,valid,snapshot_rater01,snapshot_rater02
+384,cmpl-4xiACBbz6lvLZhzieTsEoplO2vBy2,1650136464,text-davinci:002,text-davinci-002,14:25.9,0.8,1,2,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. sculpting 
+2. decoupage 
+3. magnets 
+4. paperweights 
+5. bookmarks",0,0,
+3,cmpl-4xhh1yXsPzlUO7RdKDj35YdD5D4dY,1650134655,text-davinci:002,text-davinci-002,44:18.7,0.4,1,1,instr_1,List 5 creative uses for a book. ,book,"
+
+1) A book can be used as a doorstop.
+2) A book can be used to hold down a stack of papers.
+3) A book can be used as a coaster for a cup or mug.
+4) Books can be cut up and used as collage material.
+5) A book can be converted into a journal by cutting out the pages and gluing them together.",1,2,
+4,cmpl-4xhh4lUi4q4XlK7wC74Bdw1eRKAzC,1650134658,text-davinci:002,text-davinci-002,44:27.2,0.4,1,1,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. Make a book nook: carve out a space in your home where you can curl up with a good book and relax. Add some comfy pillows, blankets, and lighting to make it extra cozy.
+2. Use an old book as a guestbook at your wedding or other event. Have guests write messages in the margins of the pages.
+3. Turn a book into a piece of art by painting or drawing on the cover, pages, or both. You could also collage different materials onto the surface of the book.
+4. Give new life to an old book by using it as part of a plant holder: poke holes in the pages and insert small succulents or cacti so that they peek out of the top of the book.
+5. Construct a hiding place for valuables by hollowing out the center of a thick hardcover book and using it as a secret box (just be sure to glue the two halves back",1,3,
+13,cmpl-4xhhfDhOqFhznYOYPs483SwGaR7NT,1650134695,text-davinci:002,text-davinci-002,44:56.3,0.4,1,1.5,instr_1,List 5 creative uses for a book. ,book,"
+
+-Bookmark
+-Doorstop
+-Wine coaster
+-Decoration
+-Kindling",1,2,
+14,cmpl-4xhhgybhMfXmcUL8uirB9h3QWBDj5,1650134696,text-davinci:002,text-davinci-002,45:00.6,0.4,1,1.5,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. To create a unique and memorable centerpiece for a party or event
+2. As a playhouse or fort for children
+3. For ""parking"" phones or other electronics at night, in order to avoid blue light exposure
+4. As an impromptu stool or footrest
+5. In lieu of traditional guestbook, have visitors write messages in a book",1,3,
+23,cmpl-4xhiCKuBayAb6Bfv4AKGpqyquLGgY,1650134728,text-davinci:002,text-davinci-002,45:34.0,0.4,1,2,instr_1,List 5 creative uses for a book. ,book,"
+
+1) A book can be used as a doorstop.
+2) If you're feeling extra creative, you could use a book as a place to store your jewelry when you're not wearing it. (Just make sure to pick a hardcover!)
+3) Tear out some pages and use them as origami paper.
+4) Make a bookmark by folding over the corner of one page.
+5) Use an old book as part of dÃ©cor in your home - for example, stack several books on top of each other to create an interesting table centerpiece or display item.",1,2,
+24,cmpl-4xhiInxYHgbSRhjxcXwTMylT2cvmF,1650134734,text-davinci:002,text-davinci-002,45:38.3,0.4,1,2,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. Books can make great doorstops.
+2. If you're crafty, you can turn old books into unique lamps or picture frames.
+3. Cookbooks double as excellent dinner conversation starters and decor in the kitchen.
+4. Children's books can be used to teach reading skills to kids of all ages â€“ even adults!
+5 3-ring binders full of blank paper make for great sketchpads on the go (or at home).",1,0,
+93,cmpl-4xhoZfYyTsW2L0QwIBKCpxN4KFbxW,1650135123,text-davinci:002,text-davinci-002,52:06.0,0.5,1,1,instr_1,List 5 creative uses for a book. ,book,"
+
+bookend, doorstop, paperweight, sculpture, trinket box",1,2,
+94,cmpl-4xhocCtLSXmrbiByLE0elSR8jyLmy,1650135126,text-davinci:002,text-davinci-002,52:10.1,0.5,1,1,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used as a paperweight.
+3. A book can be used to prop up a wobbly table leg.
+4. A book can be used as firewood.
+5. A book can be used as a coaster for your beverage of choice.",1,2,
+103,cmpl-4xhp818Wo8pHq59TIKkvoYgoO1Qu2,1650135158,text-davinci:002,text-davinci-002,52:41.8,0.5,1,1.5,instr_1,List 5 creative uses for a book. ,book,"
+
+1. A book can be used as a door stop, preventing the door from swinging shut.
+2. A book can be propped open and used as a fan on a hot day.
+3. Books can be stacked up and used as a stool or small table.
+4. If you are careful, you can rip pages out of an old book to use as papier-mÃ¢chÃ© for crafts projects like masks or sculpture models!
+5. finally, if you have enough books, you could build yourself a cozy little reading nook or fort!",1,2,
+104,cmpl-4xhpBYk6AQo2DENJj5bAM4vaZlgL9,1650135161,text-davinci:002,text-davinci-002,52:46.6,0.5,1,1.5,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to papier-mÃ¢chÃ© a statue or sculpture.
+3. A book can be cut up and made into a collage or scrapbook.
+4. A book can be used as fuel for a fire.
+5. If a person is lost in the wilderness, a book can be used as signal flares to attract attention from rescue teams.""",1,4,
+113,cmpl-4xhpjBK7laPLYwnbibVyeMetG79Eu,1650135195,text-davinci:002,text-davinci-002,53:17.6,0.5,1,2,instr_1,List 5 creative uses for a book. ,book,"
+
+A book can be used as a doorstop, a paperweight, kindling for a fire, a coaster for a beverage, or decor on a bookshelf.",1,2,
+114,cmpl-4xhpl7IRsSJEduNNUmTz6FOcOes68,1650135197,text-davinci:002,text-davinci-002,53:25.2,0.5,1,2,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. A book can be used to make a door stop.
+2. If you're ever caught in the rain, use a book as an umbrella!
+3. Have small children? Use a book as a makeshift stool so they can reach the sink and brush their teeth more easily.
+4. Tired of your pencils always rolling off your desk? Keep them securely in place by placing a heavy book on top of them (just make sure it's open to whatever page you're currently working on).
+5. Torn pages got you down? Don't throw out that tattered old novel just yet - turn it into works of art by decoupaging them onto canvases or other surfaces!",1,3,
+183,cmpl-4xhvTZ43t6nkY983DlxHLikSXNOIv,1650135551,text-davinci:002,text-davinci-002,59:12.2,0.6,1,1,instr_1,List 5 creative uses for a book. ,book,"
+
+book wall, book furniture, cut out books, book sculptures, decoupage",1,0,
+184,cmpl-4xhvURQzCwAFAi9Hj0mBGDI3EZGGS,1650135552,text-davinci:002,text-davinci-002,59:15.2,0.6,1,1,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. A book can make a great gift for someone who loves to read.
+2. A book can be used as a doorstop.
+3. A book can be used as a paperweight.
+4. A book can be used to decorate a room or office space.
+5. Abook can alsobe given away to charity or friends.""",1,2,
+193,cmpl-4xhw0sFxl4jEMA4Yc24Po9pvVCQ2y,1650135584,text-davinci:002,text-davinci-002,59:47.0,0.6,1,1.5,instr_1,List 5 creative uses for a book. ,book,"
+
+-A book can be used as a doorstop.
+-A book can be used to start a fire.
+-A book can be used as a paperweight.
+-A book can be used to hold open a window.
+- A book can be used to prop up a table or chair leg",1,2,
+194,cmpl-4xhw39FHhV5lrH3lx0J8isYPqqpNn,1650135587,text-davinci:002,text-davinci-002,59:48.8,0.6,1,1.5,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+A book can be used as: 
+1. a paperweight 
+2. the wall of a play fort or gingerbread house 
+3. a doorstop 
+4. an improvised stool or table when placed on its side with something heavy on top 
+5. kindling for a fire",1,3,
+203,cmpl-4xhweG2adVgm7ZisCAdgyqTFUfPe7,1650135624,text-davinci:002,text-davinci-002,00:28.8,0.6,1,2,instr_1,List 5 creative uses for a book. ,book,"
+
+â€¢	Turn an old book into a colorful and unique vase.
+â€¢ Make a simple yet sophisticated birdhouse out of an unused hardcover. 
+â€¢ Cover worn-out furniture with pages from your favorite novels for literary flair .
+â€¢ Repurpose thrift store finds by fashioning them into one-of-a-kind picture frames.  
+â€¢ Keep unwanted light from spoiling movie night by crafting homemade lampshades out of large paperbacks",1,5,
+204,cmpl-4xhwi58USlulKmOqV1OkuHlvbeTN6,1650135628,text-davinci:002,text-davinci-002,00:33.6,0.6,1,2,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1) Make a coffee table book: A big, beautiful book that can be displayed and enjoyed as decoration.
+2) Turn an old story into a children's bedtime tale: With some creative adaptation, any familiar narrative can become more kid-friendly. 
+3) Give new life to legal documents: Actually quite handy for jotting down notes or formal writing without having to waste paper.
+4) Press flowers inside its pages: Creates a lovely pattern and reminder of nature's fleeting beauty.
+5) Use it as doorstopper/paperweight : In case of emergency Miller Lite cans just won't do the trick .",1,0,
+273,cmpl-4xi23x6c8rbfjfjP0niXcP7G6J2op,1650135959,text-davinci:002,text-davinci-002,06:00.6,0.7,1,1,instr_1,List 5 creative uses for a book. ,book,"
+
+A book can be used as a doorstop, paperweight, coaster, decoration, or conversation starter.",1,3,
+274,cmpl-4xi24d9vwpjsx6oZs84d45LNTsqaG,1650135960,text-davinci:002,text-davinci-002,06:03.4,0.7,1,1,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to level a table or chair.
+3. A book can be used as a paperweight.
+4. A book can be used to decorate a room or shelf.
+5. A book can be used as a gift for someone who enjoys reading.",1,2,
+283,cmpl-4xi2YwhDnYHa48CfcQJXfS5a8VuXd,1650135990,text-davinci:002,text-davinci-002,06:33.7,0.7,1,1.5,instr_1,List 5 creative uses for a book. ,book,"
+
+1. A book can be used as a paperweight.
+2. A book can be used to prop up a crooked table leg.
+3. A book can be used as insulation in a cold room.
+4. A book can be shredded and used as packing material for shipping fragile items.
+5. Books can be glued together and made into furniture, such as chairs or end tables",1,5,
+284,cmpl-4xi2bHoxVX5F0PgA5OHL4ETJQUDf9,1650135993,text-davinci:002,text-davinci-002,06:37.3,0.7,1,1.5,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to kill a spider.
+3. A book can be used as decoration in a room.
+4. A book can be given as a gift to someone who enjoys reading.
+5.",1,4,
+293,cmpl-4xi3AtVhluOZZ3C1jGoK7CCSVF6Y4,1650136028,text-davinci:002,text-davinci-002,07:11.8,0.7,1,2,instr_1,List 5 creative uses for a book. ,book,"
+
+-a book can be used as a doorstop
+-a book can be used to keep a table level
+-a book can hold up one end of a teeter totter 
+-books make good paperweights  
+-if you need something to lean against in order not to fall asleep in class",1,4,
+294,cmpl-4xi3DfqcLSuMVNLhpEmDnzCb0ZUgD,1650136031,text-davinci:002,text-davinci-002,07:15.6,0.7,1,2,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to teach a child how to read.
+3. A book can be used as fuel for a fire.
+4, A book can be ripped up and used as confetti at a party, 
+5, Abookcanbeusedasaplate",1,4,
+363,cmpl-4xi903QsE5je8pFuTG6LWai9aP2MS,1650136390,text-davinci:002,text-davinci-002,13:14.3,0.8,1,1,instr_1,List 5 creative uses for a book. ,book,"
+
+1) A book can be used as a doorstop.
+2) A book can be used as a paperweight.
+3) A book can be used to Press flowers.
+4) A book can be used to make a homemade journal.
+5) A book can be used as part of a home decorating scheme.",1,3,
+364,cmpl-4xi94jpB0HrRsYN23Ix3e7kUmCHTW,1650136394,text-davinci:002,text-davinci-002,13:16.9,0.8,1,1,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. A book can be used as a door stop.
+2. A book can be used to level a table or shelf.
+3. A book can be used to prop open a window.
+4. A book can be used as a paperweight.
+5. A book can be used to make a small fort or house for toys and dolls.",1,4,
+373,cmpl-4xi9c7C88CYawm6VdiFr3rT7AT0KY,1650136428,text-davinci:002,text-davinci-002,13:49.9,0.8,1,1.5,instr_1,List 5 creative uses for a book. ,book,"
+
+1) Compost bin
+2) Doorstop
+3) Paperweight
+4) Birdhouse
+5) Decorative item",1,4,
+374,cmpl-4xi9dLDKQChOOYShCrhXUqXK0lePl,1650136429,text-davinci:002,text-davinci-002,13:55.1,0.8,1,1.5,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to start a fire in an emergency situation.
+3. A book can be used as a paperweight, to keep papers from blowing away in the wind or being scattered by Drafts.
+4. If you are short on cash, you could use a book as collateral for a loan at the library!
+5) Books make great gifts! You can give someone a book that has personal meaning to them, or one that is just fun and enjoyable to read",1,3,
+383,cmpl-4xiA7gknrfQnoeTydEKXXrQHHXa7t,1650136459,text-davinci:002,text-davinci-002,14:24.6,0.8,1,2,instr_1,List 5 creative uses for a book. ,book,"
+
+â€¢	A book can act as a doorstop.
+â€¢	books make great paperweights
+â€¢ Abook can also help level a wobbly table or chair.  
+â€¢ If you need to elevate something off the groundâ€”say, your laptop while working on the couchâ€”a couple of books work perfectly. 
+ â€¢ To keep fresh flowers standing tall in a vase, slip some crumpled pages from an old book at the bottom before adding water and arranging your blooms",1,4,
+453,cmpl-4xiGHlvi7GO8wN4anyyoVl77ArdS3,1650136841,text-davinci:002,text-davinci-002,20:44.0,0.9,1,1,instr_1,List 5 creative uses for a book. ,book,"
+
+- use as a doorstop
+- cut pages and make paper snowflakes
+- use as fuel in a fireplace
+- shred and use as packing material
+- donate to a local library or prison",1,4,
+454,cmpl-4xiGKRsDrFazJ7BIze1ViqsHB7HEH,1650136844,text-davinci:002,text-davinci-002,20:46.6,0.9,1,1,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. Toilet paper
+2. A door stop
+3. A place to put your drink while you read
+4. A decoration for your bookshelf
+5. When you don't have a bookmark, use the corner of a page",1,5,
+463,cmpl-4xiGltKRvI0qjnqngJVgO4Zec2DYD,1650136871,text-davinci:002,text-davinci-002,21:12.7,0.9,1,1.5,instr_1,List 5 creative uses for a book. ,book,"
+
+A book can be used as a doorstop, encyclopedia, paperweight, coaster, or decorative object.",1,3,
+464,cmpl-4xiGmk76QpdnhTUQuU7rfB49j0ZNR,1650136872,text-davinci:002,text-davinci-002,21:13.9,0.9,1,1.5,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+1. Bookends
+2. A book nook
+3. A paperweight
+4. A doorstop
+5. A bookmark",1,3,
+473,cmpl-4xiHEf45btBkwskcqk3OBCWBdzuyO,1650136900,text-davinci:002,text-davinci-002,21:42.4,0.9,1,2,instr_1,List 5 creative uses for a book. ,book,"
+
+2. Make a lampshade
+3. decoupage a box
+4. line drawer with pretty paper
+5. make ornaments",1,4,
+474,cmpl-4xiHGu357WiC1ucJwZO4wMmsh00ay,1650136902,text-davinci:002,text-davinci-002,21:46.1,0.9,1,2,instr_2,"List 5 creative uses for a book. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",book,"
+
+-A book can be used as a doorstop.
+-A book can be used to start a fire. 
+-If a person is feeling down, they could read one of their favorite books. 
+-Books could also be given out as gifts. 
+-'One man's trash is another man's treasure' - old/used books can often times be donated or resold for someone else to enjoy",1,2,
+388,cmpl-4xiAR0VjcLASmvQyTbPvCd8NwwKcf,1650136479,text-davinci:002,text-davinci-002,14:48.3,0.8,1,2,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. Use a brick as a doorstop.
+2. Create a makeshift stool by turning over a brick and using it as the seat. 
+3. kickoff game of tic-tac-toe with some friends outside by drawing Xs and Os on the ground with chalk, then use bricks as markers for each player's moves!
+4.(If you're feeling extra creative) Turn an old shirt into a cute crop top by cutting off the sleeves and sides, then tying knots in the middle of each side of the shirtâ€” voila, your very own DIY knot-front tanktop perfect for summer weather! Just make sure to cut off any unwanted seams first so that they don't show through after you tie the knots.. 5. Make your garden grow vertically instead of horizontally by stacking bricks to create mini walls or separations between different types of plants",0,0,0
+7,cmpl-4xhhKWCZUFbHdWq9wzXeEwc2jaklk,1650134674,text-davinci:002,text-davinci-002,44:37.4,0.4,1,1,instr_1,List 5 creative uses for a brick. ,brick,"
+
+1) A brick can be used as a doorstop.
+2) A brick can be used to prop open a window.
+3) A brick can be used as a paperweight.
+4) A brick can be used to level a table or shelf.
+5) A brick can be used as part of a makeshift barbecue grill.",1,4,
+8,cmpl-4xhhN1eZyuHIDHLZUYAL48IqYZUiy,1650134677,text-davinci:002,text-davinci-002,44:41.9,0.4,1,1,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. A brick can be used as a doorstop.
+2. A brick can be used to prop open a door.
+3. A brick can be used to hold down a tarp in windy weather.
+4. A5% of the world's population are left-handed, so a left-handed person could use a brick to support their right hand while they write with their left hand. 5 If someone was being chased by a dog, they could pick up a brick and throw it at the dog to defend themselves.",1,5,
+17,cmpl-4xhhr4OH7Lrs3HyO8NPjVS2WDQG5H,1650134707,text-davinci:002,text-davinci-002,45:10.9,0.4,1,1.5,instr_1,List 5 creative uses for a brick. ,brick,"
+
+1. A brick can be used as a doorstop.
+2. A brick can be used to prop open a window.
+3. A brick can be used as part of a birdhouse or other animal shelter.
+4. A brick can be painted and used as decorative wall art.
+5. Several bricks can be stacked together to create shelves, planters, or other structures..",1,3,
+18,cmpl-4xhhvKPAj35fN8ORc2HAVyMpxPyqi,1650134711,text-davinci:002,text-davinci-002,45:15.2,0.4,1,1.5,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. Make a paperweight.
+2. Make a doorstop.
+3. Use it as a doorstop in your garden to keep rabbits out (or in).
+4. Fill vases with them for decoration.
+5. Create patterns or shapes with them on the ground or on shelves",1,5,
+27,cmpl-4xhiU8CKR7YVHZEdApMhAfvhhpAlF,1650134746,text-davinci:002,text-davinci-002,45:49.1,0.4,1,2,instr_1,List 5 creative uses for a brick. ,brick,"
+
+1. A brick can be used as a bookend to keep books from falling over.
+2. A brick can be used as a doorstop to keep doors from closing fully or blowing open in the wind.
+3. A brick can be used in the garden as edging for flower beds or pathways.
+4 .A brick can be painted and hung on the wall as decoration or part of a larger mosaic design. 
+5 .Old, unused bricks make great building blocks for small children",1,3,
+28,cmpl-4xhiXojJePJKZu9q5TRF8l9heZgej,1650134749,text-davinci:002,text-davinci-002,45:51.4,0.4,1,2,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+A brick can be used as a doorstop, paperweight, place to store coins or other small items, decoration, or part of a child's pretend play house.",1,4,
+97,cmpl-4xhomgvWhLYLq7Kpxqxx6cLOBODlQ,1650135136,text-davinci:002,text-davinci-002,52:20.8,0.5,1,1,instr_1,List 5 creative uses for a brick. ,brick,"
+
+1) A brick can be used as a doorstop.
+2) A brick can be used to prop open a window.
+3) A brick can be used to support a heavy piece of furniture.
+4) A brick can be used as a paperweight.
+5) A brick can be used to build a small wall or garden fence.",1,2,
+98,cmpl-4xhoqmRCAblIYmCtPzKMlblGxhwWU,1650135140,text-davinci:002,text-davinci-002,52:23.8,0.5,1,1,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1) A brick can be used as a door stop.
+2) A brick can be used to hold a door open.
+3) A brick can be used to support a plant.
+4) A brick can be used to make a unique piece of jewelry.
+5) A brick can be used in place of a paperweight.",1,4,
+107,cmpl-4xhpOKFBYpgZuiDQ3l9DTHeNqugLQ,1650135174,text-davinci:002,text-davinci-002,52:57.5,0.5,1,1.5,instr_1,List 5 creative uses for a brick. ,brick,"
+
+-A brick can be used as a doorstop.
+-A brick can be used to prop open a window.
+-A brick can be used as a paperweight.
+-A brick can be used to level a table or shelf.
+-A stack of bricks can be used as an end table or coffee table.",1,3,
+108,cmpl-4xhpRGlScgarEYWeRk99LLZDlheV2,1650135177,text-davinci:002,text-davinci-002,53:02.1,0.5,1,1.5,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. A brick can be used as a paperweight.
+2. A brick can be used to prop open a door or window.
+3. A brick can be used to stabilize a wobbly table or chair leg.
+4. A brick can be used as a doorstop.
+5. A brick can be used in the garden as part of landscaping or hardscaping projects such as edging, walkways, and patios",1,2,
+117,cmpl-4xhpzWR6V0GU1LnQIQ5KUSLx9tCto,1650135211,text-davinci:002,text-davinci-002,53:35.6,0.5,1,2,instr_1,List 5 creative uses for a brick. ,brick,"
+
+1. A brick can be used as a paperweight to keep papers from blowing away.
+2. A brick can be used as a doorstop to prop open a door.
+3. A brick can be used in the bottom of a potted plant to help with drainage and support the plant.
+4. A small hole can be drilled into a brick and it can be hung on a wall as part of art or decoration. 
+5 .A large number of bricks could form the foundation or walls for structures like houses, sheds, or gazebos",1,3.5,
+118,cmpl-4xhq3q6umsgrEpNx2HRH5waV4RlNF,1650135215,text-davinci:002,text-davinci-002,53:43.1,0.5,1,2,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. Turn a brick into a doorstop by gluing felt or fabric to the top and bottom.
+2. Create a set of coasters by painting designs on bricks and sealing them with clear epoxy resin. 
+3. Make homemade firestarters by stuffing old newspapers inside used cardboard tubes, then soaking them in melted wax before rolling each one in crumpled up paper towels or dryer lintâ€”wrap everything tightly in parchment paper, using a length of jute twine to secure it at the center if needed, then allow the whole thing to cool and harden completely before use (store any unused ones upside down so they donâ€™t get wet). 4 Bricks can be used as weights when exercising 5 Use three bricks stacked on top of each other as makeshift steps to reach something high",0.5,3,
+187,cmpl-4xhve30i4mY3K7FQoicIXIQZDXOJP,1650135562,text-davinci:002,text-davinci-002,59:26.3,0.6,1,1,instr_1,List 5 creative uses for a brick. ,brick,"
+
+1. A brick can be used as a paperweight.
+2. A brick can be used to hold open a door.
+3. A brick can be used to prop up a plant.
+4. A brick can be used to level a table or shelf.
+5. A brick can be used as part of a wall decoration or artwork.",1,3,
+188,cmpl-4xhviM7P1nkPHSiqiFTPK6msToPTH,1650135566,text-davinci:002,text-davinci-002,59:29.3,0.6,1,1,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. A brick can be used as a doorstop.
+2. A brick can be used to hold up a picture frame.
+3. A brick can be used as a paperweight.
+4. A brick can be used to anchor a tent.
+5. A brick can be used in lieu of a stepping stone in a garden path.",1,3,
+197,cmpl-4xhwFYgc71LMgykjxvzceheCGFXST,1650135599,text-davinci:002,text-davinci-002,00:05.4,0.6,1,1.5,instr_1,List 5 creative uses for a brick. ,brick,"
+
+1) A brick can be used to create a makeshift stool or chair.
+2) Bricks can be used as weights for working out.
+3) If you stack a few bricks on top of each other, you can use them as a small table or shelf.
+4) You can use a brick to prop open a door. 
+5) If you have extra bricks lying around, you could use them to build a garden path or border in your yard.",1,2,
+198,cmpl-4xhwLjVdXl5GmU1gG3XaUXy5grznZ,1650135605,text-davinci:002,text-davinci-002,00:07.6,0.6,1,1.5,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. A brick can be used as a doorstop.
+2. A brick can be used to prop open a window.
+3. A brick can be used to weigh down papers or other items on a windy day.
+4. A bricks makes an excellent paperweight on a desk or table. 
+5. Fill a small mesh bag with bricks and use it as a homemade stress ball to squeeze when feeling anxious or overwhelmed!",0.5,2,
+207,cmpl-4xhwwlkfl0OWWs9T03tFkflxM5hod,1650135642,text-davinci:002,text-davinci-002,00:44.8,0.6,1,2,instr_1,List 5 creative uses for a brick. ,brick,"
+
+1. To create a solid foundation for a building
+2. To make a fireplace or BBQ
+3. For decorative purposes in gardens or on houses
+4. As part of a child's toy set 
+5. Using many bricks together to sculpt/create artwork",1,3,
+208,cmpl-4xhwyVTzByrQLPBwEAZdAhtD1mvqf,1650135644,text-davinci:002,text-davinci-002,00:52.1,0.6,1,2,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+-A brick could be used as a paperweight.
+-A brick could be painted and used as a doorstop.
+-A hollowed out brick could be utilized as a hidden cache for storing small valuables or emergency cash. 
+-Brick chimes: Tie multiple bricks together with string of varying lengths to create your own DIY wind chime! The longer the string, the deeper/lower the sound made when it hits the bricks. Or alternatively, use different sized stones or ceramic tiles in place of traditional ""bricks"" for unique sounding results each time!
+-If you are feeling crafty, try painting dollar signs on an old redbrick and voila! You have created your own DIY piggy bank :)",0.5,4,
+277,cmpl-4xi2EKSb5Svgov6W0E1spIlIi1sPx,1650135970,text-davinci:002,text-davinci-002,06:12.1,0.7,1,1,instr_1,List 5 creative uses for a brick. ,brick,"
+
+To build a wall, to prop open a door, to hold up a shelf, to use as a paperweight, to throw through a window.",1,2,
+278,cmpl-4xi2GUnv8TQ2RhwgiJXAQHVg4mWx8,1650135972,text-davinci:002,text-davinci-002,06:18.1,0.7,1,1,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+-Brick Phone: A phone that looks like a brick, perfect for those who want a retro feel.
+-Brick Paperweight: A paperweight in the shape of a brick, perfect for holding down papers or adding some decoration to a desk.
+-Brick Stamp: A rubber stamp in the shape of a brick, perfect for making imprints on paper or fabric.
+-Brick Candle Holder: A candle holder made from a brick, perfect for adding some ambiance to a room.
+-Brick Soap Dish: A soap dish made from a brick, perfect for giving your bathroom or kitchen an industrial feel.",1,4,
+287,cmpl-4xi2krOe2Fi5v1hF0LfjPTUql2oFC,1650136002,text-davinci:002,text-davinci-002,06:45.2,0.7,1,1.5,instr_1,List 5 creative uses for a brick. ,brick,"
+
+-A brick can be used as a paperweight.
+-A brick can be used to prop up a wobbly table.
+-A brick can be used in the bottom of a plant pot to help with drainage.
+-A brick can be used as a doorstop.
+-A brick can be used to anchor a tent or tarp in windy weather.",1,3,
+288,cmpl-4xi2nvGNtJt358NSu6rD184l4zn1w,1650136005,text-davinci:002,text-davinci-002,06:49.7,0.7,1,1.5,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. A brick can be used as a paperweight.
+2. A brick can be used to hold open a door.
+3. A brick can be used to prop up a wobbly table or chair leg.
+4. A ?5th? creative use for a brick isâ€¦a building material! Bricks have been used for centuries to construct homes, buildings, and other structures.
+5. Another creative use for bricks is as part of landscaping projects such as walls, patios, driveways, and walkways",1,2,
+297,cmpl-4xi3PYkEkL0AzJkAgny1dnoWMMoUh,1650136043,text-davinci:002,text-davinci-002,07:25.6,0.7,1,2,instr_1,List 5 creative uses for a brick. ,brick,"
+
+1. A brick can be used as a doorstop.
+2. A brick can be used to make a garden path.
+3. A brick can be used to build a wall or fence.
+4..A stack of bricks can be used as an end table 
+5.. Bricks can also spell out words like in the movie The Shawshank Redemption",1,3,
+298,cmpl-4xi3RmyqxHEGXCoS5YqhyKwiyW5tF,1650136045,text-davinci:002,text-davinci-002,07:27.7,0.7,1,2,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. Build a wall to keep people out.
+2. Build a wall to protect against the elements.
+3. Use as part of landscaping for decoration or function.
+4..Use as weight when working out 
+5. Competition in brickslaying",1,2,
+367,cmpl-4xi9CBXclHuHqfpITFB48gMZKzmGR,1650136402,text-davinci:002,text-davinci-002,13:26.4,0.8,1,1,instr_1,List 5 creative uses for a brick. ,brick,"
+
+-A brick can be used as a doorstop.
+-A brick can be used to prop open a door.
+-A brick can be used to hold up a table leg.
+-A brick can be used in the garden as edging.
+-A brick can be used as a paperweight.",1,2,
+368,cmpl-4xi9GTTatCHpjqxqtAfUeqGC9BaMt,1650136406,text-davinci:002,text-davinci-002,13:30.5,0.8,1,1,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. A brick can make a great doorstop.
+2. A brick can be used as a paperweight.
+3. A brick can be used to prop open a window.
+4. A brick can be used to hold down a tarp or tent in windy weather.
+5. A brick can be used as a step stool to reach something high up.",1,2,
+377,cmpl-4xi9phTeKOi2IcOmgbWHPu2gVJXwc,1650136441,text-davinci:002,text-davinci-002,14:03.4,0.8,1,1.5,instr_1,List 5 creative uses for a brick. ,brick,"
+
+A brick can be used as a doorstop, paperweight, bookend, decoration, or part of a child's toy.",1,3,
+378,cmpl-4xi9rtOGlhWtPtcPS3x5gXsmVSKxB,1650136443,text-davinci:002,text-davinci-002,14:05.8,0.8,1,1.5,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. Build a wall
+2. Build a house
+3. Make a sculpture
+4. Play catch
+5. Draw with chalk",1,4,
+387,cmpl-4xiAM2HhDTzPXzUKzNy3htDzPGoCm,1650136474,text-davinci:002,text-davinci-002,14:39.3,0.8,1,2,instr_1,List 5 creative uses for a brick. ,brick,"
+
+1) A brick can be used as a paperweight.
+2) A brick can be used to prop open a door.
+3) A brick can be used in place of a step stool.
+4) A stack of bricks can be used to create an impromptu table or shelf.
+5) Bricks can also be strung together to create decorative garlands or banners.",0.5,2,
+457,cmpl-4xiGSJQ85UATkki8y6Eg6xTDqjW2L,1650136852,text-davinci:002,text-davinci-002,20:54.6,0.9,1,1,instr_1,List 5 creative uses for a brick. ,brick,"
+
+A brick can be used as a doorstop, paperweight, planting platform, stepping stone, or wall decor.",1,2,
+458,cmpl-4xiGUFOejTgrkgxGXLCpv2633gkgp,1650136854,text-davinci:002,text-davinci-002,20:58.8,0.9,1,1,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. A brick could be used as a door stop.
+2. A brick could be used to prop open a window.
+3. A brick could be used as a paperweight.
+4. A brick could be used to make a homemade fire pit.
+5. A brick could be used in the construction of a play fort for children.",1,3,
+467,cmpl-4xiGu9Sl8TrrZ0OjvpoxUR26z8ibX,1650136880,text-davinci:002,text-davinci-002,21:21.7,0.9,1,1.5,instr_1,List 5 creative uses for a brick. ,brick,"
+
+-A wall
+-A doorstop
+-An attempt at a zen garden
+-As the first step in creating a barbecue 
+-Part of a child's sand castle",1,3,
+468,cmpl-4xiGvDVgbkTrpKiOdgEM0RhQeATra,1650136881,text-davinci:002,text-davinci-002,21:23.4,0.9,1,1.5,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1. Build a house
+2. Make a walkway
+3. Use as decoration in a garden
+4. Make a bird bath
+5. Create art",1,3,
+477,cmpl-4xiHQwBWnDewWzGj3fvS2henFRf7I,1650136912,text-davinci:002,text-davinci-002,21:56.5,0.9,1,2,instr_1,List 5 creative uses for a brick. ,brick,"
+
+1) Abrick can be used to hold open a door.
+2) A brick can be used as a paperweight.
+3) A brick can be used in the garden as part of a border or path.
+4) A brick can use to make a homemade pizza oven/bread oven. 
+5) Brickscan also bee used for art projects, like mosaics or sculptures",1,3,
+478,cmpl-4xiHU4G7UznFg4K96W0OjEnO5ZG8T,1650136916,text-davinci:002,text-davinci-002,21:59.7,0.9,1,2,instr_2,"List 5 creative uses for a brick. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",brick,"
+
+1) A brick can be used as a doorstop.
+2) A brick can be used to make a homemade pizza oven.
+3) A brick can be used to build a garden path.
+4) A BrickCan Be UsedAsAn ornament in your home or office 5Brick art",1,3,
+275,cmpl-4xi27MBaHRAbNPeDwgJ7Q3e7TomOL,1650135963,text-davinci:002,text-davinci-002,06:04.4,0.7,1,1,instr_1,List 5 creative uses for a fork. ,fork,"
+
+Fruit salad, spaghetti, roast chicken with vegetables, apple pie, pumpkin bisque",0,0,0
+276,cmpl-4xi28dXO82sHnrivmZMW6Xd9EVnBH,1650135964,text-davinci:002,text-davinci-002,06:10.0,0.7,1,1,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. A fork can be used as a hair pick.
+2. A fork can be used as a backscratcher. 
+3. If you're ever in a situation where you need to measure something in cups, a fork can double as a cup-measuring tool (just make sure to wash it afterwards).
+4. A fork can also be used as an impromptu toothpick.
+5. Finally, if you ever find yourself with a broken umbrella and are in dire need of a makeshift ones, some duct tape and a few forks will do the trick!",1,4,0
+296,cmpl-4xi3K5TNs8rNz4SIUebk9DOdCG67K,1650136038,text-davinci:002,text-davinci-002,07:23.0,0.7,1,2,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. Use a fork to curl your hair! Just wrap a section of hair around the tines of the fork, and then use a blow dryer to heat up the metal. The result will be bouncy, curls that last all day long.
+2. Stick a few forks into an empty vase or Mason jar to create instant desert chic dÃ©cor for your home or office desk. 3) Out on a romantic picnic and forgot candles? No problem â€“ simply grab some forks, jam them upright in the ground (if itâ€™s soft enough), light some tea lights, and voilaâ€¦instant mood lighting! 4) Next time you have guests over for dinner parties why not ditch those pesky toothpicks in favor of festive mini dessert forks as Swords 5)...or chopsticks!!!",1,3,0
+5,cmpl-4xhhD7WTXflegGlOVy7twk7yrkO2T,1650134667,text-davinci:002,text-davinci-002,44:29.4,0.4,1,1,instr_1,List 5 creative uses for a fork. ,fork,"
+
+A fork can be used as a pry bar, scraper, shim, highly effective throwing weapon, or to prop open a door.",1,4,
+6,cmpl-4xhhFJILt96cZePNgtdvusylGfQSc,1650134669,text-davinci:002,text-davinci-002,44:33.6,0.4,1,1,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. Use a fork to curl your hair.
+2. Use a fork to eat cake without getting your hands dirty.
+3. Use a fork to apply makeup (e.g., mascara).
+4. Use a fork as a toothpick.
+5. Use a fork to puncture holes in construction paper to make lace patterns.",1,4,
+15,cmpl-4xhhk0Ob8dYLFnHpHyipMtQT8JGQY,1650134700,text-davinci:002,text-davinci-002,45:05.7,0.4,1,1.5,instr_1,List 5 creative uses for a fork. ,fork,"
+
+1) Use a fork to eat food. 
+2) Hold a fork in your hand while you walk to keep from being bored. 
+3) Use a fork as a shot put and see how far you can throw it. 
+4) Stick forks in the ground all around your yard so that they look like flowers. 
+5) See how many things you can balance on top of a fork before it falls over.",1,5,
+16,cmpl-4xhhpTWvdsuQyStborB0cXGFCo1YD,1650134705,text-davinci:002,text-davinci-002,45:07.8,0.4,1,1.5,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. Eating spaghetti without making a mess
+2. Creatingdivots in mashed potatoes
+3. Making an important phone call 
+4. Defending oneself from a knife attack 
+5. Cleaning up after a pet",0.5,3,
+25,cmpl-4xhiMOpAJr2rPVVA4iceD1H9X0ikC,1650134738,text-davinci:002,text-davinci-002,45:43.6,0.4,1,2,instr_1,List 5 creative uses for a fork. ,fork,"
+
+1. If you don't have a can opener, you can use a fork to open canned goods.
+2. Use a fork as an ice cream scooper.
+3. Curl your hair with a fork for cute beachy waves. 
+4. Make music with forks! Fork + metal bowl = percussion instrument funtimes :)
+5. In desperate times, toothpicks are hard to come by but most people have at least one spare fork - so if you need to get something out of your teeth, go ahead and give it a try (at your own risk).",1,4,
+26,cmpl-4xhiR0MYDzenvzyCf4l317Evr0Vx0,1650134743,text-davinci:002,text-davinci-002,45:45.9,0.4,1,2,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1) Eat soup with a fork. 2) Use a fork to curl your hair. 3) Use a fork as a backscratcher. 4) Stick a fork in an electrical outlet (not recommended). 5) use forks as chopsticks",1,4,
+95,cmpl-4xhogTyT2YLKPTFZLuXmKkpt7ycy4,1650135130,text-davinci:002,text-davinci-002,52:13.5,0.5,1,1,instr_1,List 5 creative uses for a fork. ,fork,"
+
+-Spear a piece of food on the tines to pick it up
+-Use the back of the fork as a mini shovel to push food onto your spoon
+-Poke holes in soft foods like cake or mashed potatoes
+-Serve salad by using the tines as salad tongs 
+-Trace designs in gelato",1,2,
+96,cmpl-4xhojujNR2mHAI8bHmRc4N1qvTBWL,1650135133,text-davinci:002,text-davinci-002,52:16.9,0.5,1,1,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. Use a fork as a backscratcher.
+2. Use a fork to remove lint from your clothing.
+3. Use a fork to apply makeup (e.g., mascara).
+4. Use a fork as a bookmark.
+5. Stick forks in the ground to mark the perimeter of your garden or property line.",1,4,
+105,cmpl-4xhpGO0DFu398NMeZPIHCVGGPgIsi,1650135166,text-davinci:002,text-davinci-002,52:48.6,0.5,1,1.5,instr_1,List 5 creative uses for a fork. ,fork,"
+
+1- Use a fork to apply makeup.
+2- Create furniture out of forks.
+3- Use a fork as a garden tool.
+4- Make jewelry out of forks. 
+5- Cook with forks",1,4,
+106,cmpl-4xhpIrPxrPnOV1b2RP0YD9a31ew22,1650135168,text-davinci:002,text-davinci-002,52:54.3,0.5,1,1.5,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. Use a fork as a drumstick to play the drums.
+2. Turn a fork into a necklace by threading string or cord through the tines. 
+3. Make tiny appetizers on forks for a party by spearing bite-sized pieces of fruit, cheese, and meat onto them.
+4. Serve an ice cream sundae with all the toppings in separate bowls and let people build their own creation by choosing what they want on their scoop of ice cream â€“ then eat it with the fork!
+5. Decorate plain white plates by drawing designs with wasabi peas â€“ use the fork to make curved lines",1,4,
+115,cmpl-4xhptdho7qCyn5Yzj0uh8eR4xKUdu,1650135205,text-davinci:002,text-davinci-002,53:28.4,0.5,1,2,instr_1,List 5 creative uses for a fork. ,fork,"
+
+1. scrapped paint off a wall
+2. ate spaghetti with it 
+3. used to apply makeup primer 
+4. held up hair while curling it 
+5. put in between couch cushions to stop them from sliding",1,5,
+116,cmpl-4xhpwhqdzPONStGQLNcF0URSmxUMF,1650135208,text-davinci:002,text-davinci-002,53:31.5,0.5,1,2,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. Pick up tiny objects like beads or glitter with a fork.
+2. Hold multiple forks together to create a fanning effect. 
+3. Stick forks in the ground around plants as Garden markers or plant tags 4 Use 2 Forks As Earrings 5 Curl your hair with a Fork",1,4,
+185,cmpl-4xhvXkpRHjEYERBQiKvQIgwFwWD4Y,1650135555,text-davinci:002,text-davinci-002,59:18.9,0.6,1,1,instr_1,List 5 creative uses for a fork. ,fork,"
+
+1) Stick a fork in a lemon to add flavor to your water.
+2) Use a fork as a hair pick.
+3) Use a fork to eat nachos instead of using your fingers.
+4) Scratch your back with a forks tines.
+5) Hold a fork under running water to help prevent cutting yourself while slicing fruits or vegetables.",0.5,3,
+186,cmpl-4xhvaLJCuA74GHgWqInGBtz6MqB45,1650135558,text-davinci:002,text-davinci-002,59:22.4,0.6,1,1,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. Perfect for twirling spaghetti or linguine
+2. Great for delicately transporting sushi rolls
+3. A must-have tool for eating clam chowder or bouillabaisse
+4. Ideal for sopping up csauce from a plate of chicken parmigiana 
+5. The perfect weapon for an intense game of fork dueling",1,1.5,
+195,cmpl-4xhw4HzaJT9VkbJVkdtQfAIW2FWjh,1650135588,text-davinci:002,text-davinci-002,59:51.8,0.6,1,1.5,instr_1,List 5 creative uses for a fork. ,fork,"
+
+-Using the tines as a comb 
+-Spearing and flipping meat on the grill 
+-Tracing patterns in sand 
+-Stirring a pot of soup 
+-Delicately eating a cake",1,2,
+196,cmpl-4xhw7g0mkgTrR5TfuJfANbZYuK70i,1650135591,text-davinci:002,text-davinci-002,59:59.1,0.6,1,1.5,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. A fork can be used to pick up small items that are difficult to grab with your fingers, such as beads or sequins.
+2. If you're ever in a pinch and need a toothpick, a fork works great! Just make sure to give it a good wash afterwards.
+3. Use a fork to curl ribbon or fabric strips for unique crafting projects.
+4. Stick forks into an Styrofoam wreath form to create fun and festive yard decorations for any season or holiday!
+5. Get creative in the kitchen by using a fork to make patterns in soft foods like mashed potatoes, quiche, or omelettes.",1,4,
+205,cmpl-4xhwnSFH1caVl2W2iM9HZB7Z3wSXf,1650135633,text-davinci:002,text-davinci-002,00:35.7,0.6,1,2,instr_1,List 5 creative uses for a fork. ,fork,"
+
+1. Eating with a fork; 
+2. Picking up small items; 
+3. Making patterns in the sand or snow; 
+4. Spinning like a propeller; and,  
+5 Using as tongs to pick up hot food from a pot",1,3,
+206,cmpl-4xhwpaixVEgCnjAZxRmnts1WpxOpu,1650135635,text-davinci:002,text-davinci-002,00:41.9,0.6,1,2,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. A fork can be used as a tool to help mix ingredients together when baking.
+2. Forks can be used as garden utensils for planting or turning soil. 
+3. If you are camping and need to roast marshmallows over the fire, use a fork! 
+4. Get those hard to reach spots on your back with a little DIY action- tie a long handledforkto the end ofabrush(or any other suitable object). 5.#ForkOutTheFun: Have fun at parties by using forks astoothpicksandgive people their food â€œspearedâ€",1,3,
+285,cmpl-4xi2fih3u51SuneKlYhP14nGDEHjc,1650135997,text-davinci:002,text-davinci-002,06:38.9,0.7,1,1.5,instr_1,List 5 creative uses for a fork. ,fork,"
+
+- sticking in a tire to fix a flat
+- using as aLetter opener
+- stirring your coffee
+- making snow angels in the sand
+- eating",1,3,
+286,cmpl-4xi2hpfzNc39gTTqFUrAC5dtzEZ5V,1650135999,text-davinci:002,text-davinci-002,06:42.7,0.7,1,1.5,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. A fork can be used to play the piano.
+2. A fork can be used as a backscratcher.
+3. A fork can be used to dig in the sand at the beach.
+4. A fork can be used as a hairpin or bobby pin.
+5. A fork can be used to eat ice cream (or any other food, for that matter).",1,4,
+295,cmpl-4xi3Hc4inwYe8ZKB31wq6afOh8qel,1650136035,text-davinci:002,text-davinci-002,07:18.6,0.7,1,2,instr_1,List 5 creative uses for a fork. ,fork,"
+
+1) Eat soup without making a mess.
+2) Hold multiple pieces of spaghetti at once. 
+3) Stab a piece of meat to hold while cutting it. 
+4) Use as a makeshift spoon when there are no spoons available. 
+5) Twirl vegetables like noodles on your fork before eating them",1,1,
+365,cmpl-4xi97VvzsvqmjR7hbHdTVeJiRa9AQ,1650136397,text-davinci:002,text-davinci-002,13:19.9,0.8,1,1,instr_1,List 5 creative uses for a fork. ,fork,"
+
+1) Leave a note with a fork.
+2) A creative way to measure appropriate serving sizes.
+3) To eat spaghetti without getting sauce on your face.
+4) Pick up small items like peas or sushi.
+5) Use as a mini-shovel for gardening tasks.",1,2,
+366,cmpl-4xi999jYaSPG1kxCvkOM3cqekwhDi,1650136399,text-davinci:002,text-davinci-002,13:22.2,0.8,1,1,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. A fork can be used as a hairpin.
+2. A fork can be used as a toothpick.
+3. A fork can be used to play the drums.
+4. A fork can be used as a backscratcher.
+5. A fork can be used to make a grilled cheese sandwich.""",1,4,
+375,cmpl-4xi9jEV2sj84JBsqSzwdCft6eggF2,1650136435,text-davinci:002,text-davinci-002,13:59.8,0.8,1,1.5,instr_1,List 5 creative uses for a fork. ,fork,"
+
+1. Using a fork to eat food. 
+2. Using a fork as a tool to help stir something in a pot. 
+3. Using a forked-end chopstick to pick up sushi rolls. 
+4.. Holding a cake or pie steady while cutting it with a knife; the tines of the fork can also guide each cut slice off cleanly without crumbling the dessert  
+5. Place forks on opposite sides of plates when setting an informal table, so guests can decide which hand feels more comfortable",1,1,
+376,cmpl-4xi9nO29k0x8lYqLRgys4DXGMvi2y,1650136439,text-davinci:002,text-davinci-002,14:01.7,0.8,1,1.5,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1.To eat spaghetti 
+2. To dig in the sand at the beach 
+3. To playfully stab someone with while saying ""guess who?""  
+4. To use as a hair pick 
+5. As a back scratcher",1,3.5,
+385,cmpl-4xiAECwT1A2ce8PeXmoazuBDcblGL,1650136466,text-davinci:002,text-davinci-002,14:28.9,0.8,1,2,instr_1,List 5 creative uses for a fork. ,fork,"
+
+1. To eat food, of course! 
+2. To hold up your hair while you put on makeup. 
+3. To create art - think fork paintings! 
+4. As a gardening tool - for example, to aerate soil or remove weeds without damaging the plant roots beneath them.  
+5. And last but not least, as a handy (and somewhat dangerous) weapon in a fight ;)",1,4,
+386,cmpl-4xiAHp4GURJZCKoCjuEngKtM3rcjJ,1650136469,text-davinci:002,text-davinci-002,14:34.9,0.8,1,2,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. Use a fork as a letter opener.
+2. Stick forks in the ground to make a mini fence or garden border.
+3. Turn afork intoa plant hanger by attaching ittostringorwireand suspendingitfromceiling hooks(greatforplantholders that donâ€™t have drainage holes). 
+4 .Use afork asapaperweight topin papersdown on abulletinetable orotherworksurface;    5  Experimentwith usingaforksasamacrameknottobeadornyourplantso theyhave amore indexical relationship toyourabode (i",1,4,
+455,cmpl-4xiGMoXouRSArwRQWwczi1iOIumfx,1650136846,text-davinci:002,text-davinci-002,20:49.2,0.9,1,1,instr_1,List 5 creative uses for a fork. ,fork,"
+
+1. A fork can be used to style your hair.
+2. A fork can be used as a back scratcher.
+3. A fork can be used as a finger puppet.
+4. A fork can be used to make patterns in sand or dirt.
+5. A fork can be used as a drumstick on a table top or other surface.",1,4,
+456,cmpl-4xiGPL5PGDn8NN2xCys8Hrj5f8iMv,1650136849,text-davinci:002,text-davinci-002,20:52.6,0.9,1,1,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+-Digging holes in the sand at the beach 
+-Eat spaghetti without making a mess 
+-Make hash marks on a soft boiled egg 
+-Stir a pot of soup without getting burned 
+- Serve salad without leaving fingerprints",1,1.5,
+465,cmpl-4xiGo6tmr3oQi0BwlRsvIVGwaehOp,1650136874,text-davinci:002,text-davinci-002,21:16.2,0.9,1,1.5,instr_1,List 5 creative uses for a fork. ,fork,"
+
+-to eat food with
+-to hold up your hair while you put makeup on
+-to prop open a door
+-to dig in the dirt
+-to make a fork bracelet",1,4,
+466,cmpl-4xiGqyCXKZChbd1OGDhHGw9TogpKg,1650136876,text-davinci:002,text-davinci-002,21:19.9,0.9,1,1.5,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+1. Put a fork in your hair to look like a unicorn. 
+2. Use a fork as a bookmark in your favorite book.
+3. Curl your lashes with a fork for extra definition.
+4. Use a smallfork to dig out lost earrings from under furniture cushions.
+5. Hold forks by the tines and use them as chopsticks!",1,4,
+475,cmpl-4xiHK4x7XZEJ4k5F2Gcm3cRAH9nkY,1650136906,text-davinci:002,text-davinci-002,21:49.4,0.9,1,2,instr_1,List 5 creative uses for a fork. ,fork,"
+
+A fork can be used to hold a bowl in place while you stir. It can also be used as a makeshift toothpick, or as an emergency button pusher. Forks can also be bundled together to make a mini-shovel, perfect for potted plants or small jobs around the house. Finally, forks make excellent salad tongs!",1,3,
+476,cmpl-4xiHNbVAU6QfnW4k6jyFZigvSXzVz,1650136909,text-davinci:002,text-davinci-002,21:52.0,0.9,1,2,instr_2,"List 5 creative uses for a fork. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",fork,"
+
+-Pry open a paint can 
+-Create impromptu chopsticks 
+-Scoop cookie dough out of the tub 
+-Eat an entire pizza in one sittingâ€¦ no hands! 
+-Flip a light switch on/off",1,2,
+1,cmpl-4xhguybL9GCsiKgoyuMoxQeDhazjv,1650134648,text-davinci:002,text-davinci-002,44:10.8,0.4,1,1,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+A paperclip can be used as a bookmark, a money clip, a fastener for loose papers, to make a paper airplane, or to hold a pen or pencil in place.",1,1,
+2,cmpl-4xhgxRQ1UzUhZmJVoWLOH0vK4IdV7,1650134651,text-davinci:002,text-davinci-002,44:15.0,0.4,1,1,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. A paperclip can be used as a bookmark.
+2. A paperclip can be used to hold together two pieces of paper.
+3. A paperclip can be used to clip a pen to a pocket.
+4. A paperclip can be used to make a chain link necklace.
+5. A paperclip can be used as a emergency hair tie.",1,2.5,
+11,cmpl-4xhhYqrCJZWpIck2mLurqNahkhztV,1650134688,text-davinci:002,text-davinci-002,44:51.2,0.4,1,1.5,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+-A paperclip can be used as a bookmark in a book.
+-A paperclip can be used to hold together two pieces of paper.
+-A paperclip can be used to hang a picture on a wall.
+-A paperclip can be used as a stand for a tablet or phone.
+-A paper clip can also double as earrings for certain piercings",1,4,
+12,cmpl-4xhhbwzuVtoBzvClsbUuEwMhC2BgZ,1650134691,text-davinci:002,text-davinci-002,44:55.2,0.4,1,1.5,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1) Use a paperclip as a bookmark in your favorite book.
+2) Keep track of important papers by clipping them together with a paperclip.
+3) Make a game out of trying to bend the paperclip into different shapes.
+4) Turn the paperclip into jewelry, such as a ring or bracelet.
+5) Use the paperclip to secure photos onto scrapbook pages.",1,2.5,
+21,cmpl-4xhi6BWBv1WB9Ct8RZML4p6DUSqlm,1650134722,text-davinci:002,text-davinci-002,45:24.2,0.4,1,2,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+1. Create a paperclip chain
+2. Use as a bookmark in a book
+3. Hold together papers or sheet music
+4. Make a mathematical creature out of them 
+5. Turn into jewelry",1,2.5,
+22,cmpl-4xhi8MkwScHwBMFCzUtI5arZnGi94,1650134724,text-davinci:002,text-davinci-002,45:28.7,0.4,1,2,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+-Tie two paperclips together to create a makeshift pair of eyeglasses
+-Use a paperclip as an impromptu bookmark
+-Fashion a tinyNOTE out of sticky notes and a paperclip 
+ Bend the wire part of the paperclip into different shapes (e.g. animals) 
+ Stick severalpaperclips onto your shirt like badges",1,3,
+91,cmpl-4xhoQGgQQYjTvw4iXiSAFRp73ELsi,1650135114,text-davinci:002,text-davinci-002,51:59.9,0.5,1,1,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+-A paperclip can be used as a bookmark in a book.
+-A paperclip can be used to hold together papers that need to be kept together.
+-A paperclip can be used as a temporary fix for a broken zipper on a piece of clothing.
+-A paperclip can be used to clip a pen or pencil to the top of a notebook so it doesn't get lost.
+-A paperclip can be used as an emergency replacement for a broken button on a shirt.",1,3,
+92,cmpl-4xhoVm9xYaRgdXtLTbokB3zWFgtSe,1650135119,text-davinci:002,text-davinci-002,52:03.5,0.5,1,1,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. A paperclip can be used as a bookmark.
+2. A paperclip can be used to hold together two pieces of paper.
+3. A paperclip can be used as a toothpick.
+4. A paperclip can be used to clip a pen to a shirt pocket.
+5. A paperclip can be used to secure a button on a shirt.",1,3,
+101,cmpl-4xhp2Usm7hCJPEbo94OuxrmzV8wgp,1650135152,text-davinci:002,text-davinci-002,52:34.9,0.5,1,1.5,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+A paperclip can be used to clip papers together, to hold a pen or pencil to a notebook, to mark a spot in a book, to make a makeshift bookmark, or to keep track of page numbers when copying documents.",1,1,
+102,cmpl-4xhp5lwJzfCVCVly41pQkBcMOUMxo,1650135155,text-davinci:002,text-davinci-002,52:38.8,0.5,1,1.5,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. A paperclip can be used as a bookmark in a book or magazine.
+2. A paperclip can be used to hold papers together.
+3. A paperclip can be used to hang pictures on a bulletin board or wall.
+4. A paperclip can be bent and turned into a small sculpture or piece of jewelry.
+5. A paperclip can also be used as part of a prank, such as being glued to someone's fingers so that they cannot pick up anything properly",1,3,
+111,cmpl-4xhpb0OUX1FbIBurrI0lszSJfHKfd,1650135187,text-davinci:002,text-davinci-002,53:11.4,0.5,1,2,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+A paper clip can be used as a money clip, to secure papers together, to hang artwork on a bulletin board, to mark the page of a book, or to holdTogether multiple sheets of paper.",1,1.5,
+112,cmpl-4xhpfj1RxAtnJViMmsCVMeVuHyOKZ,1650135191,text-davinci:002,text-davinci-002,53:15.8,0.5,1,2,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. Use a paperclip to make a stand for your smartphone.
+2. Use paperclips as temporary bookmarks in textbooks or novels.
+3. Fasten papers together without having to use staples with large paperclips. 
+4.'Unlock' a door with a straightened out paperclip by picking the lock 5) Connect multiple sheets of loose-leaf notebook paper together by clipping their corners",1,2,
+181,cmpl-4xhvNPYa4NPKPQTe5KBpa3QMJhJ6M,1650135545,text-davinci:002,text-davinci-002,59:07.5,0.6,1,1,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+A paperclip can be used as a bookmark, to hold together loose papers, to fasten a chip bag shut, to make a simple toy, or to hang holiday cards.",1,1.5,
+182,cmpl-4xhvPsgjU3fRIIKQFW7GPHcTIbYol,1650135547,text-davinci:002,text-davinci-002,59:11.2,0.6,1,1,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1) A paperclip can be used as a bookmark.
+2) A paperclip can be used to clip together papers.
+3) A paperclip can be used to hold a pen or pencil.
+4) A paperclip can be used to fasten a button.
+5) A paperclip can be used as a keychain.",1,2,
+191,cmpl-4xhvulaYlK0FhPyCcRBWAykbxicPk,1650135578,text-davinci:002,text-davinci-002,59:42.9,0.6,1,1.5,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+-A paperclip can be used as a bookmark in a book. 
+-A paperclip can be used to hold together two pieces of paper. 
+-A paperclip can be used to fasten a loose button on clothing. 
+-A paperclip can be used as a temporary fix for a broken eyeglass frame. 
+-A paperclip can be bent and shaped into various decorative forms or jewelry such as rings, bracelets, or necklaces.",1,3,
+192,cmpl-4xhvzVa7Hkb1MkBDD9QYryzrClst3,1650135583,text-davinci:002,text-davinci-002,59:44.3,0.6,1,1.5,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. Hold together papers or other materials that are too thick to be held by a staple alone.
+2. Serve as a bookmark in a book or magazine.
+3",1,1,
+201,cmpl-4xhwUTYpxLopk7CEuD0OMySk4ehrX,1650135614,text-davinci:002,text-davinci-002,00:18.9,0.6,1,2,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+1. Use a paperclip to hold papers together.
+2. Use a paperclip as a bookmark in your favorite book.
+3. Use a paperclip to hang pictures on the wall.
+4 .Use a paperclip to attach name tags to clothing.
+5 .Use a paper clip chain letters",1,2,
+202,cmpl-4xhwY69Sv7xdUHSWATYKYJps9YOfI,1650135618,text-davinci:002,text-davinci-002,00:24.7,0.6,1,2,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. To make a bookmark: Take a paperclip and bend it into a shape that can slide onto the page of a book. This way, you will never lose your place again!
+2. To fix torn pages in a book: If you have kids, then chances are good that at some point they will rip out a page from one of their books. A paperclip can help to keep those ripped pages together until you can get them taped or glued back in place.
+3 	To secure wrapping paper: Donâ€™t have any tape handy and need to wrap a present quickly? No problemâ€”just use paperclips! Theyâ€™ll hold the paper in place until you can get proper tape.
+4 	As makeshift clothes hangers: Paperclips arenâ€™t just for holding papers together; they can also be used as makeshift coat hangers when necessary. Just open up the clips and hang whatever clothing items you need on themâ€”they",1,3.5,
+271,cmpl-4xi1xiAXM98JdpR4F60ntIeGLS6ma,1650135953,text-davinci:002,text-davinci-002,05:56.8,0.7,1,1,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+-A paperclip can be used as a bookmark in a book. 
+-A paperclip can be used to keep papers together. 
+-A paperclip can be used to hold a pen or pencil. 
+-A paperclip can be used to make a chain. 
+-A paperclipcan be used as a emergency money holder.",1,2,
+272,cmpl-4xi20h01TjNaLsaOAneUKnx2Frs3S,1650135956,text-davinci:002,text-davinci-002,05:59.6,0.7,1,1,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. Paperclip art
+2. Use paperclips to make a chain Reaction game 
+3. Make a paperclip mobile 
+4. Use paperclips in lieu of bobby pins  
+5. Make a paperclip bookmark",1,4,
+281,cmpl-4xi2SzbOmNsx53XVAsdln4m2UWk5m,1650135984,text-davinci:002,text-davinci-002,06:27.7,0.7,1,1.5,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+1. To clip together papers or other materials.
+2. To mark a spot in a book or on a document.
+3. To fasten a temporary repair on clothing or fabric.
+4. As an improvised bookmark in the absence of an actual bookmark.
+5. To secure loose cords and prevent them from becoming tangled",1,2,
+282,cmpl-4xi2Va2erjoDMDw2MmHg3Cwc84ypC,1650135987,text-davinci:002,text-davinci-002,06:30.1,0.7,1,1.5,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. Using paperclips as currency
+2. Building a house out of paperclips 
+3. Creating art with paperclips 
+4. Making furniture with paperclips 
+5. using paperclips as a means of escape",1,3,
+291,cmpl-4xi30YsEnqkSx6g5IGb16fQHKAAJS,1650136018,text-davinci:002,text-davinci-002,07:01.6,0.7,1,2,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+A paperclip can be used to: 
+1. Clip papers together 
+2. Hang a picture on a wall 
+3. Make a temporary fix for eyeglasses  
+4. Keep track of important pages in a book 
+5. Hold open the pages of a cookbook while cooking",1,3,
+292,cmpl-4xi33s5qBflEj8svEMdwmzZiO2gGP,1650136021,text-davinci:002,text-davinci-002,07:08.3,0.7,1,2,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. A paperclip makes a great bookmark! Just bend it open and hook it over the pages you want to keep track of.
+2. Use a paperclip as a shoehornâ€”the small end is perfect for slipping into shoes that are tight.
+3. Turn your paperclip into an adorable little ladybug by painting it red and black, adding some googly eyes, and bending its wire legs outwards!4 
+4 If youâ€™re ever in need of a straight pin, just use apaper clip insteadâ€”its sharp point will do the trick nicely.
+5 Last but not least, if you find yourself lackinga toothpickâ€¦well, then reaching for a paperclip isnâ€™t sucha bad idea after all!",1,4,
+361,cmpl-4xi8tmk6D3QdBwkiK3eFo71qXhkvg,1650136383,text-davinci:002,text-davinci-002,13:07.4,0.8,1,1,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+- Use as a bookmark in a book or on loose papers.
+- Attach two pieces of paper together.
+- Hang a picture frame from a nail or hook.
+- Make a temporary fix for a button that has come off of clothing.
+- Mix with glitter to make decorated clips for school supplies or gifts.",1,2.5,
+362,cmpl-4xi8xxMKTkko6lgI4pJQvoqCbtvOu,1650136387,text-davinci:002,text-davinci-002,13:10.7,0.8,1,1,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+-A paperclip can be used to hold a stack of papers together.
+-A paperclip can be used to connect two pieces of paper.
+-A paperclip can be used to make a bookmark.
+-A paperclip can be used as a makeshift clothespin.
+-A paperclip can be used to fasten a button.",1,2,
+371,cmpl-4xi9TzxIfMvDVZ5faWsgn9fVz6Dci,1650136419,text-davinci:002,text-davinci-002,13:41.6,0.8,1,1.5,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+A paperclip can be used to hold together papers, to fasten a shirt collar, to mark a spot in a book, to hang up a picture frame, or to keep track of loose keys.",1,2,
+372,cmpl-4xi9VC2747Qm5vGLgy8rJGyyYG9UH,1650136421,text-davinci:002,text-davinci-002,13:48.5,0.8,1,1.5,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. Paperclip bookmarks - If you're reading a lot of books, it can be helpful to have different paperclips for each one so you can quickly find your place again.
+2. Paperclip chain - This is a childhood favorite! Simply thread a bunch of paperclips together to make a long chain. It's great for fidgeting or as decoration.
+3. Task reminder - Need a quick way to remember something? Clip a piece of paper to your clothing with a paperclip. When you see it, you'll know what needs to be done.
+4. Emergency money holder - Have some cash on hand in case of an emergency by stashing it inside a hollowed-out paperclip! Just make sure not to lose the whole thing...
+5. Creative artwork - Use colorful or patterned paperclips as part of unique artworks and crafts projects!",1,2.5,
+381,cmpl-4xiA2ru89GVnESTuSVW6vA7KJZgjG,1650136454,text-davinci:002,text-davinci-002,14:16.1,0.8,1,2,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+A paperclip can be used as a money clip, to hold together papers or other materials, to make a bookmark, to secure the pages of a book together, or to fasten two pieces of fabric together.",1,1,
+382,cmpl-4xiA4agRFpJz9Q0GiImiu9NyR66jT,1650136456,text-davinci:002,text-davinci-002,14:19.3,0.8,1,2,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. To hold together two pieces of paper when you don't have any tape or staples handy 
+2. To create a makeshift bookmark 
+3. Use it as a temporary fix for a broken zipper pull  
+4. Turn it into art by bending and shaping it into different forms 
+5. Straighten out the paperclip and use it as a toothpick",1,3,
+451,cmpl-4xiG6qIUpjy4MLoudtysACT8mGIU5,1650136830,text-davinci:002,text-davinci-002,20:35.4,0.9,1,1,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+1. A paperclip could be used as a bookmark in a book.
+2. A paperclip could be used to hold together two pieces of paper.
+3. A paperclip could be used to fasten a button onto a piece of clothing.
+4. A paperclip could be used to make a game, such as tic tac toe or hangman.
+5. A paperclip chain could be made and worn as a necklace or bracelet.",1,3,
+452,cmpl-4xiGBdAE6pWBcWcS3k4kBSaCWikfT,1650136835,text-davinci:002,text-davinci-002,20:41.7,0.9,1,1,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. Paperclipmart â€“ an online store that sells only paperclips and related products
+2. The Paperclip Project â€“ a nonprofit that collects unused paperclips and donates them to people in need
+3. Clip It! â€“ a monthly subscription service that sends subscribers a new and unique paperclip to try out each month
+4. The Great Paperclip Experiment â€“ a social experiment in which people attempt to live for one week using only paperclips
+5. Paperclip Art â€“ intricate designs created using nothing but paperclips",0.5,5,
+461,cmpl-4xiGemF6HRwp2OZToJmHRHETvm7kW,1650136864,text-davinci:002,text-davinci-002,21:07.7,0.9,1,1.5,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+A paperclip can be used as a bookmark, to hold together papers or photos, to secure a chip bag shut, as a temporary fix for a broken zipper, or to make a model of DNA.",1,4,
+462,cmpl-4xiGhaztGY9AgkTKp93Wo64RSy6g6,1650136867,text-davinci:002,text-davinci-002,21:11.7,0.9,1,1.5,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. A paperclip can be used as a bookmark in a book or magazine.
+2. A paperclip can be used to hold together two pieces of paper.
+3. A paperclip can be used to make a wire antenna for an AM/FM radio.
+4. A paperclip can be used as a small clothespin to hang laundry on a line or other surface.
+5. Paperclips can also be strung together to create chains or jewelry such as bracelets, necklaces, and anklets",1,4,
+471,cmpl-4xiH5Y1RBQswHBa3MTF3m2nPotpLZ,1650136891,text-davinci:002,text-davinci-002,21:32.8,0.9,1,2,instr_1,List 5 creative uses for a paperclip. ,paperclip,"
+
+-Hanging up a picture frame
+-Attaching two pages together
+-Keeping a chip bag closed
+-Marking your place in a book
+-Securing the end of a string",1,2,
+472,cmpl-4xiH66PdyXASHVaZyE8EzquoM3hug,1650136892,text-davinci:002,text-davinci-002,21:40.7,0.9,1,2,instr_2,"List 5 creative uses for a paperclip. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",paperclip,"
+
+1. Turn a paperclip into a bookmark by threading it through the pages of a book.
+2. Use a paperclip to help secure loose papers together without having to staple them.
+3. Make a tiny notebook by folding some blank printer paper and stapling it together with several small paperclips along the spine. 
+4.wardrobe malfunctions? Secure gaps in clothing such as between buttons on shirts or unfinished hems at the bottom of pants legs with securely fastenedpaperclips until you can make permanent repairs 5.?Hang pictures, artwork, or photos on walls temporarily using large metal binder clips or multiple smaller ones instead of nails or thumbtacks",1,4,
+9,cmpl-4xhhRqGkQDpVF3XIqyNSWvzpf0vhm,1650134681,text-davinci:002,text-davinci-002,44:43.7,0.4,1,1,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+-bird feeder
+-candle holder
+-planter
+-wind chime
+-piggy bank",1,3,
+10,cmpl-4xhhTwSRNideLeejT2yLv8wyQggeb,1650134683,text-davinci:002,text-davinci-002,44:48.2,0.4,1,1,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. A tin can can be used as a funny hat.
+2. A tin can could also be used as part of a homemade robot costume.
+3. You could use a tin can as a plant pot.
+4. A tin can could be used to make a lampshade or chandelier.
+5. You could also use a tin can to make wind chimes or other types of music-makers.",1,5,
+19,cmpl-4xhhz9vNErGBu80dyqAlCWiT9LJcD,1650134715,text-davinci:002,text-davinci-002,45:17.0,0.4,1,1.5,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+Paint can, planter, bird feeder, candle holder, organizing container.",1,2,
+20,cmpl-4xhi1EZjMv1sVM7oKIS9BB6qMOA6s,1650134717,text-davinci:002,text-davinci-002,45:22.4,0.4,1,1.5,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. Turn a tin can into a simple vase or planter.
+2. Cut the top off of a tin can to create a unique pencil holder or desk tidy.
+3. Make pretty luminaries by decorating tin cans and placing tea candles inside them.
+4. Use small tin cans as adorable mini wastepaper baskets around your home office space.
+5.'Tin Man' robot costume: turn yourself into a character from The Wizard of Oz by turning an old silver-colored tin can into a robot-like outfit!",1,3.5,
+29,cmpl-4xhiZoaZvQeIxVX6EFZL18HVsKYIx,1650134751,text-davinci:002,text-davinci-002,45:54.4,0.4,1,2,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+1. a pencil holder
+2. a vase for flowers
+3. an indoor planter
+4. a decor item (for example, painted and used as part of wall art)
+5. to hold small household items like nails or tacks",1,3,
+30,cmpl-4xhicerJLUypWnVX1JTYqOJ2FRcFq,1650134754,text-davinci:002,text-davinci-002,46:02.2,0.4,1,2,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. A can lantern: cut a hole in the top and bottom of the can, decorate the outside however you like, put a candle inside, and voila! You have an instant decoration for any party or holiday.
+2. Use multiple small cans to create a wind chime â€“ just make sure to punch holes in the sides so theyâ€™ll tinkle when thereâ€™s a breeze.
+3. Make mini pinatas out of tin cans â€“ fill them with candy or other goodies and then let your guests enjoy breaking them open (safely, of course). 
+4..A cold compress: Fill a can with ice water, wrap it in a towel, and apply as needed to reduce swelling from minor injuries such as mosquito bites or bumps & bruises.
+5.'Fossils': Place finds (leaves work well) between two sheets of damp newspaper; stack more newspapers on top until completely covered; weight down with something heavy overnight;",1,4,
+99,cmpl-4xhot7BYgAqT8c9upjK4SHPuXL6Tj,1650135143,text-davinci:002,text-davinci-002,52:25.9,0.5,1,1,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+A tin can can be used as a vase, a pencil holder, a desk organizer, a cookie cutter, or a lunch box.",1,3,
+100,cmpl-4xhowqaUtTP3N4tDyZTX17LMeMiDg,1650135146,text-davinci:002,text-davinci-002,52:31.8,0.5,1,1,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. A tin can could be used as a planter for small plants or herbs.
+2. A tin can could be used as a candle holder.
+3. A tin can could be used to hold pens and pencils on a desk or in a child's room.
+4. A tin can could be used as a decoration, painted or left natural with pretty embellishments added.
+5. A tin can could be used to make homemade musical instruments, such as maracas or drums.",1,3,
+109,cmpl-4xhpWu2wzvClxTpq1GmCl8jXuD9vl,1650135182,text-davinci:002,text-davinci-002,53:04.4,0.5,1,1.5,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+1. Make a tin can telephone
+2. Turn it into a lantern
+3. Use it as a pot for plants
+4. Repurpose it as storage for small items
+5. Transform it into a cute piggy bank",1,3,
+110,cmpl-4xhpYpsiS1NzjvmereNssZPxCtv0E,1650135184,text-davinci:002,text-davinci-002,53:07.9,0.5,1,1.5,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. A tin can could be used as a vase for flowers.
+2. A tin can could be used to store pencils or pens on a desk.
+3. A tin can could be used to hold paintbrushes in an artist's studio. 
+4. A tin can might be part of a larger sculpture made from found objects. 
+5. An empty tin can could make a fun noise when struck with a spoon, acting like a mini drum set",1,3,
+119,cmpl-4xhqBkkUzZg9zRa4ECE6w790Q7J5q,1650135223,text-davinci:002,text-davinci-002,53:50.9,0.5,1,2,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+1. A can lantern: poke holes in the top and bottom of a tin can, insert a candle, and enjoy some light.
+2. A coin bank: cut open one end of the can, decorate it however you like, and drop your spare change inside. 
+3. Copper planters: shiny new cans make great mini-planters for succulents or other small plants! Just be sure to add drainage holes first.
+4. Mini memorandum board: cover an old tin can in fabric or corkboard, glue on some magnets (or use sticky tack), and voila - instant memo board to jot down those quick notes or hang up pictures/cards/etc..
+5 Dinosaur feet?: Trace around your child's foot onto cardboard, then help them cut out two ""feet"". Cover the cardboard feet in aluminum foil (shiny side out) and tape them securely to the bottom of their shoes -now they're ready to stomp around as",1,3,
+120,cmpl-4xhqIiUirK049NcnxnJGcNjpyNXWs,1650135230,text-davinci:002,text-davinci-002,53:57.9,0.5,1,2,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. A tin can can be used as a coin bank. punch a hole in the top and drop your coins through the hole, into the can. When its full, cash it in!
+2. Need a quick and easy vase for some flowers? Use a tin can! Just remove the label and voila - beautiful bouquet holder!
+3. Loving classic cars? Turn that old rusty tin can into an awesome toy car for your little ones (or yourself!) 
+4..Tin cans make great storage containers for small items like paper clips, push pins, rubber bands, etc... Be sure to decorate them to fit your style!
+5. Make some noise! Tin cans + metal spoons = instant percussion instruments perfect for any impromptu jam session",1,3,
+189,cmpl-4xhvl2mqjPCix9bgEkOC4t0NPbJf2,1650135569,text-davinci:002,text-davinci-002,59:30.7,0.6,1,1,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+1. Pencil holder
+2. Make a mini piÃ±ata
+3. Garbage can for your car
+4. Coin bank
+5. Herb planter",1,3,
+190,cmpl-4xhvmOEQIbSllyQJbv2iFqdc8vKs2,1650135570,text-davinci:002,text-davinci-002,59:38.8,0.6,1,1,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+â€¢ Art project: Make a sculpture or mobile out of tin cans and other recycled materials.
+â€¢ Bird feeder: Cut a hole in the bottom of the can and make drainage holes in the sides. Hang it from a tree with bird seed inside.
+â€¢ Candle holder: Place a tea light or votive candle inside a small can. Place larger cans around it to create different heights.
+â€¢ Herb garden: Plant herbs in tin cans and put them on a windowsill or balcony for easy access when cooking.
+â€¢ Luminaries: Cut slits or designs in the top and sides of tin cans. Put a candle inside and place them along pathways, driveways, or stairs to light the way at night.",1,3.5,
+199,cmpl-4xhwNsFmTXEvHHtiGxKUGu4Q8z53X,1650135607,text-davinci:002,text-davinci-002,00:11.4,0.6,1,1.5,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+1. A tin can can be used as a vase for flowers.
+2. A tin can can also be used as a pencil holder on a desk.
+3. Tin cans make great plant markers in a garden.
+4. They also work well for storing small items like buttons or beads.
+5 Lastly, decorate them to use as Christmas tree ornaments!",1,4,
+200,cmpl-4xhwRyRQ669REo2l58bJkGlwvFfzV,1650135611,text-davinci:002,text-davinci-002,00:14.1,0.6,1,1.5,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+A canister for root vegetables; A vase for fresh-cut flowers; An outfielder's mitt; A kidney bean-shaped wastebasket; A ""silent butler"" for crumpled paper.",0.5,3,
+209,cmpl-4xhx6EQKU4ZAQfoOVigiU02G2T1KT,1650135652,text-davinci:002,text-davinci-002,00:56.9,0.6,1,2,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+1. Create a set of nesting bowls for the kitchen.
+2. Make a mobile for a baby's nursery using different sizes and colors of tin cans.
+3. Paint the outside of tin cans to use as decorative vases or planters around the home.
+4. Use small tin cans as jewelry holders on a dresser or vanity tabletop.
+5) Repurpose larger tin cans as trashcans, recycling bins, or storage containers in the garage or laundry room",1,3.5,
+210,cmpl-4xhxAI9x7N6yef5bSEZw9gIiVpDQx,1650135656,text-davinci:002,text-davinci-002,00:59.4,0.6,1,2,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+A tin can could be used as a:
+-Vase 
+-Pencil holder 
+-Paintbrush holder 
+-Small planter 
+-Tea light candle holder",1,3,
+279,cmpl-4xi2ML2FHuDCyF7PYw5ONDg0bnfaH,1650135978,text-davinci:002,text-davinci-002,06:20.6,0.7,1,1,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+1. A vase for fresh or artificial flowers.
+2. A pencil holder.
+3. A spice container.
+4. A money box with a slit in the top for posting coins.
+5. An upcycled candle holder, painted or decorated to your taste.",1,3,
+280,cmpl-4xi2OutVB1EpPxnZuuzV6sZRf32WT,1650135980,text-davinci:002,text-davinci-002,06:24.3,0.7,1,1,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. Make a tin can telephone.
+2. Turn a tin can into a mini-lighthouse.
+3. Create a spinning top out of a tin can.
+4. Use small tin cans as stilts for walking races.
+5. lash several tin cans together to create make-shift drums.",1,5,
+289,cmpl-4xi2rTQbVmYWBo0I88jB042zVwqyP,1650136009,text-davinci:002,text-davinci-002,06:55.1,0.7,1,1.5,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+-A tin can be used as a tool to help bend wire.
+-Use a tin can as a small planter for succulents or cacti.
+-Turn a large tin can into a storage container for things like pens, pencils, and other office supplies.
+-Upcycle an old coffee can into a cute kitchen utensil holder. 
+-Paint the outside of a tincan and use it as decor in your home or office",1,3,
+290,cmpl-4xi2xn6c3pAELHxBQt8gml0kWuswE,1650136015,text-davinci:002,text-davinci-002,06:58.6,0.7,1,1.5,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. A tin can could be used as a vase for flowers.
+2. A tin can could be used as a pencil holder on a desk.
+3. A tin can could be painted and used as part of a decorative wall hanging or mobile.
+4. A tin can could be cut in half length-wise and used as small planters for herbs or other plants.
+5",1,2.5,
+299,cmpl-4xi3TtHSeXiJ5Cv3LbUopz6Hy4ICq,1650136047,text-davinci:002,text-davinci-002,07:29.7,0.7,1,2,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+1. A tin can telephone
+2. A light-up lantern
+3. An Goldberg machine sculpture
+4. Magnetic spice tins for the fridge door
+5. Solar oven",1,4,
+300,cmpl-4xi3VTvAf7cEwbdMcqqBsQrxOY5ae,1650136049,text-davinci:002,text-davinci-002,07:35.1,0.7,1,2,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. A tin can could be used as a planter for small succulents or cacti.
+2. Turn a few tin cans into candle holders for an inexpensive and unique way to decorate your home.
+3. Make some fun wind chimes out of different sized and shaped tin cans, string, and beads. 
+4. Use painted Tin Cans as utensil holders on your kitchen counter or picnic table!
+5.Line several up filled with varying amounts of water to create interesting levels for pouring liquids during science experiments",1,4,
+369,cmpl-4xi9KqdhfBjP1YD6wbuxWMEp7AMnx,1650136410,text-davinci:002,text-davinci-002,13:35.4,0.8,1,1,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+-A tin can be used to create a planter for plants or flowers.
+-Tin cans can be cut and turned into luminaries. 
+-A tin can can be used as a storage container for small objects such as buttons, jewelry, etc.
+-Tin cans can be painted and decorated to use as a pencil holder, vase, or picture frame. 
+-Tin cans can also be used to create wind chimes.",1,3,
+370,cmpl-4xi9P0nwBvQB1i8MoanpI0ZIbacQD,1650136415,text-davinci:002,text-davinci-002,13:39.3,0.8,1,1,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+-A tin can could be used as a small vase for flowers.
+-A tin can could be used as a bird feeder. 
+-A tin can could be used to grow herbs indoors. 
+-A tin can could be used as candle holders.
+-A tin can could also be used to store small items such as paper clips or push pins.",1,3,
+379,cmpl-4xi9tq6yGl4TGEe0BnwKBoTlP6cj1,1650136445,text-davinci:002,text-davinci-002,14:09.3,0.8,1,1.5,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+1) A tin can could be used as a planter for small plants or herbs.
+2) It could be used as a candle holder.
+3) recycled into a picture frame
+4) made into a pencil/pen holder 
+5) turned into an elegant vase by painting the outside",1,3,
+380,cmpl-4xi9xx9QOVr5gduM31rNzrkU5tLDO,1650136449,text-davinci:002,text-davinci-002,14:13.9,0.8,1,1.5,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. Make a bird feeder by decorating a tin can and filling it with birdseed.
+2. Use a tin can as a mini trash can for your car.
+3. Fill a tin can with candies or small toys to use as party favors or stocking stuffers.
+4. Paint and decorate a tin can to use as vase or planter.
+5. Create wind chimes out of different sizes and colors of Schlitz beer cans hung from fishing line in ascending order",1,4,
+389,cmpl-4xiAagi5zVdl98lgvQjDsLacVAgN2,1650136488,text-davinci:002,text-davinci-002,14:53.1,0.8,1,2,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+A tin can could be used to: 
+1. Hold pencils or other stationary on a desk. 
+2. Create a wind chime by stringing together several cans with different sizes and drilling holes into the top of each one. 
+3. Make a mini herb garden by painting the outside of the can and punching drainage holes in the bottom before adding soil and plants. 
+4.-5 . Use smaller cans as candle holders or tea light holders for ambiance lighting indoors or outdoors.",1,3,
+390,cmpl-4xiAfu0VaHyYgDbfZEiTc5oBawWuP,1650136493,text-davinci:002,text-davinci-002,15:00.6,0.8,1,2,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. Craft a charming lantern by repurposing an old tin can. This idea is easy, eco-friendly, and stylish!
+2. Make a fun planter for your favorite herbs or flowers. Start by painting the outside of the tin can, then add drainage holes and fill with potting soil.
+3. Create personalized coasters for your home using photos or images printed on adhesive paper. Simply adhere to the bottom of each coaster and seal with clear Mod PodgeÂ®ï¸ . For best results, use foam brush applicators to avoid air bubbles in your finish project!
+4. Use small tin cans as tea light holders for an extra special touch at your next dinner party or outdoor gathering! Add some greenery or seasonal decorations around them for more festive flair.5) DIY beautiful wind chimes outta tins cans & pretty beads/charms",1,3,
+459,cmpl-4xiGYACZbSBNr9Xf43GGLAm2kWNAj,1650136858,text-davinci:002,text-davinci-002,21:00.4,0.9,1,1,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+A tin can could be used as a vase, pen holder, door stop, makeshift bowl, or planter.",1,2.5,
+460,cmpl-4xiGaukT8sm2fGrpwHLygg4wyVDIh,1650136860,text-davinci:002,text-davinci-002,21:04.5,0.9,1,1,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1) Attach tin cans to the back of a bicycle to create your own homemade bike trailer.
+2) Use multiple tin cans to create a stool or chair.
+3) Make a mini herb garden by painting and planting herbs in tin cans. 
+4) Turn a tin can into gorgeous wall art by spraying paint on the outside and adding embellishments. 
+5) Create fun noise makers for kids (and adults!) by filling empty tin cans with beans, rice, or other small objects.",1,4,
+469,cmpl-4xiGxdce4q08PHwj6u9C2QEB9gVkv,1650136883,text-davinci:002,text-davinci-002,21:25.5,0.9,1,1.5,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+A tin can could be used as a:
+1. Planter
+2. Vase
+3. Pencil holder
+4. Desk organizer 
+5. Spice container",1,3,
+470,cmpl-4xiGz6Oei3LK6HI9dpAjlJxuWXD83,1650136885,text-davinci:002,text-davinci-002,21:31.0,0.9,1,1.5,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. A tin can could be used as a creative vase for flowers.
+2. It could be used as a pen or pencil holder on a desk.
+3. A tin can telephone is always fun for kids!
+4. For adults, an empty tin can could be upcycled into a chic and modern wastebasket or planter.
+5. Finally, if you are feeling really ambitious, you could cut the top off of the tin can and use it as part of a homemade lantern or candle holder (just add some holes for ventilation and place a tea light inside).",1,3,
+479,cmpl-4xiHXdwNccOYkUlD2203HqdjDNDwS,1650136919,text-davinci:002,text-davinci-002,22:02.9,0.9,1,2,instr_1,List 5 creative uses for a tin can. ,tin can,"
+
+1. Turn a tin can into a vase by removing the bottom and painting the outside.
+2. Make a pen holder by gluing two tin cans together, upside down.
+3. Use a large tin can asstorage for things like scarves and gloves.
+4 Createot decorated with fabric scraps to brighten up any room..5 Empty and clean out acancan be used astray cheap bird feeder",1,3,
+480,cmpl-4xiHbrmfjFqE7WFfG2szmMtbMtldW,1650136923,text-davinci:002,text-davinci-002,22:06.9,0.9,1,2,instr_2,"List 5 creative uses for a tin can. The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different.",tin can,"
+
+1. Tin can lanterns: punch holes in a tin can, place a candle inside, and enjoy some lovely ambient lighting.
+2. Use multiple tin cans to create homemade speaker system for multimedia enjoyment. 
+3. Make beautiful and unique planters out of recycled tin cans! 4 Upcycle old tins into surprising storage solutions â€“ perfect for small spaces 5 Give your cat or dog an amusing (and eco-friendly) toy by filling an empty steel food container with rice or beans",1,5,

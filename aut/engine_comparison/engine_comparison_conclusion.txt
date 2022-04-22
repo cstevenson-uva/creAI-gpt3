@@ -1,0 +1,3 @@
+use newest engine instead of beta instruct.
+use instr 2 (Raoul's prompt) instead of instr 1.
+try lower temperatures too. looks like highest temps lead to weird responses.

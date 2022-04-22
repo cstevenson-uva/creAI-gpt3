@@ -1,0 +1,28 @@
+round 1, which responses are valid:
+presence penalty:
+1 clearly best presence penalty setting of 1, 1.5 and 2; need to try lower settings -1, 0 and 1 in next round
+
+frequency penalty:
+no effect
+
+temperature x instruction:
+there's an interaction, at higher temperatures more extensive instructions lead to greater chance of invalid responses
+
+temperature:
+in model without interaction term, lower temperature meant greater chance of valid response
+
+instruction
+in model without interaction term, instruction 1 led to greater chance of valid response
+
+
+round 2, which responses are valid:
+presence penalty: used 1 based on round 1
+
+instruction: choose instruction 2, because higher snapshot scores
+
+frequency penalty: decision use 1 because highest snapshot scores (using chosen instruction)
+
+temperature: decision use .7 because highest snapshot scores (using chosen instruction)
+
+objects: decision use tin can and fork because highest snapshot scores (using chosen instruction)
+
