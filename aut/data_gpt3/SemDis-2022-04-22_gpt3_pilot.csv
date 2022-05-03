@@ -1,0 +1,479 @@
+id,response,response_nofill,item,item_nofill,SemDis_cbowukwacsubtitle_nf_m,SemDis_cbowsubtitle_nf_m,SemDis_cbowBNCwikiukwac_nf_m,SemDis_TASA_nf_m,SemDis_glove_nf_m,SemDis_MEAN,SemDis_factor
+cmpl-4zrXKRorn55iQY1NXc3Vq3WKCLtyf,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrXKRorn55iQY1NXc3Vq3WKCLtyf,2 A book can be used to start a fire,book can used start fire,book,book,0.8374,0.85006,1.02593,1.11801,0.72839,0.91196,-0.18522
+cmpl-4zrXKRorn55iQY1NXc3Vq3WKCLtyf,3 A book can be used to prop up a table or chair leg,book can used prop table chair leg,book,book,0.91423,0.83571,1.16305,1.09636,0.81081,0.96403,-0.04284
+cmpl-4zrXKRorn55iQY1NXc3Vq3WKCLtyf,4 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrXKRorn55iQY1NXc3Vq3WKCLtyf,5 A book can be used to make art such as by decoupaging it onto a canvas or,book can used make art decoupaging onto canvas,book,book,0.85588,0.96213,0.94578,1.09724,0.73693,0.91959,-0.13381
+cmpl-4zrXMnec5vnPs9Rno0qAGOwJ1vslr,1 A book can be used as a door stop,book can used door stop,book,book,0.74824,0.96666,0.99463,0.9346099999999999,0.73507,0.87584,-0.528
+cmpl-4zrXMnec5vnPs9Rno0qAGOwJ1vslr,2 A book can be used to start a fire,book can used start fire,book,book,0.8374,0.85006,1.02593,1.11801,0.72839,0.91196,-0.18522
+cmpl-4zrXMnec5vnPs9Rno0qAGOwJ1vslr,3 A book can be used to prop up a table or chair leg,book can used prop table chair leg,book,book,0.91423,0.83571,1.16305,1.09636,0.81081,0.96403,-0.04284
+cmpl-4zrXMnec5vnPs9Rno0qAGOwJ1vslr,4 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrXMnec5vnPs9Rno0qAGOwJ1vslr,5 A book can be used to make a collage or sculpture,book can used make collage sculpture,book,book,1.06767,0.90036,0.89093,0.85878,0.79074,0.9017,0.60865
+cmpl-4zrXQbOmAJISuhk3fFIZO2SLmBq6x,1 A book can be used as a door stop,book can used door stop,book,book,0.74824,0.96666,0.99463,0.9346099999999999,0.73507,0.87584,-0.528
+cmpl-4zrXQbOmAJISuhk3fFIZO2SLmBq6x,2 A book can be used to prop up a table or chair leg,book can used prop table chair leg,book,book,0.91423,0.83571,1.16305,1.09636,0.81081,0.96403,-0.04284
+cmpl-4zrXQbOmAJISuhk3fFIZO2SLmBq6x,3 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrXQbOmAJISuhk3fFIZO2SLmBq6x,4 A book can be used to make a collage or scrapbook,book can used make collage scrapbook,book,book,1.03389,0.96928,1.03386,0.92335,1.21672,1.03542,0.30188
+cmpl-4zrXQbOmAJISuhk3fFIZO2SLmBq6x,5 A book can be cut up and used as confetti or streamers,book can cut used confetti streamers,book,book,0.9566,1.01445,1.14069,1.04706,1.25559,1.08288,-0.05291
+cmpl-4zrXTQbtU9GwZ4dGDpd5xEyBovRHV,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrXTQbtU9GwZ4dGDpd5xEyBovRHV,2 A book can be used to start a fire,book can used start fire,book,book,0.8374,0.85006,1.02593,1.11801,0.72839,0.91196,-0.18522
+cmpl-4zrXTQbtU9GwZ4dGDpd5xEyBovRHV,3 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrXTQbtU9GwZ4dGDpd5xEyBovRHV,4 A book can be used to prop up a wobbly table leg,book can used prop wobbly table leg,book,book,0.82925,1.03787,0.9316,1.10373,0.6935100000000001,0.91919,-0.24804
+cmpl-4zrXTQbtU9GwZ4dGDpd5xEyBovRHV,5 A book can be used as a coaster for drinks to prevent water rings on furniture,book can used coaster drinks prevent water rings furniture,book,book,0.92057,1.08889,0.90248,0.94379,0.78163,0.92747,0.01948
+cmpl-4zrXXun99WGqMfqFcnvX9fpzWmy05,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrXXun99WGqMfqFcnvX9fpzWmy05,2 A book can be used to hold open a window,book can used hold open window,book,book,0.84787,0.97816,1.02143,0.99686,1.271,1.02306,-0.29745
+cmpl-4zrXXun99WGqMfqFcnvX9fpzWmy05,3 A book can be used as a coaster for a hot beverage,book can used coaster hot beverage,book,book,0.87936,1.10466,0.92854,1.0535,1.2221,1.03763,-0.19208
+cmpl-4zrXXun99WGqMfqFcnvX9fpzWmy05,4 A book can be used to level a table or shelf,book can used level table shelf,book,book,0.98175,0.8449,0.98548,0.98924,1.30903,1.02208,0.23487
+cmpl-4zrXXun99WGqMfqFcnvX9fpzWmy05,5 A book can be used as an improvised weapon in selfdefense or attack,book can used improvised weapon selfdefense attack,book,book,0.90524,0.89791,1.12792,1.06687,1.26074,1.05174,-0.14
+cmpl-4zrXajQqVizh2rVJ8hn6PxNaA8Q24,1 Make a book into a lampshade,make book lampshade,book,book,0.82382,0.75596,0.86717,1.12421,1.42329,0.99889,-0.14143
+cmpl-4zrXajQqVizh2rVJ8hn6PxNaA8Q24,2 Turn an old book into a secret compartment,turn old book secret compartment,book,book,0.72146,0.92479,0.92442,1.10924,0.7272799999999999,0.88144,-0.52771
+cmpl-4zrXajQqVizh2rVJ8hn6PxNaA8Q24,3 Use books as coasters for your drinks,use books coasters drinks,book,book,0.95777,0.96687,1.01146,0.90404,1.06485,0.981,0.09254
+cmpl-4zrXajQqVizh2rVJ8hn6PxNaA8Q24,4 Build a fort out of old books,build fort old books,book,book,0.99403,1.18508,1.03383,0.92953,1.21493,1.07148,0.04654
+cmpl-4zrXajQqVizh2rVJ8hn6PxNaA8Q24,5 Donate books to your local library or hospital waiting room,donate books local library hospital waiting room,book,book,0.98059,1.11041,1.03086,1.09668,0.7798700000000001,0.99968,0.11203
+cmpl-4zrXajQqVizh2rVJ8hn6PxNaA8Q24,6 Give a new twist to an old favorite by reading it in character voices,give new twist old favorite reading character voices,book,book,0.86859,0.9286,0.93675,0.94916,1.25226,0.98707,-0.13798
+cmpl-4zrXf5f89HctStj42UI8NCmMxujME,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrXf5f89HctStj42UI8NCmMxujME,2 A book can be used to start a fire,book can used start fire,book,book,0.8374,0.85006,1.02593,1.11801,0.72839,0.91196,-0.18522
+cmpl-4zrXf5f89HctStj42UI8NCmMxujME,3 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrXf5f89HctStj42UI8NCmMxujME,4 A book can be used to prop up a wobbly table or chair,book can used prop wobbly table chair,book,book,0.8605700000000001,0.90051,1.12246,1.10297,0.7084900000000001,0.939,-0.21069
+cmpl-4zrXf5f89HctStj42UI8NCmMxujME,5 A book can be used as a weapon for selfdefense or attack,book can used weapon selfdefense attack,book,book,0.8847,0.89178,1.05125,1.01889,0.7056899999999999,0.91046,-0.07815
+cmpl-4zrXkWn3QroeYera2G3vBEECCSUZR,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrXkWn3QroeYera2G3vBEECCSUZR,2 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrXkWn3QroeYera2G3vBEECCSUZR,3 A book can be used to prop up a wobbly table leg,book can used prop wobbly table leg,book,book,0.82925,1.03787,0.9316,1.10373,0.6935100000000001,0.91919,-0.24804
+cmpl-4zrXkWn3QroeYera2G3vBEECCSUZR,4 A book can be used to make a small shelf or ledge,book can used make small shelf ledge,book,book,0.85716,1.10891,0.92225,0.97357,1.3088600000000001,1.03415,-0.27626
+cmpl-4zrXkWn3QroeYera2G3vBEECCSUZR,5 A book can be used to hold open a window or door,book can used hold open window door,book,book,0.77907,1.07311,0.99694,0.92555,0.7442500000000001,0.90378,-0.49464
+cmpl-4zrXnYW4L6EpsvEUL9J88oKsjzqy7,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrXnYW4L6EpsvEUL9J88oKsjzqy7,2 A book can be used to level a table or shelf,book can used level table shelf,book,book,0.98175,0.8449,0.98548,0.98924,1.30903,1.02208,0.23487
+cmpl-4zrXnYW4L6EpsvEUL9J88oKsjzqy7,3 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrXnYW4L6EpsvEUL9J88oKsjzqy7,4 A book can be used to make a impromptu stool or chair,book can used make impromptu stool chair,book,book,0.87378,1.06283,1.05573,1.04876,0.77493,0.96321,-0.22484
+cmpl-4zrXnYW4L6EpsvEUL9J88oKsjzqy7,5 A book can be used in place of a cutting board when slicing vegetables or meat,book can used place cutting board slicing vegetables meat,book,book,1.08088,1.0467,1.13494,1.09542,0.74185,1.01996,0.40001
+cmpl-4zrXsIbRn4NTwafnBiFtZpy7tUdHA,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrXsIbRn4NTwafnBiFtZpy7tUdHA,2 A book can be used to keep a table level,book can used keep table level,book,book,1.03704,0.96702,0.84026,0.89523,1.30809,1.00953,0.44543
+cmpl-4zrXsIbRn4NTwafnBiFtZpy7tUdHA,3 A book can be used to make a paperweight,book can used make paperweight,book,book,0.8101700000000001,1.14777,0.91405,1.10976,1.25601,1.04755,-0.43141
+cmpl-4zrXsIbRn4NTwafnBiFtZpy7tUdHA,4 A book can be used as a coaster for hot drinks,book can used coaster hot drinks,book,book,0.86083,1.08211,0.78299,1.03178,1.21875,0.99529,-0.1303
+cmpl-4zrXsIbRn4NTwafnBiFtZpy7tUdHA,5 A book can be used to hold open a window or door,book can used hold open window door,book,book,0.77907,1.07311,0.99694,0.92555,0.7442500000000001,0.90378,-0.49464
+cmpl-4zrXwohDOcU3F1Hq56ynSVY02H2j0,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrXwohDOcU3F1Hq56ynSVY02H2j0,2 A book can be used to start a fire in an emergency situation,book can used start fire emergency situation,book,book,0.93744,1.02883,1.15409,1.0451,0.71408,0.97591,-0.06555
+cmpl-4zrXwohDOcU3F1Hq56ynSVY02H2j0,3 A book can be used as a coaster for your beverage,book can used coaster beverage,book,book,1.01096,1.0909,0.86806,0.9304,0.77839,0.93574,0.33543
+cmpl-4zrXwohDOcU3F1Hq56ynSVY02H2j0,4 A book can be used to level a table or surface,book can used level table surface,book,book,1.1133,1.04688,0.97002,0.91554,1.29688,1.06852,0.54967
+cmpl-4zrXwohDOcU3F1Hq56ynSVY02H2j0,5 A book can be used as decoration on a shelf or mantelpiece,book can used decoration shelf mantelpiece,book,book,1.11563,1.04153,0.95084,0.95936,0.72984,0.95944,0.64781
+cmpl-4zrY03WpMeCA0AmJeADkzuTSPggZW,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrY03WpMeCA0AmJeADkzuTSPggZW,2 A book can be used to start a fire,book can used start fire,book,book,0.8374,0.85006,1.02593,1.11801,0.72839,0.91196,-0.18522
+cmpl-4zrY03WpMeCA0AmJeADkzuTSPggZW,3 A book can be used to prop up a table,book can used prop table,book,book,0.94273,0.96181,0.99217,0.78508,0.81843,0.90004,0.08649
+cmpl-4zrY03WpMeCA0AmJeADkzuTSPggZW,4 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrY03WpMeCA0AmJeADkzuTSPggZW,5 A book can be used to hold open a window,book can used hold open window,book,book,0.84787,0.97816,1.02143,0.99686,1.271,1.02306,-0.29745
+cmpl-4zrY03WpMeCA0AmJeADkzuTSPggZW,6 A book can be used to make a paper,book can used make paper,book,book,0.74461,1.0005,0.96834,1.01164,0.68586,0.88219,-0.5301
+cmpl-4zrY43R3rQ3No2WeD92L3z2neSrOb,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrY43R3rQ3No2WeD92L3z2neSrOb,2 A book can be used to level a table or shelf,book can used level table shelf,book,book,0.98175,0.8449,0.98548,0.98924,1.30903,1.02208,0.23487
+cmpl-4zrY43R3rQ3No2WeD92L3z2neSrOb,3 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrY43R3rQ3No2WeD92L3z2neSrOb,4 A book can be used to make a collage or scrapbook,book can used make collage scrapbook,book,book,1.03389,0.96928,1.03386,0.92335,1.21672,1.03542,0.30188
+cmpl-4zrY43R3rQ3No2WeD92L3z2neSrOb,5 A book can be used as kindling for a fire,book can used kindling fire,book,book,0.85703,0.99368,0.94755,1.11621,1.20967,1.02483,-0.20829
+cmpl-4zrY7biIuR673z5KZea1gP4gUMbXw,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrY7biIuR673z5KZea1gP4gUMbXw,2 A book can be used to level a table or other surface,book can used level table surface,book,book,1.1133,1.04688,0.97002,0.91554,1.29688,1.06852,0.54967
+cmpl-4zrY7biIuR673z5KZea1gP4gUMbXw,3 A book can be used to prop up a wobbly chair or couch,book can used prop wobbly chair couch,book,book,0.88745,0.88074,0.97952,0.90507,0.92042,0.91464,-0.04151
+cmpl-4zrY7biIuR673z5KZea1gP4gUMbXw,4 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrY7biIuR673z5KZea1gP4gUMbXw,5 A book can be used as a door stop in an open doorway to help,book can used door stop open doorway help,book,book,1.02417,0.99033,1.06537,0.95347,1.2120199999999999,1.04907,0.23658
+cmpl-4zrYCltQ18NBmTUndQEolfNeRJhmu,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrYCltQ18NBmTUndQEolfNeRJhmu,2 A book can be used to level a table or shelf,book can used level table shelf,book,book,0.98175,0.8449,0.98548,0.98924,1.30903,1.02208,0.23487
+cmpl-4zrYCltQ18NBmTUndQEolfNeRJhmu,3 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrYCltQ18NBmTUndQEolfNeRJhmu,4 A book can be used to keep papers from blowing away in the wind,book can used keep papers blowing away wind,book,book,0.97964,1.06219,0.88704,0.97391,1.25138,1.03083,0.18003
+cmpl-4zrYCltQ18NBmTUndQEolfNeRJhmu,5 A book can be used to make a small step stool,book can used make small step stool,book,book,0.88347,0.98502,1.10343,0.96487,0.78759,0.94488,-0.18904
+cmpl-4zrYH49qGBQRZzNi4eQHpNxlQUABG,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrYH49qGBQRZzNi4eQHpNxlQUABG,2 A book can be used to prop up a wobbly table,book can used prop wobbly table,book,book,1.00033,1.16534,0.89785,0.81732,1.29343,1.03485,0.16497
+cmpl-4zrYH49qGBQRZzNi4eQHpNxlQUABG,3 A book can be used to make a paper airplane,book can used make paper airplane,book,book,1.02682,0.96965,1.05684,1.06159,1.3037,1.08372,0.2575
+cmpl-4zrYH49qGBQRZzNi4eQHpNxlQUABG,4 A book can be used as kindling for a fire,book can used kindling fire,book,book,0.85703,0.99368,0.94755,1.11621,1.20967,1.02483,-0.20829
+cmpl-4zrYH49qGBQRZzNi4eQHpNxlQUABG,5 A book can be used to absorb spilled liquid,book can used absorb spilled liquid,book,book,0.80049,1.02321,1.0961,0.84482,1.29935,1.01279,-0.5437
+cmpl-4zrYH49qGBQRZzNi4eQHpNxlQUABG,6 A collection of books,collection books,book,book,1.06824,1.0192,1.01669,0.95829,1.37907,1.0883,0.37749
+cmpl-4zrYM3srgr0AI600HuaSfbe20ECSu,A book can be used as A door stop,book can used door stop,book,book,0.74824,0.96666,0.99463,0.9346099999999999,0.73507,0.87584,-0.528
+cmpl-4zrYM3srgr0AI600HuaSfbe20ECSu,A book can be used to level A table,book can used level table,book,book,0.9515,1.08945,0.92496,0.9161900000000001,0.68967,0.91435,0.11229
+cmpl-4zrYM3srgr0AI600HuaSfbe20ECSu,A book can be used to prop up A wobbly chair,book can used prop wobbly chair,book,book,1.09903,1.09307,1.15588,0.95317,1.26724,1.11368,0.34286
+cmpl-4zrYM3srgr0AI600HuaSfbe20ECSu,A book can be used as A paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrYM3srgr0AI600HuaSfbe20ECSu,A book can be used to make A small stool or side table,book can used make small stool side table,book,book,0.93558,1.07974,1.06067,1.03036,1.2126000000000001,1.06379,-0.0948
+cmpl-4zrYM3srgr0AI600HuaSfbe20ECSu,A book can be cut in half and the,book can cut half,book,book,0.97795,0.89533,0.98144,1.12188,1.32416,1.06015,0.20045
+cmpl-4zrYSw9ZuzkGoOZpvQWkzfHkJCPVP,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrYSw9ZuzkGoOZpvQWkzfHkJCPVP,2 A book can be used to level a table or chair,book can used level table chair,book,book,1.11715,0.98825,0.96336,0.95635,1.31078,1.06718,0.60191
+cmpl-4zrYSw9ZuzkGoOZpvQWkzfHkJCPVP,3 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrYSw9ZuzkGoOZpvQWkzfHkJCPVP,4 A book can be used to prop open a window,book can used prop open window,book,book,0.92221,1.08241,1.06596,0.93665,1.1264,1.02673,-0.13723
+cmpl-4zrYSw9ZuzkGoOZpvQWkzfHkJCPVP,5 A book can be used as a coaster for a hot beverage,book can used coaster hot beverage,book,book,0.87936,1.10466,0.92854,1.0535,1.2221,1.03763,-0.19208
+cmpl-4zrYSw9ZuzkGoOZpvQWkzfHkJCPVP,6 A book can be used,book can used,book,book,0.5565599999999999,0.87766,0.76229,1.06823,0.6640699999999999,0.78576,-0.90471
+cmpl-4zrYYESZQhEvKOpsl2Y3ne59QvPUs,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrYYESZQhEvKOpsl2Y3ne59QvPUs,2 A book can be used to level a table or chair,book can used level table chair,book,book,1.11715,0.98825,0.96336,0.95635,1.31078,1.06718,0.60191
+cmpl-4zrYYESZQhEvKOpsl2Y3ne59QvPUs,3 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrYYESZQhEvKOpsl2Y3ne59QvPUs,4 A book can be used to prop up a wobbly leg on a piece of furniture,book can used prop wobbly leg piece furniture,book,book,1.09212,0.9545399999999999,0.85468,0.79211,1.2787899999999999,0.99445,0.61837
+cmpl-4zrYYESZQhEvKOpsl2Y3ne59QvPUs,5 A book can be used as fuel for a fire,book can used fuel fire,book,book,0.83702,0.97973,1.04672,0.84773,0.7073,0.8837,-0.289
+cmpl-4zrYcXgHic5zBGK8skxbt7IwK8Ok2,1 A book can be used as a door stop,book can used door stop,book,book,0.74824,0.96666,0.99463,0.9346099999999999,0.73507,0.87584,-0.528
+cmpl-4zrYcXgHic5zBGK8skxbt7IwK8Ok2,2 A book can be used to level a table or shelf,book can used level table shelf,book,book,0.98175,0.8449,0.98548,0.98924,1.30903,1.02208,0.23487
+cmpl-4zrYcXgHic5zBGK8skxbt7IwK8Ok2,3 A book can be used to prop up a wobbly chair or table leg,book can used prop wobbly chair table leg,book,book,1.09419,0.97741,1.13731,0.88531,1.29856,1.07856,0.40214
+cmpl-4zrYcXgHic5zBGK8skxbt7IwK8Ok2,4 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrYcXgHic5zBGK8skxbt7IwK8Ok2,5 A book can be used to smash spiders or other bugs,book can used smash spiders bugs,book,book,0.96558,1.0342500000000001,1.0434,1.06372,1.21861,1.06511,0.04262
+cmpl-4zrYhuBnwno40N3NzfKumie34U6k8,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrYhuBnwno40N3NzfKumie34U6k8,2 A book can be used to level a table or chair,book can used level table chair,book,book,1.11715,0.98825,0.96336,0.95635,1.31078,1.06718,0.60191
+cmpl-4zrYhuBnwno40N3NzfKumie34U6k8,3 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrYhuBnwno40N3NzfKumie34U6k8,4 A book can be used to prop up a wobbly table leg,book can used prop wobbly table leg,book,book,0.82925,1.03787,0.9316,1.10373,0.6935100000000001,0.91919,-0.24804
+cmpl-4zrYhuBnwno40N3NzfKumie34U6k8,5 A book can be used as kindling for a fire,book can used kindling fire,book,book,0.85703,0.99368,0.94755,1.11621,1.20967,1.02483,-0.20829
+cmpl-4zrYkCsqHkasbROCFVWUUjNxTKWA5,1 Make a book into a lampshade,make book lampshade,book,book,0.82382,0.75596,0.86717,1.12421,1.42329,0.99889,-0.14143
+cmpl-4zrYkCsqHkasbROCFVWUUjNxTKWA5,2 Turn a book into a clock by gluing numbers to the cover and attaching hands,turn book clock gluing numbers cover attaching hands,book,book,1.07796,1.1185,1.15671,1.07337,0.7427699999999999,1.03386,0.33076
+cmpl-4zrYkCsqHkasbROCFVWUUjNxTKWA5,3 Create a sculpture or collage by decoupaging old book pages onto an object,create sculpture collage decoupaging old book pages onto object,book,book,0.93315,1.1877900000000001,1.16355,1.02446,0.78334,1.01846,-0.1899
+cmpl-4zrYkCsqHkasbROCFVWUUjNxTKWA5,4 Make coasters out ofbook pages sealed with mod podge,make coasters ofbook pages sealed mod podge,book,book,0.98377,0.93069,1.01428,0.95888,1.23413,1.02435,0.17714
+cmpl-4zrYkCsqHkasbROCFVWUUjNxTKWA5,5 Fold the pages of an old book,fold pages old book,book,book,0.91515,1.1198,0.99072,1.12918,1.30397,1.09176,-0.13863
+cmpl-4zrYpCuQ5hsc5BzfI4p1eiCINiTKw,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrYpCuQ5hsc5BzfI4p1eiCINiTKw,2 A book can be used to level a table or shelf,book can used level table shelf,book,book,0.98175,0.8449,0.98548,0.98924,1.30903,1.02208,0.23487
+cmpl-4zrYpCuQ5hsc5BzfI4p1eiCINiTKw,3 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrYpCuQ5hsc5BzfI4p1eiCINiTKw,4 A book can be used to make a collage or sculpture,book can used make collage sculpture,book,book,1.06767,0.90036,0.89093,0.85878,0.79074,0.9017,0.60865
+cmpl-4zrYpCuQ5hsc5BzfI4p1eiCINiTKw,5 A book can be used as fuel for a fire,book can used fuel fire,book,book,0.83702,0.97973,1.04672,0.84773,0.7073,0.8837,-0.289
+cmpl-4zrYpCuQ5hsc5BzfI4p1eiCINiTKw,6 A book can be used,book can used,book,book,0.5565599999999999,0.87766,0.76229,1.06823,0.6640699999999999,0.78576,-0.90471
+cmpl-4zrYsthVkMmBWLB5euet6UOY3DuCE,1 A book can be used as a door stop,book can used door stop,book,book,0.74824,0.96666,0.99463,0.9346099999999999,0.73507,0.87584,-0.528
+cmpl-4zrYsthVkMmBWLB5euet6UOY3DuCE,2 A book can be used to balance a wobbly table,book can used balance wobbly table,book,book,0.93401,0.94759,0.84921,0.87963,1.03273,0.92863,0.15149
+cmpl-4zrYsthVkMmBWLB5euet6UOY3DuCE,3 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrYsthVkMmBWLB5euet6UOY3DuCE,4 A book can be used to prop up a wonky picture frame,book can used prop wonky picture frame,book,book,0.93608,0.87522,0.8604700000000001,1.06738,1.12387,0.9726,0.19015
+cmpl-4zrYsthVkMmBWLB5euet6UOY3DuCE,5 A book can be used to make a small stool more comfortable,book can used make small stool comfortable,book,book,0.83295,1.17142,0.93628,0.98087,0.79581,0.94347,-0.33716
+cmpl-4zrYvKNbYe9QLba3L9kPiyeRSNAdt,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrYvKNbYe9QLba3L9kPiyeRSNAdt,2 A book can be used to prop up a wobbly table,book can used prop wobbly table,book,book,1.00033,1.16534,0.89785,0.81732,1.29343,1.03485,0.16497
+cmpl-4zrYvKNbYe9QLba3L9kPiyeRSNAdt,3 A book can be used as a coaster for your cold beverage,book can used coaster cold beverage,book,book,0.92257,1.12726,0.95067,1.08957,1.21991,1.062,-0.08053
+cmpl-4zrYvKNbYe9QLba3L9kPiyeRSNAdt,4 A book can be used to hold open a window,book can used hold open window,book,book,0.84787,0.97816,1.02143,0.99686,1.271,1.02306,-0.29745
+cmpl-4zrYvKNbYe9QLba3L9kPiyeRSNAdt,5 A book can serve as a paperweight on your desk,book can serve paperweight desk,book,book,0.89122,1.02427,0.99916,1.01744,1.33617,1.05365,-0.17527
+cmpl-4zrYzrBuvP3imgFgz5iKgDWoCMvF2,1 Make a book into a clock by attaching clock hands to the cover,make book clock attaching clock hands cover,book,book,0.90812,0.96194,0.89573,0.89102,0.74135,0.87963,0.06171
+cmpl-4zrYzrBuvP3imgFgz5iKgDWoCMvF2,2 Turn a book into a secret hiding place by cutting out a square hole in the center of the pages,turn book secret hiding place cutting square hole center pages,book,book,1.1236,0.92588,0.98838,0.9513199999999999,1.24088,1.04601,0.64929
+cmpl-4zrYzrBuvP3imgFgz5iKgDWoCMvF2,3 Use an old book as decoration by stacking it on top of other books or placing it in an empty frame,use old book decoration stacking top books placing empty frame,book,book,1.06748,1.01098,0.92259,0.85045,1.29725,1.02975,0.45529
+cmpl-4zrYzrBuvP3imgFgz5iKgDWoCMvF2,4 Repurpose a hardcover book into a photo,repurpose hardcover book photo,book,book,0.85598,1.14289,1.01728,1.01051,0.96093,0.99752,-0.32586
+cmpl-4zrZ42wRutcDFNibsKTG97iSLThCM,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrZ42wRutcDFNibsKTG97iSLThCM,2 A book can be used to level a table,book can used level table,book,book,0.9515,1.08945,0.92496,0.9161900000000001,0.68967,0.91435,0.11229
+cmpl-4zrZ42wRutcDFNibsKTG97iSLThCM,3 A book can be used to prop up a wobbly chair,book can used prop wobbly chair,book,book,1.09903,1.09307,1.15588,0.95317,1.26724,1.11368,0.34286
+cmpl-4zrZ42wRutcDFNibsKTG97iSLThCM,4 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrZ42wRutcDFNibsKTG97iSLThCM,5 A book can be used to make a paper mâché mask or sculpture,book can used make paper mache mask sculpture,book,book,1.10038,0.98101,1.15736,1.06966,0.74876,1.01143,0.48277
+cmpl-4zrZ6iqXWuJnn7X7Ou7Up61L217rn,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrZ6iqXWuJnn7X7Ou7Up61L217rn,2 A book can be used to start a fire,book can used start fire,book,book,0.8374,0.85006,1.02593,1.11801,0.72839,0.91196,-0.18522
+cmpl-4zrZ6iqXWuJnn7X7Ou7Up61L217rn,3 A book can be used as a coaster for your drink,book can used coaster drink,book,book,0.84543,1.02994,0.85608,0.98903,0.78164,0.90042,-0.15127
+cmpl-4zrZ6iqXWuJnn7X7Ou7Up61L217rn,4 A book can be used to prop up a table or shelf,book can used prop table shelf,book,book,1.01465,0.99535,1.04319,1.06059,1.1832,1.0594,0.22832
+cmpl-4zrZ6iqXWuJnn7X7Ou7Up61L217rn,5 A book can be cut up and made into paper airplanes or origami shapes,book can cut made paper airplanes origami shapes,book,book,1.1091,0.99157,1.10242,0.92907,0.74929,0.97629,0.53888
+cmpl-4zrZAUmJ0wliAvLrrK2j6rzVmvpKC,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrZAUmJ0wliAvLrrK2j6rzVmvpKC,2 A book can be used to level a table or piece of furniture,book can used level table piece furniture,book,book,1.09538,0.91629,1.02362,1.04001,0.6934,0.95374,0.61037
+cmpl-4zrZAUmJ0wliAvLrrK2j6rzVmvpKC,3 A book can be used as a paperweight,book can used paperweight,book,book,1.00223,0.99018,0.91188,1.01761,0.7314700000000001,0.93067,0.344
+cmpl-4zrZAUmJ0wliAvLrrK2j6rzVmvpKC,4 A book can be used to decorate a room or shelf,book can used decorate room shelf,book,book,0.95045,0.91281,0.97764,1.06416,1.2171400000000001,1.02444,0.11484
+cmpl-4zrZAUmJ0wliAvLrrK2j6rzVmvpKC,5 A book can be used as part of a centerpieces for a party or event,book can used part centerpieces party event,book,book,0.8469800000000001,0.98473,0.94612,1.00083,1.30894,1.01752,-0.2524
+cmpl-4zrZF2zTP1YbQKy7UTpONmDqWXo46,1 A book can be used as a doorstop,book can used doorstop,book,book,0.88092,0.93752,0.91922,0.94685,0.78457,0.89382,-0.03191
+cmpl-4zrZF2zTP1YbQKy7UTpONmDqWXo46,2 A book can be used to level a table or other surface,book can used level table surface,book,book,1.1133,1.04688,0.97002,0.91554,1.29688,1.06852,0.54967
+cmpl-4zrZF2zTP1YbQKy7UTpONmDqWXo46,3 A book can be used to prop open a window,book can used prop open window,book,book,0.92221,1.08241,1.06596,0.93665,1.1264,1.02673,-0.13723
+cmpl-4zrZF2zTP1YbQKy7UTpONmDqWXo46,4 A book can be used as a coaster for a hot beverage,book can used coaster hot beverage,book,book,0.87936,1.10466,0.92854,1.0535,1.2221,1.03763,-0.19208
+cmpl-4zrZF2zTP1YbQKy7UTpONmDqWXo46,5 A book can be used as a weight to hold down papers or other materials,book can used weight hold papers materials,book,book,0.85102,0.9676400000000001,0.8793,1.03152,0.6899500000000001,0.88389,-0.10032
+cmpl-4zrZJMEPvTCpbwtqgGBNie7DjeQCO,1 Use it as a back scratcher,use back scratcher,fork,fork,0.95485,0.86958,0.94852,0.97723,1.05058,0.96015,0.19295
+cmpl-4zrZJMEPvTCpbwtqgGBNie7DjeQCO,2 Use it to pick up small items like coins or beads,use pick small items like coins beads,fork,fork,0.93036,0.93916,0.91612,0.99281,0.9411,0.94391,0.1116
+cmpl-4zrZJMEPvTCpbwtqgGBNie7DjeQCO,3 Use it as a hairpin or hair tie,use hairpin hair tie,fork,fork,0.85704,0.92131,1.02104,0.88866,0.95325,0.92826,-0.19953
+cmpl-4zrZJMEPvTCpbwtqgGBNie7DjeQCO,4 Turn it into a miniature shovel for potted plants,turn miniature shovel potted plants,fork,fork,0.98765,0.9815,1.04402,0.97004,0.97301,0.99124,0.17066
+cmpl-4zrZJMEPvTCpbwtqgGBNie7DjeQCO,5 Stick it in the ground to mark your spot in a park,stick ground mark spot park,fork,fork,0.9437,1.00652,0.95358,1.01145,0.91146,0.96534,0.09149
+cmpl-4zrZNd7OIfqxjARAb99vs1sxpMxRI,1 A fork can be used as a back scratcher,fork can used back scratcher,fork,fork,0.7732600000000001,0.8409,1.14877,0.88906,1.07207,0.94481,-0.53283
+cmpl-4zrZNd7OIfqxjARAb99vs1sxpMxRI,2 A fork can be used to pick up small items like rice or beans,fork can used pick small items like rice beans,fork,fork,0.90259,1.08671,0.99262,0.91322,0.94113,0.96725,-0.12615
+cmpl-4zrZNd7OIfqxjARAb99vs1sxpMxRI,3 A fork can be used to apply makeup such as lip gloss or mascara,fork can used apply makeup lip gloss mascara,fork,fork,0.99518,0.97381,1.05039,0.9326099999999999,1.02232,0.99486,0.18673
+cmpl-4zrZNd7OIfqxjARAb99vs1sxpMxRI,4 A fork can be used to clean dirt and grime out of small crevices and corners,fork can used clean dirt grime small crevices corners,fork,fork,0.96473,0.97958,0.92353,1.06859,0.94107,0.9755,0.19679
+cmpl-4zrZSDPDs3Az2uXgUA9QLBOn42eMw,1 A fork can be used to eat food,fork can used eat food,fork,fork,0.67633,0.93803,0.82694,0.99741,0.93099,0.87394,-0.63912
+cmpl-4zrZSDPDs3Az2uXgUA9QLBOn42eMw,2 A fork can be used to hold food while cutting it with a knife,fork can used hold food cutting knife,fork,fork,0.79587,1.02902,0.85368,0.92358,0.9410000000000001,0.90863,-0.33196
+cmpl-4zrZSDPDs3Az2uXgUA9QLBOn42eMw,3 A fork can be used to spear food,fork can used spear food,fork,fork,0.73627,0.84625,1.05566,0.9853,0.94197,0.91309,-0.5647
+cmpl-4zrZSDPDs3Az2uXgUA9QLBOn42eMw,4 A fork can be used to pick up food that has fallen on the floor,fork can used pick food fallen floor,fork,fork,0.92199,0.80621,0.94245,1.1534,0.9408,0.95297,0.15116
+cmpl-4zrZSDPDs3Az2uXgUA9QLBOn42eMw,5 A fork can be used as a back scratcher,fork can used back scratcher,fork,fork,0.7732600000000001,0.8409,1.14877,0.88906,1.07207,0.94481,-0.53283
+cmpl-4zrZWebxU7t3KID75VgorICiQ98tS,1 A fork can be used as a back scratcher,fork can used back scratcher,fork,fork,0.7732600000000001,0.8409,1.14877,0.88906,1.07207,0.94481,-0.53283
+cmpl-4zrZWebxU7t3KID75VgorICiQ98tS,2 A fork can be used to comb your hair,fork can used comb hair,fork,fork,0.71069,0.83128,0.99502,0.99528,0.91671,0.8898,-0.58938
+cmpl-4zrZWebxU7t3KID75VgorICiQ98tS,3 A fork can be used as a toothpick,fork can used toothpick,fork,fork,0.92931,0.8531,0.98854,0.96477,0.88741,0.92463,0.11014
+cmpl-4zrZWebxU7t3KID75VgorICiQ98tS,4 A fork can be used to scrape dirt off your shoes,fork can used scrape dirt shoes,fork,fork,1.0794,0.89002,1.05618,1.07345,1.07363,1.03454,0.50398
+cmpl-4zrZWebxU7t3KID75VgorICiQ98tS,5 A fork can be used to pick up small objects like paperclips or beads,fork can used pick small objects like paperclips beads,fork,fork,0.90559,0.82961,1.03064,0.97368,1.05887,0.95968,-0.00507
+cmpl-4zrZY4nYblpqmzHy9W3YWvhChz4N6,1 A fork can be used as a toothpick,fork can used toothpick,fork,fork,0.92931,0.8531,0.98854,0.96477,0.88741,0.92463,0.11014
+cmpl-4zrZY4nYblpqmzHy9W3YWvhChz4N6,2 A fork can be used to make small holes in fabric so that you can thread ribbon or string through it to create decorations,fork can used make small holes fabric can thread ribbon string create decorations,fork,fork,1.06795,0.91006,1.08737,0.96945,0.94074,0.99511,0.44345
+cmpl-4zrZY4nYblpqmzHy9W3YWvhChz4N6,3 A fork can be used as a makeshift chopsticks when eating rice or noodles,fork can used makeshift chopsticks eating rice noodles,fork,fork,1.12864,0.82713,1.00476,0.89592,1.07593,0.98648,0.72949
+cmpl-4zrZY4nYblpqmzHy9W3YWvhChz4N6,4 A fork can be used to play the steel pan drums,fork can used play steel pan drums,fork,fork,0.88701,1.13777,1.05088,0.97209,0.94108,0.99777,-0.24725
+cmpl-4zrZdUvDG0St0SuFktOwf4gs47zNp,1 A fork can be used as a hairpin,fork can used hairpin,fork,fork,0.72316,0.85266,0.85779,0.97117,0.94923,0.8708,-0.46432
+cmpl-4zrZdUvDG0St0SuFktOwf4gs47zNp,2 A fork can be used as a toothpick,fork can used toothpick,fork,fork,0.92931,0.8531,0.98854,0.96477,0.88741,0.92463,0.11014
+cmpl-4zrZdUvDG0St0SuFktOwf4gs47zNp,3 A fork can be used to remove splinters,fork can used remove splinters,fork,fork,0.8192200000000001,1.04386,1.06048,1.08257,1.11143,1.02351,-0.43371
+cmpl-4zrZdUvDG0St0SuFktOwf4gs47zNp,4 A fork can be used to clean under your fingernails,fork can used clean fingernails,fork,fork,0.69902,0.94686,0.7878000000000001,0.90585,1.10708,0.88932,-0.56834
+cmpl-4zrZdUvDG0St0SuFktOwf4gs47zNp,5 A fork can double as a chopstick holder,fork can double chopstick holder,fork,fork,1.18807,0.83404,0.85743,0.94851,1.09467,0.98454,1.02761
+cmpl-4zrZdUvDG0St0SuFktOwf4gs47zNp,6 Use the tines of a fork,use tines fork,fork,fork,0.75924,0.83678,0.90422,0.79425,0.98482,0.85586,-0.38635
+cmpl-4zrZhgIyBhnNWABiT0OfdrsodCcvI,1 Use a fork to eat soup without making a mess,use fork eat soup without making mess,fork,fork,0.85271,0.85999,0.98452,0.97821,0.93997,0.92308,-0.14399
+cmpl-4zrZhgIyBhnNWABiT0OfdrsodCcvI,2 Use a fork to eat spaghetti without making a mess,use fork eat spaghetti without making mess,fork,fork,0.88326,0.87464,0.9937,0.91993,0.94208,0.92272,-0.06403
+cmpl-4zrZhgIyBhnNWABiT0OfdrsodCcvI,3 Use a fork to eat salad without making a mess,use fork eat salad without making mess,fork,fork,0.93307,0.82519,1.01612,0.98371,0.94024,0.93967,0.1124
+cmpl-4zrZhgIyBhnNWABiT0OfdrsodCcvI,4 Use a fork as a makeshift spoon if you don't have one handy,use fork makeshift spoon one handy,fork,fork,1.16349,0.84268,1.0496,0.94254,1.0592,1.0115,0.80357
+cmpl-4zrZhgIyBhnNWABiT0OfdrsodCcvI,5 use two forks stuck together tineside out to make impromptu chopsticks,use two forks stuck together tineside make impromptu chopsticks,fork,fork,1.08515,0.89567,1.0755,1.09194,1.05577,1.04081,0.50788
+cmpl-4zrZjikiz5Bp8OUolwkQmV6EoHVfC,1 Eat like a king or queen with your very own fork,eat like king queen fork,fork,fork,0.82787,0.85738,0.83029,1.05192,0.8652,0.88653,-0.09425
+cmpl-4zrZjikiz5Bp8OUolwkQmV6EoHVfC,2 Use it as a bookmark,use bookmark,fork,fork,1.11477,1.03722,0.92054,1.01661,0.98173,1.01417,0.6415
+cmpl-4zrZjikiz5Bp8OUolwkQmV6EoHVfC,3 Give your pet cat or dog a bath with the help of your trusty fork,give pet cat dog bath help trusty fork,fork,fork,1.1042399999999999,0.96649,0.93786,1.11212,0.9346099999999999,1.01106,0.64683
+cmpl-4zrZjikiz5Bp8OUolwkQmV6EoHVfC,4 Get rid of pesky bugs in your home by shooing them away with a fork,get rid pesky bugs home shooing away fork,fork,fork,0.86905,1.08018,0.97123,0.83798,0.94232,0.94015,-0.21831
+cmpl-4zrZjikiz5Bp8OUolwkQmV6EoHVfC,5 Cook up a storm in the kitchen with some assistance from,cook storm kitchen assistance,fork,fork,1.01651,0.98959,0.97496,0.93364,1.0346899999999999,0.98988,0.30119
+cmpl-4zrZn3pRQCA9tRNajvLHknkm5sC1K,1 Using a fork to eat spaghetti instead of a spoon,using fork eat spaghetti instead spoon,fork,fork,0.6896,0.89717,1.06101,1.03393,1.01795,0.93993,-0.75646
+cmpl-4zrZn3pRQCA9tRNajvLHknkm5sC1K,2 Using a fork to apply makeup instead of a brush,using fork apply makeup instead brush,fork,fork,1.02591,0.81792,0.94971,0.82246,1.064,0.936,0.44259
+cmpl-4zrZn3pRQCA9tRNajvLHknkm5sC1K,3 Using a fork as a back scratcher,using fork back scratcher,fork,fork,0.8595200000000001,1.08491,0.89795,0.955,0.94724,0.94892,-0.19194
+cmpl-4zrZn3pRQCA9tRNajvLHknkm5sC1K,4 Using a fork to play the violin,using fork play violin,fork,fork,0.99128,1.09423,1.04286,1.02728,1.09252,1.04963,0.10457
+cmpl-4zrZn3pRQCA9tRNajvLHknkm5sC1K,5 Using a fork to open bottles or cans,using fork open bottles cans,fork,fork,0.81766,0.8543499999999999,0.86137,1.11936,0.93703,0.91795,-0.15437
+cmpl-4zrZn3pRQCA9tRNajvLHknkm5sC1K,6 Using forks as chopsticks,using forks chopsticks,fork,fork,0.69887,0.81652,0.8368800000000001,0.95362,0.7780400000000001,0.81679,-0.48515
+cmpl-4zrZn3pRQCA9tRNajvLHknkm5sC1K,7 Creating art with,creating art,fork,fork,0.96426,0.93193,0.9927,0.94691,1.03903,0.97497,0.15344
+cmpl-4zrZqhtBWfKrFwRr3cP7sCW8d8PYm,1 A fork can be used as a back scratcher,fork can used back scratcher,fork,fork,0.7732600000000001,0.8409,1.14877,0.88906,1.07207,0.94481,-0.53283
+cmpl-4zrZqhtBWfKrFwRr3cP7sCW8d8PYm,2 A fork can be used to play the xylophone,fork can used play xylophone,fork,fork,0.64103,0.82081,0.95012,0.92387,0.99401,0.86597,-0.78751
+cmpl-4zrZqhtBWfKrFwRr3cP7sCW8d8PYm,3 A fork can be used as a toothpick,fork can used toothpick,fork,fork,0.92931,0.8531,0.98854,0.96477,0.88741,0.92463,0.11014
+cmpl-4zrZqhtBWfKrFwRr3cP7sCW8d8PYm,4 If you put a rubber band around the tines of a fork it becomes a minitrampoline for ants or other small insects,if put rubber band around tines fork becomes minitrampoline ants small insects,fork,fork,0.94014,1.07559,0.91973,1.02189,1.05842,1.00315,0.04671
+cmpl-4zrZvmychPlDCIbEldT5F8zqS2hVa,1 A fork can be used as a back scratcher,fork can used back scratcher,fork,fork,0.7732600000000001,0.8409,1.14877,0.88906,1.07207,0.94481,-0.53283
+cmpl-4zrZvmychPlDCIbEldT5F8zqS2hVa,2 A fork can be used to pick up food that is out of reach,fork can used pick food reach,fork,fork,0.91949,0.94668,0.99436,1.00319,1.0587,0.98448,-6.7e-4
+cmpl-4zrZvmychPlDCIbEldT5F8zqS2hVa,3 A fork can be used to comb your hair,fork can used comb hair,fork,fork,0.71069,0.83128,0.99502,0.99528,0.91671,0.8898,-0.58938
+cmpl-4zrZvmychPlDCIbEldT5F8zqS2hVa,4 A fork can be used to apply makeup,fork can used apply makeup,fork,fork,0.83624,0.9822,1.03281,1.04307,0.92937,0.96474,-0.30086
+cmpl-4zrZvmychPlDCIbEldT5F8zqS2hVa,5 A fork can be used as a toothpick,fork can used toothpick,fork,fork,0.92931,0.8531,0.98854,0.96477,0.88741,0.92463,0.11014
+cmpl-4zra0z5F57t7Ygw0bm05szm3Hl5yd,1 Use a fork to eat food off of a plate,use fork eat food plate,fork,fork,0.69462,1.03263,0.94509,0.95625,0.91252,0.90822,-0.72401
+cmpl-4zra0z5F57t7Ygw0bm05szm3Hl5yd,2 Stick a fork in a electrical outlet to see if it is still working,stick fork electrical outlet see still working,fork,fork,0.8894299999999999,0.98647,1.04589,1.01483,0.95347,0.97802,-0.14594
+cmpl-4zra0z5F57t7Ygw0bm05szm3Hl5yd,3 Use a fork as a back scratcher,use fork back scratcher,fork,fork,0.81942,1.04767,0.93856,1.09518,0.92375,0.96492,-0.31998
+cmpl-4zra0z5F57t7Ygw0bm05szm3Hl5yd,4 Hold a fork up to the light to see if it is bent,hold fork light see bent,fork,fork,0.77721,0.90195,0.91898,1.15178,0.87462,0.92491,-0.34667
+cmpl-4zra0z5F57t7Ygw0bm05szm3Hl5yd,5 Try to balance a fork on its end,try balance fork end,fork,fork,0.87795,1.00936,1.0385,1.09294,1.00525,1.0048,-0.19363
+cmpl-4zra4atJ3XarPjkJspnVq87V10M79,1 Use a fork to play the xylophone,use fork play xylophone,fork,fork,0.79339,1.07791,1.06038,0.90614,1.04277,0.97612,-0.53705
+cmpl-4zra4atJ3XarPjkJspnVq87V10M79,2 Use a fork as a back scratcher,use fork back scratcher,fork,fork,0.81942,1.04767,0.93856,1.09518,0.92375,0.96492,-0.31998
+cmpl-4zra4atJ3XarPjkJspnVq87V10M79,3 Use a fork to measure ingredients when cooking,use fork measure ingredients cooking,fork,fork,0.75406,0.8460799999999999,0.88291,0.97547,0.92982,0.87767,-0.3769
+cmpl-4zra4atJ3XarPjkJspnVq87V10M79,4 Use a fork as a toothpick,use fork toothpick,fork,fork,0.61107,0.81021,0.7699,0.99588,0.7807999999999999,0.79357,-0.71288
+cmpl-4zra4atJ3XarPjkJspnVq87V10M79,5 Curl your hair with a fork,curl hair fork,fork,fork,0.6956100000000001,0.66284,0.78908,0.50127,0.63266,0.65629,-0.37307
+cmpl-4zra4atJ3XarPjkJspnVq87V10M79,6 Make music with forks and spoons by banging them together or on surfaces like tables and,make music forks spoons banging together surfaces like tables,fork,fork,0.92794,1.02267,0.80501,1.02933,0.9416100000000001,0.94531,0.13938
+cmpl-4zra7PJ3V7WlDovz4p2SWxDhYNZL4,1 Use a fork to curl your hair,use fork curl hair,fork,fork,1.02407,1.13705,1.0965799999999999,0.975,0.86242,1.01902,0.17118
+cmpl-4zra7PJ3V7WlDovz4p2SWxDhYNZL4,2 Use a fork to apply makeup,use fork apply makeup,fork,fork,1.10083,0.97726,0.98992,0.919,1.08682,1.01477,0.56208
+cmpl-4zra7PJ3V7WlDovz4p2SWxDhYNZL4,3 Use a fork to eat ice cream,use fork eat ice cream,fork,fork,0.74373,1.03162,0.95484,0.90256,0.91093,0.90874,-0.57467
+cmpl-4zra7PJ3V7WlDovz4p2SWxDhYNZL4,4 Use a fork to clean your teeth,use fork clean teeth,fork,fork,0.78071,0.90672,1.07793,1.03207,1.09038,0.97756,-0.48995
+cmpl-4zra7PJ3V7WlDovz4p2SWxDhYNZL4,5 Use a fork to brush your hair,use fork brush hair,fork,fork,0.95145,1.08812,1.16828,0.882,1.03229,1.02443,-0.1137
+cmpl-4zra7PJ3V7WlDovz4p2SWxDhYNZL4,6 Use a fork to pick up food that's fallen on the floor,use fork pick food fallen floor,fork,fork,1.09927,0.95634,1.06546,0.90196,1.05952,1.01651,0.51545
+cmpl-4zra7PJ3V7WlDovz4p2SWxDhYNZL4,7 Use a fork to open something,use fork open something,fork,fork,1.10332,1.07834,1.02487,0.94527,1.06745,1.04385,0.48804
+cmpl-4zraCg6Ph8xSbK0yjXAdPnidD11ay,1 Use a fork to eat a cupcake without getting your hands messy,use fork eat cupcake without getting hands messy,fork,fork,0.88749,0.90547,0.9266,1.05849,0.93901,0.94341,-0.01123
+cmpl-4zraCg6Ph8xSbK0yjXAdPnidD11ay,2 Stick a fork in an electrical outlet to see if it's still working,stick fork electrical outlet see still working,fork,fork,0.8894299999999999,0.98647,1.04589,1.01483,0.95347,0.97802,-0.14594
+cmpl-4zraCg6Ph8xSbK0yjXAdPnidD11ay,3 Use a fork to comb your hair,use fork comb hair,fork,fork,0.82685,0.9385,1.09568,0.97703,0.87508,0.94263,-0.34884
+cmpl-4zraCg6Ph8xSbK0yjXAdPnidD11ay,4 Use a fork as a toothpick,use fork toothpick,fork,fork,0.61107,0.81021,0.7699,0.99588,0.7807999999999999,0.79357,-0.71288
+cmpl-4zraCg6Ph8xSbK0yjXAdPnidD11ay,5 Stick a fork in the ground to mark your spot in line,stick fork ground mark spot line,fork,fork,1.17263,1.05991,1.00138,0.98618,0.99362,1.04274,0.75134
+cmpl-4zraGctlemkCLq7TdhINVy0S5X0JP,1 Fork art Create fun designs and shapes using a fork as your paintbrush,fork art create fun designs shapes using fork paintbrush,fork,fork,0.74658,1.09456,0.84032,0.87193,1.05294,0.92127,-0.53618
+cmpl-4zraGctlemkCLq7TdhINVy0S5X0JP,2 Use a fork to curl your hair  no curlers necessary,use fork curl hair curlers necessary,fork,fork,0.88679,1.0959,1.10008,0.89552,1.0598,1.00762,-0.27866
+cmpl-4zraGctlemkCLq7TdhINVy0S5X0JP,3 Make music with your fork tap it against different surfaces to create unique sounds,make music fork tap different surfaces create unique sounds,fork,fork,0.93955,1.03184,0.8758900000000001,1.18491,0.9406,0.99456,0.12609
+cmpl-4zraGctlemkCLq7TdhINVy0S5X0JP,4 Keep your drink cold by freezing a few forks and adding them to your glass,keep drink cold freezing forks adding glass,fork,fork,0.92338,1.0012,0.94604,0.92306,0.94257,0.94725,0.02652
+cmpl-4zraM64Ja1WKyyzHnRS2C1x6wvtM1,1 Use a fork to eat soup instead of a spoon,use fork eat soup instead spoon,fork,fork,0.84297,0.89062,1.09509,1.09817,1.04294,0.99396,-0.28326
+cmpl-4zraM64Ja1WKyyzHnRS2C1x6wvtM1,2 Use a fork to apply makeup instead of a brush,use fork apply makeup instead brush,fork,fork,1.02927,0.90192,0.97637,0.8128299999999999,1.06662,0.9574,0.38314
+cmpl-4zraM64Ja1WKyyzHnRS2C1x6wvtM1,3 Use a fork as a toothpick,use fork toothpick,fork,fork,0.61107,0.81021,0.7699,0.99588,0.7807999999999999,0.79357,-0.71288
+cmpl-4zraM64Ja1WKyyzHnRS2C1x6wvtM1,4 Use a fork to scratch an itch you can't reach,use fork scratch itch reach,fork,fork,0.70975,0.91258,0.8194,1.02548,1.0544,0.90432,-0.52473
+cmpl-4zraM64Ja1WKyyzHnRS2C1x6wvtM1,5 Use a fork to play the piano if the keys are big enough,use fork play piano keys big enough,fork,fork,0.91917,1.11061,0.85624,1.05218,0.94315,0.97627,0.0218
+cmpl-4zraQmDGIEyFg7seTG2WjAuWnieHS,1 Eat cereal with a fork instead of a spoon,eat cereal fork instead spoon,fork,fork,0.65934,0.95905,1.0747,1.07816,0.76664,0.90758,-0.86722
+cmpl-4zraQmDGIEyFg7seTG2WjAuWnieHS,2 Use a fork to play fetch with your dog,use fork play fetch dog,fork,fork,0.89543,1.04327,0.96453,0.82951,0.95012,0.93657,-0.10781
+cmpl-4zraQmDGIEyFg7seTG2WjAuWnieHS,3 Use a fork as a bookmark in your favorite book,use fork bookmark favorite book,fork,fork,0.81996,1.06587,0.8705700000000001,1.22061,1.06337,1.00808,-0.28948
+cmpl-4zraQmDGIEyFg7seTG2WjAuWnieHS,4 Keep track of your keys by hanging them on a fork,keep track keys hanging fork,fork,fork,0.81949,1.00888,0.99478,1.0743,0.90413,0.96032,-0.3375
+cmpl-4zraQmDGIEyFg7seTG2WjAuWnieHS,5 Use a fork to open up tightly sealed jars,use fork open tightly sealed jars,fork,fork,1.11649,1.11041,0.9353400000000001,0.90417,1.049,1.02308,0.57892
+cmpl-4zraQmDGIEyFg7seTG2WjAuWnieHS,6 Sift flour by using a fork instead,sift flour using fork instead,fork,fork,0.98884,0.88083,1.05792,0.78106,0.80197,0.90212,0.2357
+cmpl-4zraUifPUfrYanvkLcAzlKBfY459v,1 Use a fork to eat soup instead of a spoon,use fork eat soup instead spoon,fork,fork,0.84297,0.89062,1.09509,1.09817,1.04294,0.99396,-0.28326
+cmpl-4zraUifPUfrYanvkLcAzlKBfY459v,2 Use a fork to play the piano,use fork play piano,fork,fork,0.76058,1.07437,1.07084,1.00208,1.07404,0.99638,-0.64789
+cmpl-4zraUifPUfrYanvkLcAzlKBfY459v,3 Use a fork to brush your teeth,use fork brush teeth,fork,fork,0.78269,0.91643,1.0022200000000001,0.93129,1.12865,0.95226,-0.44233
+cmpl-4zraUifPUfrYanvkLcAzlKBfY459v,4 Use a fork to comb your hair,use fork comb hair,fork,fork,0.82685,0.9385,1.09568,0.97703,0.87508,0.94263,-0.34884
+cmpl-4zraUifPUfrYanvkLcAzlKBfY459v,5 Use a fork as a bookmark in your book,use fork bookmark book,fork,fork,0.9529,1.0732,1.13035,0.88711,0.90981,0.99067,-0.05626
+cmpl-4zraUifPUfrYanvkLcAzlKBfY459v,6 Stick forks in the ground to make a garden fence or trellis for climbing,stick forks ground make garden fence trellis climbing,fork,fork,1.15612,1.00086,1.04741,0.95205,0.94217,1.01972,0.70324
+cmpl-4zraZpLyhHci56f4QhgT4B7SmCvrt,1 Use a fork to curl your hair,use fork curl hair,fork,fork,1.02407,1.13705,1.0965799999999999,0.975,0.86242,1.01902,0.17118
+cmpl-4zraZpLyhHci56f4QhgT4B7SmCvrt,2 Use a fork to eat soup without getting your hands dirty,use fork eat soup without getting hands dirty,fork,fork,1.02993,1.16346,0.90575,0.88337,1.05918,1.00834,0.2882
+cmpl-4zraZpLyhHci56f4QhgT4B7SmCvrt,3 Stick a fork in an electrical outlet to see if its still working,stick fork electrical outlet see still working,fork,fork,0.8894299999999999,0.98647,1.04589,1.01483,0.95347,0.97802,-0.14594
+cmpl-4zraZpLyhHci56f4QhgT4B7SmCvrt,4 Hold a fork by the tines and use the handle to hammer in nails,hold fork tines use handle hammer nails,fork,fork,0.80555,0.9605,0.86931,0.82793,1.05864,0.90439,-0.29139
+cmpl-4zraZpLyhHci56f4QhgT4B7SmCvrt,5 Place a fork in between the door and door,place fork door door,fork,fork,0.98443,0.96296,0.98033,0.89472,1.01217,0.96692,0.2103
+cmpl-4zrad3UgMywrIHWm2sISmtf8VYQgP,1 A fork can be used to eat food,fork can used eat food,fork,fork,0.67633,0.93803,0.82694,0.99741,0.93099,0.87394,-0.63912
+cmpl-4zrad3UgMywrIHWm2sISmtf8VYQgP,2 A fork can be used as a utensil to cook food,fork can used utensil cook food,fork,fork,0.96641,1.05132,0.87649,0.8145100000000001,0.91998,0.92574,0.18537
+cmpl-4zrad3UgMywrIHWm2sISmtf8VYQgP,3 A fork can be used to serve food,fork can used serve food,fork,fork,0.78035,1.01318,0.95977,0.92136,0.93544,0.92202,-0.45148
+cmpl-4zrad3UgMywrIHWm2sISmtf8VYQgP,4 A fork can be used as a tool to eat difficult foods such as lobster or steak,fork can used tool eat difficult foods lobster steak,fork,fork,0.77955,0.88927,1.05033,1.00359,0.93971,0.93249,-0.44527
+cmpl-4zrad3UgMywrIHWm2sISmtf8VYQgP,5 A fork can be used to play musical instruments such as the violin or,fork can used play musical instruments violin,fork,fork,0.89104,0.81962,0.99567,0.97407,0.94189,0.92446,-0.00529
+cmpl-4zrahdwzmeu6wqCXH9mwDInKMIiDX,1 Eating soup,eating soup,fork,fork,0.997,0.99351,1.05597,1.04871,0.94844,1.00873,0.19171
+cmpl-4zrahdwzmeu6wqCXH9mwDInKMIiDX,2 Holding up a table,holding table,fork,fork,1.06648,1.06996,1.00812,1.06038,1.0021,1.04141,0.40044
+cmpl-4zrahdwzmeu6wqCXH9mwDInKMIiDX,3 Using as a hairbrush,using hairbrush,fork,fork,0.9519,1.0235,1.02096,1.01907,1.05203,1.01349,0.04029
+cmpl-4zrahdwzmeu6wqCXH9mwDInKMIiDX,4 Wearing as a necklace,wearing necklace,fork,fork,1.04336,1.01526,1.03814,0.94253,0.96553,1.00096,0.33449
+cmpl-4zrahdwzmeu6wqCXH9mwDInKMIiDX,5 Building a fort,building fort,fork,fork,1.02583,0.95044,0.92552,1.03551,1.04808,0.99708,0.39462
+cmpl-4zrahdwzmeu6wqCXH9mwDInKMIiDX,6 Pretending to be a telephone,pretending telephone,fork,fork,1.05465,0.8627400000000001,0.97198,1.11772,1.09661,1.02074,0.50249
+cmpl-4zrahdwzmeu6wqCXH9mwDInKMIiDX,7 Using as chopsticks,using chopsticks,fork,fork,1.02879,1.13806,1.079,0.8758,1.0445,1.03323,0.17135
+cmpl-4zrahdwzmeu6wqCXH9mwDInKMIiDX,8 Making music with it,making music,fork,fork,0.9497,1.02123,0.989,0.98936,0.98078,0.98601,0.06592
+cmpl-4zrahdwzmeu6wqCXH9mwDInKMIiDX,9 Digging in the sand,digging sand,fork,fork,1.03583,0.98236,1.08836,0.92417,0.99815,1.00577,0.28705
+cmpl-4zrakJLlAzMdyKNNYUGLwDUYw1gGV,1 A fork can be used as a hairpin,fork can used hairpin,fork,fork,0.72316,0.85266,0.85779,0.97117,0.94923,0.8708,-0.46432
+cmpl-4zrakJLlAzMdyKNNYUGLwDUYw1gGV,2 A fork can be used to eat soup,fork can used eat soup,fork,fork,0.6347700000000001,1.00563,0.81869,1.00943,0.89139,0.87198,-0.80137
+cmpl-4zrakJLlAzMdyKNNYUGLwDUYw1gGV,3 A fork can be used as a back scratcher,fork can used back scratcher,fork,fork,0.7732600000000001,0.8409,1.14877,0.88906,1.07207,0.94481,-0.53283
+cmpl-4zrakJLlAzMdyKNNYUGLwDUYw1gGV,4 A fork can be used to pick up food that has fallen on the floor,fork can used pick food fallen floor,fork,fork,0.92199,0.80621,0.94245,1.1534,0.9408,0.95297,0.15116
+cmpl-4zrakJLlAzMdyKNNYUGLwDUYw1gGV,5 A fork can be used to play the piano,fork can used play piano,fork,fork,0.70428,0.81995,0.97976,0.90978,0.93622,0.87,-0.59856
+cmpl-4zraqw62ODEyAK2awfLKbL89Lp8B3,1 Use a fork to eat soup,use fork eat soup,fork,fork,0.92708,1.18624,1.07567,0.89771,1.0331,1.02396,-0.18025
+cmpl-4zraqw62ODEyAK2awfLKbL89Lp8B3,2 Stick a fork in a piece of fruit to eat it,stick fork piece fruit eat,fork,fork,0.82654,0.7939499999999999,0.783,1.034,0.92404,0.87231,-0.03398
+cmpl-4zraqw62ODEyAK2awfLKbL89Lp8B3,3 Use a fork as a spoon when eating cereal or yogurt,use fork spoon eating cereal yogurt,fork,fork,0.76612,1.09837,1.02381,0.8590599999999999,0.84595,0.91866,-0.58739
+cmpl-4zraqw62ODEyAK2awfLKbL89Lp8B3,4 Hold a fork like chopsticks to eat rice or noodles,hold fork like chopsticks eat rice noodles,fork,fork,0.6875899999999999,1.01946,0.9249499999999999,0.94822,0.86053,0.88815,-0.71773
+cmpl-4zraqw62ODEyAK2awfLKbL89Lp8B3,5 Stick a fork in your hair to hold it back while you're cooking,stick fork hair hold back cooking,fork,fork,0.89548,0.95814,1.1492499999999999,0.91218,1.07643,0.9983,-0.20743
+cmpl-4zratgs7BTfghucjtwvLdg3h5Ktcj,1 Use a fork to comb your hair,use fork comb hair,fork,fork,0.82685,0.9385,1.09568,0.97703,0.87508,0.94263,-0.34884
+cmpl-4zratgs7BTfghucjtwvLdg3h5Ktcj,2 Use a fork to apply makeup,use fork apply makeup,fork,fork,1.10083,0.97726,0.98992,0.919,1.08682,1.01477,0.56208
+cmpl-4zratgs7BTfghucjtwvLdg3h5Ktcj,3 Use a fork as a toothpick,use fork toothpick,fork,fork,0.61107,0.81021,0.7699,0.99588,0.7807999999999999,0.79357,-0.71288
+cmpl-4zratgs7BTfghucjtwvLdg3h5Ktcj,4 Stick a fork in an electrical outlet to see if it's still working,stick fork electrical outlet see still working,fork,fork,0.8894299999999999,0.98647,1.04589,1.01483,0.95347,0.97802,-0.14594
+cmpl-4zratgs7BTfghucjtwvLdg3h5Ktcj,5 Hold a fork by the tines and use the handle as a drumstick,hold fork tines use handle drumstick,fork,fork,0.85686,1.04941,1.09357,1.05817,1.06161,1.02392,-0.33525
+cmpl-4zratgs7BTfghucjtwvLdg3h5Ktcj,6 Place a fork in front of a,place fork front,fork,fork,0.67832,0.79471,1.02192,1.00712,0.85459,0.87133,-0.68402
+cmpl-4zrawJ9oDldEBthK2vgZupbmFMm4H,1 Use a fork to fluff up your hair for a quick and easy hairstyle,use fork fluff hair quick easy hairstyle,fork,fork,1.01249,0.91887,0.90772,0.97123,0.94121,0.9503,0.39377
+cmpl-4zrawJ9oDldEBthK2vgZupbmFMm4H,2 Stick a fork in an electrical outlet to see if it's still working,stick fork electrical outlet see still working,fork,fork,0.8894299999999999,0.98647,1.04589,1.01483,0.95347,0.97802,-0.14594
+cmpl-4zrawJ9oDldEBthK2vgZupbmFMm4H,3 Use a fork as a bookmark in your favorite book,use fork bookmark favorite book,fork,fork,0.81996,1.06587,0.8705700000000001,1.22061,1.06337,1.00808,-0.28948
+cmpl-4zrawJ9oDldEBthK2vgZupbmFMm4H,4 Straighten out a bent fork with another fork,straighten bent fork another fork,fork,fork,0.72201,0.7349,0.73617,1.0772,1.00343,0.85474000000000006,-0.3092
+cmpl-4zrawJ9oDldEBthK2vgZupbmFMm4H,5 Curl your lashes with a clean fork tine for,curl lashes clean fork tine,fork,fork,0.86476,0.9637,1.0011,0.83704,1.04821,0.94296,-0.1991
+cmpl-4zrb0QXXrFMPbzffB0TG92HVogg3y,1 A fork can be used as a back scratcher,fork can used back scratcher,fork,fork,0.7732600000000001,0.8409,1.14877,0.88906,1.07207,0.94481,-0.53283
+cmpl-4zrb0QXXrFMPbzffB0TG92HVogg3y,2 A fork can be used as a toothpick,fork can used toothpick,fork,fork,0.92931,0.8531,0.98854,0.96477,0.88741,0.92463,0.11014
+cmpl-4zrb0QXXrFMPbzffB0TG92HVogg3y,3 A fork can be used to remove splinters,fork can used remove splinters,fork,fork,0.8192200000000001,1.04386,1.06048,1.08257,1.11143,1.02351,-0.43371
+cmpl-4zrb0QXXrFMPbzffB0TG92HVogg3y,4 A fork can be used to apply makeup,fork can used apply makeup,fork,fork,0.83624,0.9822,1.03281,1.04307,0.92937,0.96474,-0.30086
+cmpl-4zrb0QXXrFMPbzffB0TG92HVogg3y,5 A fork can be used to comb your hair,fork can used comb hair,fork,fork,0.71069,0.83128,0.99502,0.99528,0.91671,0.8898,-0.58938
+cmpl-4zrb0QXXrFMPbzffB0TG92HVogg3y,6 A fork can be used to open bottles and cans,fork can used open bottles cans,fork,fork,1.09861,1.21465,1.02764,1.08728,1.05931,1.0975,0.3983
+cmpl-4zrb4pbZjJzgQf6xbhicfC27UEn7l,1 Drive nails into wood,drive nails wood,fork,fork,0.94818,0.98835,1.0222,0.90698,0.94391,0.96192,0.05618
+cmpl-4zrb4pbZjJzgQf6xbhicfC27UEn7l,2 Pick up food from a plate,pick food plate,fork,fork,0.81233,0.87227,0.993,0.84777,0.9474899999999999,0.89457,-0.29514
+cmpl-4zrb4pbZjJzgQf6xbhicfC27UEn7l,3 Hold hair in place while braiding,hold hair place braiding,fork,fork,0.9953,0.91182,1.04169,0.98365,1.01121,0.98873,0.23407
+cmpl-4zrb4pbZjJzgQf6xbhicfC27UEn7l,4 Eat soup without making a mess,eat soup without making mess,fork,fork,0.88869,1.08969,0.9401,0.92559,0.93042,0.9549,-0.13151
+cmpl-4zrb4pbZjJzgQf6xbhicfC27UEn7l,5 Dig in the dirt,dig dirt,fork,fork,1.06129,0.9255599999999999,1.00581,0.9339500000000001,1.03202,0.99173,0.4607
+cmpl-4zrb4pbZjJzgQf6xbhicfC27UEn7l,6 Measure ingredients,measure ingredients,fork,fork,1.04391,0.95648,1.00884,0.97958,1.00778,0.99932,0.38937
+cmpl-4zrb4pbZjJzgQf6xbhicfC27UEn7l,7 Play the piano,play piano,fork,fork,0.90634,1.01756,1.08079,1.10712,0.9311,1.00858,-0.12854
+cmpl-4zrb4pbZjJzgQf6xbhicfC27UEn7l,8 Make a snow angel,make snow angel,fork,fork,0.95053,0.91986,1.04529,1.08872,0.9651,0.9939,0.09307
+cmpl-4zrb4pbZjJzgQf6xbhicfC27UEn7l,9 Comb your hair,comb hair,fork,fork,0.98897,0.96334,1.06262,0.98669,1.0691,1.01414,0.1605
+cmpl-4zrb7jeIL1TFrfKlWLLLftejtTyZb,1 Forks can be used as impromptu toothpicks Simply insert the tines of the fork into your teeth and give them a good cleaning,forks can used impromptu toothpicks simply insert tines fork teeth give good cleaning,fork,fork,1.14448,0.89932,0.97634,0.94199,1.05877,1.00418,0.76367
+cmpl-4zrb7jeIL1TFrfKlWLLLftejtTyZb,2 If you're ever in a pinch and need to open a bottle of wine use a fork Stick the fork into the cork and twist it until the cork pops out,if ever pinch need open bottle wine use fork stick fork cork twist cork pops,fork,fork,1.15948,0.95673,0.89688,1.13796,0.94672,1.01955,0.86122
+cmpl-4zrbDITGHAQhN1jsdlVUwpqxbMxvL,1 A fork can be used to eat food,fork can used eat food,fork,fork,0.67633,0.93803,0.82694,0.99741,0.93099,0.87394,-0.63912
+cmpl-4zrbDITGHAQhN1jsdlVUwpqxbMxvL,2 A fork can be used to pick up food that has fallen on the ground,fork can used pick food fallen ground,fork,fork,0.88461,0.8063400000000001,0.98047,0.95676,0.94117,0.91387,-0.00758
+cmpl-4zrbDITGHAQhN1jsdlVUwpqxbMxvL,3 A fork can be used to help cut food into smaller pieces,fork can used help cut food smaller pieces,fork,fork,1.00126,0.99069,1.00456,1.09017,1.05936,1.02921,0.23371
+cmpl-4zrbDITGHAQhN1jsdlVUwpqxbMxvL,4 A fork can be used as a shovel to scoop up food onto your plate,fork can used shovel scoop food onto plate,fork,fork,0.82515,0.92515,0.87552,1.17233,1.06144,0.97192,-0.19554
+cmpl-4zrbDITGHAQhN1jsdlVUwpqxbMxvL,5 A fork can be used as a projectile in a,fork can used projectile,fork,fork,0.81406,0.73691,1.05566,1.06709,1.00259,0.93526,-0.25283
+cmpl-4zrbJ1ywGvexOFDxf6gmBhbuPPecR,1 A Tin Can Telephone This is a classic use for a tin can  and one that has been around for generations All you need are two tin cans  some string  and something to punch holes in the bottom of the cans a nail or a sharp object Once you have your materials    simply tie the string between the two cans  making sure that the string is tight,tin can telephone this classic use tin can one around generations all need two tin cans string something punch holes bottom cans nail sharp object once materials simply tie string two cans making sure string tight,tin can,tin can,0.96749,1.17689,0.95775,0.80094,0.36219,0.85305,0.12315
+cmpl-4zrbN3psnyAw89kktoFkUMgimFZjc,1 A tin can could be used as a vase for flowers,tin can used vase flowers,tin can,tin can,0.9869,0.7193,1.23648,1.1440299999999999,0.30362,0.87807,0.27114
+cmpl-4zrbN3psnyAw89kktoFkUMgimFZjc,2 It could be used as a pen holder on a desk,it used pen holder desk,tin can,tin can,0.8811599999999999,1.02058,1.00647,1.0015,1.53138,1.08822,-0.23623
+cmpl-4zrbN3psnyAw89kktoFkUMgimFZjc,3 A tin can could be used to store loose change,tin can used store loose change,tin can,tin can,0.84887,0.98043,1.0777,0.86326,0.29896,0.81384,-0.22249
+cmpl-4zrbN3psnyAw89kktoFkUMgimFZjc,4 It could be used to hold toothpicks on a counter top,it used hold toothpicks counter top,tin can,tin can,0.98222,0.95724,0.97401,0.82264,1.02766,0.95275,0.20582
+cmpl-4zrbN3psnyAw89kktoFkUMgimFZjc,5 A tin can might be used as a planter for small plants or,tin can might used planter small plants,tin can,tin can,1.13584,0.89468,1.27945,0.86891,0.29933,0.89564,0.60324
+cmpl-4zrbRsbIaGxBqfOccYpoUD0CMO0xl,1 A tin can telephone,tin can telephone,tin can,tin can,1.02459,1.08822,1.32342,0.79575,1.69868,1.18613,-0.08147
+cmpl-4zrbRsbIaGxBqfOccYpoUD0CMO0xl,2 A candle holder,candle holder,tin can,tin can,0.82138,1.07794,0.99276,0.88278,0.84829,0.92463,-0.37295
+cmpl-4zrbRsbIaGxBqfOccYpoUD0CMO0xl,3 A pen/pencil holder,pen pencil holder,tin can,tin can,0.83096,0.9982,1.04543,1.00269,1.20522,1.0165,-0.37327
+cmpl-4zrbRsbIaGxBqfOccYpoUD0CMO0xl,4 A vase,vase,tin can,tin can,1.10318,0.99177,1.03808,1.00658,0.92276,1.01247,0.54986
+cmpl-4zrbRsbIaGxBqfOccYpoUD0CMO0xl,5 A bird feeder,bird feeder,tin can,tin can,0.88225,0.97028,0.95329,0.98359,1.03604,0.96509,-0.10213
+cmpl-4zrbRsbIaGxBqfOccYpoUD0CMO0xl,6 A planter,planter,tin can,tin can,0.94273,0.91545,1.01936,0.96995,0.94088,0.95767,0.08716
+cmpl-4zrbRsbIaGxBqfOccYpoUD0CMO0xl,7A wind chime,a wind chime,tin can,tin can,1.11045,1.00163,0.94887,0.8351999999999999,1.24137,1.0275,0.58603
+cmpl-4zrbRsbIaGxBqfOccYpoUD0CMO0xl,8A homemade musical instrument,a homemade musical instrument,tin can,tin can,0.86495,1.02065,0.92114,0.95337,0.34696000000000005,0.82141,-0.07881
+cmpl-4zrbRsbIaGxBqfOccYpoUD0CMO0xl,9A storage container,a storage container,tin can,tin can,1.06301,1.00094,1.04532,0.99984,1.65084,1.15199,0.31797
+cmpl-4zrbTqtxt7KQ7CDXrryUu5jgWJ69a,1 A tin can can be used as a vase,tin can can used vase,tin can,tin can,1.11166,0.87651,0.8547,0.95256,0.55952,0.87099,0.82526
+cmpl-4zrbTqtxt7KQ7CDXrryUu5jgWJ69a,2 A tin can can be used as a planter,tin can can used planter,tin can,tin can,0.90665,0.66794,1.14702,0.70065,0.41807000000000005,0.76807,0.07356
+cmpl-4zrbTqtxt7KQ7CDXrryUu5jgWJ69a,3 A tin can can be used to hold pens and pencils,tin can can used hold pens pencils,tin can,tin can,1.22326,1.12549,0.86545,0.86888,0.44621999999999995,0.90586,1.04053
+cmpl-4zrbTqtxt7KQ7CDXrryUu5jgWJ69a,4 A tin can can be used as a coin bank,tin can can used coin bank,tin can,tin can,0.69401,0.77645,1.28592,0.77698,0.33609,0.77389,-0.76646
+cmpl-4zrbTqtxt7KQ7CDXrryUu5jgWJ69a,5 A tin can can be used as a candle holder,tin can can used candle holder,tin can,tin can,0.60429,0.99712,0.9359999999999999,0.78574,0.41879999999999995,0.74839,-0.9342
+cmpl-4zrbYEeeRyYskiBlOLBZdW7zFQkf8,1 A tin can can be used as a vase for flowers,tin can can used vase flowers,tin can,tin can,0.6592,0.7789200000000001,0.96552,0.88574,1.7064599999999999,0.99917,-0.80673
+cmpl-4zrbYEeeRyYskiBlOLBZdW7zFQkf8,2 It can be used as a candle holder,it can used candle holder,tin can,tin can,0.95618,1.15177,1.00697,0.80701,1.48489,1.08136,-0.07559
+cmpl-4zrbYEeeRyYskiBlOLBZdW7zFQkf8,3 A tin can can be used to store small items such as buttons  beads  and other craft supplies,tin can can used store small items buttons beads craft supplies,tin can,tin can,1.15165,1.03687,1.052,0.98366,1.64141,1.17312,0.57816
+cmpl-4zrbYEeeRyYskiBlOLBZdW7zFQkf8,4 It makes a great piggy bank,it makes great piggy bank,tin can,tin can,0.87866,0.97727,1.10417,0.93551,0.92504,0.96413,-0.21917
+cmpl-4zrbYEeeRyYskiBlOLBZdW7zFQkf8,5 A tin can can be used as a planter for small plants,tin can can used planter small plants,tin can,tin can,1.14467,0.86599,1.2969,0.72583,0.29930999999999996,0.86654,0.62864
+cmpl-4zrbcJSjnrQGQryl58b1WsAPwo0An,A tin can be used as A small planter for succulents or cacti,tin can used small planter succulents cacti,tin can,tin can,1.1026,0.7875099999999999,1.20181,0.75702,0.78502,0.92679,0.55106
+cmpl-4zrbcJSjnrQGQryl58b1WsAPwo0An,A tin can be used as A pencil holder on A desk,tin can used pencil holder desk,tin can,tin can,0.7296199999999999,0.93572,1.12405,1.03094,0.33968,0.832,-0.61249
+cmpl-4zrbcJSjnrQGQryl58b1WsAPwo0An,A tin can can be cut in half and used as salt and pepper shakers,tin can can cut half used salt pepper shakers,tin can,tin can,1.15929,0.97008,1.29052,0.93034,1.6136599999999999,1.19278,0.46462
+cmpl-4zrbcJSjnrQGQryl58b1WsAPwo0An,A tin can be used to hold paperclips or other small office supplies,tin can used hold paperclips small office supplies,tin can,tin can,0.85095,0.8948,0.95516,0.75433,1.67138,1.02532,-0.25067
+cmpl-4zrbcJSjnrQGQryl58b1WsAPwo0An,A tin can be painted,tin can painted,tin can,tin can,0.86189,0.94598,0.88203,0.90227,1.66246,1.05093,-0.18253
+cmpl-4zrbgvVmZ78Tof0ZmGZSQtMyJiKFW,1 A tin can telephone,tin can telephone,tin can,tin can,1.02459,1.08822,1.32342,0.79575,1.69868,1.18613,-0.08147
+cmpl-4zrbgvVmZ78Tof0ZmGZSQtMyJiKFW,2 A tin can lantern,tin can lantern,tin can,tin can,1.10318,1.10449,0.90709,1.04993,1.3045200000000001,1.09384,0.53571
+cmpl-4zrbgvVmZ78Tof0ZmGZSQtMyJiKFW,3 A plant pot,plant pot,tin can,tin can,0.94058,0.98533,1.02886,1.02448,0.59616,0.91508,0.0777
+cmpl-4zrbgvVmZ78Tof0ZmGZSQtMyJiKFW,4 A vase,vase,tin can,tin can,1.10318,0.99177,1.03808,1.00658,0.92276,1.01247,0.54986
+cmpl-4zrbgvVmZ78Tof0ZmGZSQtMyJiKFW,5 A bird feeder,bird feeder,tin can,tin can,0.88225,0.97028,0.95329,0.98359,1.03604,0.96509,-0.10213
+cmpl-4zrbgvVmZ78Tof0ZmGZSQtMyJiKFW,6 An ashtray,an ashtray,tin can,tin can,0.7089,1.03463,0.93745,1.01799,1.21498,0.98279,-0.70825
+cmpl-4zrbgvVmZ78Tof0ZmGZSQtMyJiKFW,7 A pencil holder,pencil holder,tin can,tin can,0.90196,1.03588,0.98236,0.96388,0.87125,0.95107,-0.07931
+cmpl-4zrbgvVmZ78Tof0ZmGZSQtMyJiKFW,8 A paintbrush holder,paintbrush holder,tin can,tin can,0.90078,0.86758,0.95149,0.96231,1.13848,0.96413,0.00572
+cmpl-4zrbgvVmZ78Tof0ZmGZSQtMyJiKFW,9A coin bank,a coin bank,tin can,tin can,0.8587,0.99106,0.94365,1.1004,1.5206499999999998,1.08289,-0.23813
+cmpl-4zrbjCwsB0SqWvKxicy8LGk53flyr,1 A tin can can be used as a small planter for succulents or cacti,tin can can used small planter succulents cacti,tin can,tin can,0.94468,0.8107,0.8578,1.30596,1.20658,1.02514,0.25921
+cmpl-4zrbjCwsB0SqWvKxicy8LGk53flyr,2 Turn a tin can into a pencil holder by painting it and adding some fun embellishments,turn tin can pencil holder painting adding fun embellishments,tin can,tin can,0.85351,1.19161,0.9658,1.19534,0.33238999999999996,0.90773,-0.23638
+cmpl-4zrbjCwsB0SqWvKxicy8LGk53flyr,3 Use a tin can to make your own mini piñata filled with candy or other treats,use tin can make mini pia ata filled candy treats,tin can,tin can,0.99202,1.13768,1.08453,1.05696,0.36243000000000003,0.92672,0.14299
+cmpl-4zrbjCwsB0SqWvKxicy8LGk53flyr,4 Cut out stars from paper and glue them onto,cut stars paper glue onto,tin can,tin can,0.97564,1.05363,1.0588,1.12685,1.20478,1.08394,0.05693
+cmpl-4zrboUMyMByxhbrNsfLQZLnzSQJGu,1 A tin can could be used as a vase for flowers,tin can used vase flowers,tin can,tin can,0.9869,0.7193,1.23648,1.1440299999999999,0.30362,0.87807,0.27114
+cmpl-4zrboUMyMByxhbrNsfLQZLnzSQJGu,2 It could be used as a candle holder,it used candle holder,tin can,tin can,0.81737,1.0334699999999999,0.99894,0.95823,0.5299400000000001,0.86759,-0.32077
+cmpl-4zrboUMyMByxhbrNsfLQZLnzSQJGu,3 It could be used to hold pencils or pens on a desk,it used hold pencils pens desk,tin can,tin can,1.03511,1.06445,0.92717,0.8343,1.21672,1.01555,0.32518
+cmpl-4zrboUMyMByxhbrNsfLQZLnzSQJGu,4 It could be used to hold makeup brushes on a vanity,it used hold makeup brushes vanity,tin can,tin can,1.03719,1.01878,1.0525,0.9327,0.7092499999999999,0.95008,0.33336
+cmpl-4zrboUMyMByxhbrNsfLQZLnzSQJGu,5 It could be used to store coins or other small items,it used store coins small items,tin can,tin can,0.76681,1.00796,1.00999,0.88007,0.30183000000000004,0.79333,-0.45237
+cmpl-4zrbtwe2uJcyLmGuEpGSsyDFGMDBA,A tin can be used as A coin bank,tin can used coin bank,tin can,tin can,1.0507,0.8384199999999999,1.19348,1.22787,1.6488399999999999,1.19186,0.2746
+cmpl-4zrbtwe2uJcyLmGuEpGSsyDFGMDBA,A tin can be used to store pencils and pens,tin can used store pencils pens,tin can,tin can,0.75343,0.85511,0.92648,1.08359,1.5546,1.03464,-0.48981
+cmpl-4zrbtwe2uJcyLmGuEpGSsyDFGMDBA,A tin can be used as A vase for flowers,tin can used vase flowers,tin can,tin can,0.9869,0.7193,1.23648,1.1440299999999999,0.30362,0.87807,0.27114
+cmpl-4zrbtwe2uJcyLmGuEpGSsyDFGMDBA,A tin can be used as A container for homemade candles,tin can used container homemade candles,tin can,tin can,0.93124,0.6671199999999999,0.75466,1.01335,0.36172000000000004,0.74562,0.46922
+cmpl-4zrbtwe2uJcyLmGuEpGSsyDFGMDBA,A tin can be used as A planter for small plants or herbs,tin can used planter small plants herbs,tin can,tin can,1.16828,0.93743,1.2801,0.9458,0.34360999999999997,0.93504,0.6804
+cmpl-4zrbwSX9olf2MYhbNdZkBNcAZCQil,1 Make a tin can telephone,make tin can telephone,tin can,tin can,0.68226,1.02188,0.99792,1.19396,0.29964,0.83913,-0.70879
+cmpl-4zrbwSX9olf2MYhbNdZkBNcAZCQil,2 Use it as a coin bank,use coin bank,tin can,tin can,0.91479,0.95569,1.01541,1.09531,1.52529,1.1013,-0.09082
+cmpl-4zrbwSX9olf2MYhbNdZkBNcAZCQil,3 Turn it into a vase or planter,turn vase planter,tin can,tin can,1.115,0.97997,1.01015,0.92048,1.22184,1.04949,0.57423
+cmpl-4zrbwSX9olf2MYhbNdZkBNcAZCQil,4 Make a lantern out of it,make lantern,tin can,tin can,0.84256,1.0653,1.02195,0.96248,0.71811,0.92208,-0.29883
+cmpl-4zrbwSX9olf2MYhbNdZkBNcAZCQil,5 Use it as part of a homemade wind chime or mobile,use part homemade wind chime mobile,tin can,tin can,0.8455,1.00178,0.97354,1.00117,0.39875000000000005,0.84415,-0.1738
+cmpl-4zrbwSX9olf2MYhbNdZkBNcAZCQil,6 Decorate it and use it as a gift box or jewelry holder,decorate use gift box jewelry holder,tin can,tin can,0.93157,1.08239,1.0096,1.01454,0.37099000000000004,0.88182,0.03349
+cmpl-4zrc1U1RBUdlbhTUgAPDFfMfYh1z4,A tin can can be used as A vase for flowers,tin can can used vase flowers,tin can,tin can,0.6592,0.7789200000000001,0.96552,0.88574,1.7064599999999999,0.99917,-0.80673
+cmpl-4zrc1U1RBUdlbhTUgAPDFfMfYh1z5,A tin can can be used to hold pens and pencils,tin can can used hold pens pencils,tin can,tin can,1.22326,1.12549,0.86545,0.86888,0.44621999999999995,0.90586,1.04053
+cmpl-4zrc1U1RBUdlbhTUgAPDFfMfYh1z6,A tin can can be used as A coin bank,tin can can used coin bank,tin can,tin can,0.69401,0.77645,1.28592,0.77698,0.33609,0.77389,-0.76646
+cmpl-4zrc1U1RBUdlbhTUgAPDFfMfYh1z7,A tin can can be used to make A wind chime,tin can can used make wind chime,tin can,tin can,1.0411299999999999,1.09949,1.03778,0.8728899999999999,1.47619,1.1055,0.21057
+cmpl-4zrc1U1RBUdlbhTUgAPDFfMfYh1z8,A tin can can be used to make A candle holder,tin can can used make candle holder,tin can,tin can,1.0622,0.82112,1.06965,1.2021,1.59196,1.14941,0.42042
+cmpl-4zrc4u2VBu91FTQrKNvnOCHBqYgxm,1 A tin can telephone,tin can telephone,tin can,tin can,1.02459,1.08822,1.32342,0.79575,1.69868,1.18613,-0.08147
+cmpl-4zrc4u2VBu91FTQrKNvnOCHBqYgxm,2 A candle holder,candle holder,tin can,tin can,0.82138,1.07794,0.99276,0.88278,0.84829,0.92463,-0.37295
+cmpl-4zrc4u2VBu91FTQrKNvnOCHBqYgxm,3 A plant pot,plant pot,tin can,tin can,0.94058,0.98533,1.02886,1.02448,0.59616,0.91508,0.0777
+cmpl-4zrc4u2VBu91FTQrKNvnOCHBqYgxm,4 A pencil holder,pencil holder,tin can,tin can,0.90196,1.03588,0.98236,0.96388,0.87125,0.95107,-0.07931
+cmpl-4zrc4u2VBu91FTQrKNvnOCHBqYgxm,5 A coin bank,coin bank,tin can,tin can,0.90449,0.95421,0.99099,0.8659399999999999,0.73693,0.89051,-0.01738
+cmpl-4zrc4u2VBu91FTQrKNvnOCHBqYgxm,6 A picture frame,picture frame,tin can,tin can,0.7841400000000001,0.90444,0.9091,1.03729,0.5613,0.83925,-0.28473
+cmpl-4zrc4u2VBu91FTQrKNvnOCHBqYgxm,7A vase,a vase,tin can,tin can,0.97168,0.95148,0.99046,0.8186599999999999,1.0757,0.9616,0.1567
+cmpl-4zrc4u2VBu91FTQrKNvnOCHBqYgxm,8A Travel mug,a travel mug,tin can,tin can,0.88858,1.02408,0.97441,0.84114,1.36448,1.01854,-0.17728
+cmpl-4zrc4u2VBu91FTQrKNvnOCHBqYgxm,9A dog bowl,a dog bowl,tin can,tin can,0.96229,0.99014,1.02715,0.94258,1.51093,1.08662,0.0277
+cmpl-4zrc9anerQX6gOQWAFSdOcaJv26D0,1 Make a candle holder by punching holes in the top and bottom of the can,make candle holder punching holes top bottom can,tin can,tin can,0.79857,1.12359,0.84535,1.10343,0.38095,0.85038,-0.29395
+cmpl-4zrc9anerQX6gOQWAFSdOcaJv26D1,2 Turn it into a vase or planter,turn vase planter,tin can,tin can,1.115,0.97997,1.01015,0.92048,1.22184,1.04949,0.57423
+cmpl-4zrc9anerQX6gOQWAFSdOcaJv26D2,3 Use it as a pencil holder on your desk,use pencil holder desk,tin can,tin can,0.95818,1.00653,1.02601,0.97581,0.49112999999999996,0.89153,0.13489
+cmpl-4zrc9anerQX6gOQWAFSdOcaJv26D3,4 Fill it with candy or other small treats and give it as a gift,fill candy small treats give gift,tin can,tin can,0.98129,0.99358,0.95377,1.00616,0.35302,0.85756,0.28991
+cmpl-4zrc9anerQX6gOQWAFSdOcaJv26D4,5 Decorate it and use it as part of a centerpiece or table,decorate use part centerpiece table,tin can,tin can,0.88658,0.98984,1.02869,1.006,1.63775,1.10977,-0.23034
+cmpl-4zrcEwWIXCAMPu5UuJbCdaDxuIBFC,1 A tin can telephone,tin can telephone,tin can,tin can,1.02459,1.08822,1.32342,0.79575,1.69868,1.18613,-0.08147
+cmpl-4zrcEwWIXCAMPu5UuJbCdaDxuIBFC,2 A tin can lantern,tin can lantern,tin can,tin can,1.10318,1.10449,0.90709,1.04993,1.3045200000000001,1.09384,0.53571
+cmpl-4zrcEwWIXCAMPu5UuJbCdaDxuIBFC,3 A tin can stove,tin can stove,tin can,tin can,0.93923,1.00171,1.2014,0.64838,1.55179,1.0685,-0.20333
+cmpl-4zrcEwWIXCAMPu5UuJbCdaDxuIBFC,4 A tin can wind chime,tin can wind chime,tin can,tin can,0.7482500000000001,0.72536,0.70105,0.91836,0.61776,0.74216,-0.15209
+cmpl-4zrcEwWIXCAMPu5UuJbCdaDxuIBFC,5 A tin can piñata,tin can pia ata,tin can,tin can,0.84506,0.79553,1.02752,0.76407,0.34713000000000005,0.75586,-0.099030000000000007
+cmpl-4zrcEwWIXCAMPu5UuJbCdaDxuIBFC,6 A tin can planter,tin can planter,tin can,tin can,0.95409,0.7956799999999999,0.91333,0.90013,0.6869799999999999,0.85004,0.30217
+cmpl-4zrcEwWIXCAMPu5UuJbCdaDxuIBFC,7 A tin can bird feeder,tin can bird feeder,tin can,tin can,0.6355,0.5875600000000001,0.95764,0.81631,1.45031,0.88946,-0.73575
+cmpl-4zrcEwWIXCAMPu5UuJbCdaDxuIBFC,8 A tin can candle holder,tin can candle holder,tin can,tin can,0.71784,1.09327,0.68617,0.55151,0.44115000000000004,0.69799,-0.45181
+cmpl-4zrcEwWIXCAMPu5UuJbCdaDxuIBFC,9 A tin can robot,tin can robot,tin can,tin can,1.15568,1.21263,1.14152,0.92612,1.56246,1.19968,0.42759
+cmpl-4zrcIVXoehFFYCRYyynvdd5IJPIST,1 Make a wind chime out of tin cans and metal spoons,make wind chime tin cans metal spoons,tin can,tin can,1.13662,1.16605,1.02993,1.03536,1.62513,1.19862,0.47454
+cmpl-4zrcIVXoehFFYCRYyynvdd5IJPIST,2 Cut the top off a tin can and use it as a planter for small succulents or cacti,cut top tin can use planter small succulents cacti,tin can,tin can,1.05188,0.85622,1.18888,1.13829,0.81806,1.01067,0.37098
+cmpl-4zrcIVXoehFFYCRYyynvdd5IJPIST,3 Turn a tin can into a cute piggy bank by painting it pink and adding eyes  nostrils  and a coin slot in the top,turn tin can cute piggy bank painting pink adding eyes nostrils coin slot top,tin can,tin can,0.8371999999999999,0.99176,0.97775,1.02829,1.6711200000000002,1.10122,-0.35577
+cmpl-4zrcMiOsRGzG85ajlnECUTr1dhMtt,1 Plant a herb garden in tin cans,plant herb garden tin cans,tin can,tin can,1.17531,0.87111,1.08221,0.93879,1.47363,1.10821,0.74848
+cmpl-4zrcMiOsRGzG85ajlnECUTr1dhMtt,2 Make a wind chime out of tin cans and beads,make wind chime tin cans beads,tin can,tin can,0.8284,1.11255,1.02536,0.97566,0.35451,0.8593,-0.32879
+cmpl-4zrcMiOsRGzG85ajlnECUTr1dhMtt,3 Use tin cans as candle holders for an outdoor party,use tin cans candle holders outdoor party,tin can,tin can,1.13723,0.89241,1.11532,0.94982,1.6381999999999999,1.1466,0.56822
+cmpl-4zrcMiOsRGzG85ajlnECUTr1dhMtt,4 Create a mini Zen garden in a tin can,create mini zen garden tin can,tin can,tin can,1.05894,1.00376,1.0913,0.94101,0.34402999999999995,0.88781,0.42948
+cmpl-4zrcMiOsRGzG85ajlnECUTr1dhMtt,5 Make a robot out of recycled materials  including tin cans,make robot recycled materials including tin cans,tin can,tin can,1.01544,0.99717,1.03856,1.07245,1.63267,1.15126,0.17758
+cmpl-4zrcMiOsRGzG85ajlnECUTr1dhMtt,6 Turn a tin can into a night light,turn tin can night light,tin can,tin can,0.93289,1.01106,0.87964,1.21431,1.6671,1.141,0.02455
+cmpl-4zrcS09GhsrrIIplF2CvuIXFdP89x,1 A tin can be used as a vase for flowers,tin can used vase flowers,tin can,tin can,0.9869,0.7193,1.23648,1.1440299999999999,0.30362,0.87807,0.27114
+cmpl-4zrcS09GhsrrIIplF2CvuIXFdP89x,2 A tin can be used to hold pens and pencils,tin can used hold pens pencils,tin can,tin can,0.94896,0.79757,0.68626,1.07506,1.53865,1.0093,0.35631
+cmpl-4zrcS09GhsrrIIplF2CvuIXFdP89x,3 A tin can be used as a container for plants,tin can used container plants,tin can,tin can,1.0429,0.88441,1.03664,1.07039,1.69174,1.14522,0.32663
+cmpl-4zrcS09GhsrrIIplF2CvuIXFdP89x,4 A tin can be used to store spices in the kitchen,tin can used store spices kitchen,tin can,tin can,0.77556,0.83577,0.8654999999999999,1.02976,0.34031,0.76938,-0.21199
+cmpl-4zrcS09GhsrrIIplF2CvuIXFdP89x,5 A tin can be used to organize makeup brushes on a vanity table,tin can used organize makeup brushes vanity table,tin can,tin can,0.88001,0.9277,1.01047,1.06486,0.71719,0.92005,-0.08316
+cmpl-4zrcVORSuELIlbtqYbPvYTtqlY04J,1 A tin can could be used as a vase for flowers,tin can used vase flowers,tin can,tin can,0.9869,0.7193,1.23648,1.1440299999999999,0.30362,0.87807,0.27114
+cmpl-4zrcVORSuELIlbtqYbPvYTtqlY04J,2 It could be used as a pencil holder on a desk,it used pencil holder desk,tin can,tin can,0.79358,1.20846,1.02272,0.98961,1.5271400000000002,1.1083,-0.64183
+cmpl-4zrcVORSuELIlbtqYbPvYTtqlY04J,3 A tin can could be used to hold makeup brushes on a dressing table,tin can used hold makeup brushes dressing table,tin can,tin can,0.8325899999999999,1.09695,1.21652,1.05966,0.5509999999999999,0.95134,-0.46961
+cmpl-4zrcVORSuELIlbtqYbPvYTtqlY04J,4 It could be used to hold pens and markers in an art studio,it used hold pens markers art studio,tin can,tin can,1.00641,0.95363,0.93963,1.05958,1.64811,1.12147,0.24559
+cmpl-4zrcVORSuELIlbtqYbPvYTtqlY04J,5 A tin can could be used as a cookie jar,tin can used cookie jar,tin can,tin can,1.08075,0.60824,1.22364,1.00227,1.63524,1.11003,0.47548
+cmpl-4zrcYjzKqIIyHAfl5D4gYpEMjoKxu,1 A tin can could be used as a planter for small plants or herbs,tin can used planter small plants herbs,tin can,tin can,1.16828,0.93743,1.2801,0.9458,0.34360999999999997,0.93504,0.6804
+cmpl-4zrcYjzKqIIyHAfl5D4gYpEMjoKxu,2 It could also be used as a candle holder,it also used candle holder,tin can,tin can,1.00813,0.95326,1.02208,0.86995,1.4882900000000001,1.06834,0.20044
+cmpl-4zrcYjzKqIIyHAfl5D4gYpEMjoKxu,3 For those who love baking  a tin can be turned into a miniloaf pan perfect for individual servings,for love baking tin can turned miniloaf pan perfect individual servings,tin can,tin can,0.76319,1.05903,0.94945,0.90938,1.00062,0.93633,-0.53491
+cmpl-4zrcYjzKqIIyHAfl5D4gYpEMjoKxu,4 Have trouble opening jars,have trouble opening jars,tin can,tin can,0.93897,0.99912,0.96569,0.90626,0.3993,0.84187,0.13053
+cmpl-4zrcbWi4mPn1Lgww0fOj0x3K3J11l,A tin can be used as A makeshift candle,tin can used makeshift candle,tin can,tin can,1.00192,0.8767199999999999,1.11154,1.00043,1.63971,1.12606,0.14601
+cmpl-4zrcbWi4mPn1Lgww0fOj0x3K3J11l,A tin can be used to store small items like paper clips or jewelry,tin can used store small items like paper clips jewelry,tin can,tin can,0.8552500000000001,0.82762,1.04858,1.21189,0.36124999999999996,0.86092,-0.08082
+cmpl-4zrcbWi4mPn1Lgww0fOj0x3K3J11l,A tin can be used as A vase for flowers,tin can used vase flowers,tin can,tin can,0.9869,0.7193,1.23648,1.1440299999999999,0.30362,0.87807,0.27114
+cmpl-4zrcbWi4mPn1Lgww0fOj0x3K3J11l,A tin can be used as A pen holder,tin can used pen holder,tin can,tin can,0.88679,1.13503,1.0878,0.80514,1.705,1.12395,-0.37771
+cmpl-4zrcbWi4mPn1Lgww0fOj0x3K3J11l,A tin can be used as A coin bank,tin can used coin bank,tin can,tin can,1.0507,0.8384199999999999,1.19348,1.22787,1.6488399999999999,1.19186,0.2746
+cmpl-4zrcbWi4mPn1Lgww0fOj0x3K3J11l,A tin can be turned into A wind chime,tin can turned wind chime,tin can,tin can,1.1511,1.15982,1.05816,0.8589,1.45278,1.13615,0.5168
+cmpl-4zrche9QeGMpmfsGYV3xuiIbbFgVW,1 A tin can can be used as a small planter for herbs or succulents,tin can can used small planter herbs succulents,tin can,tin can,0.88257,1.02043,0.91035,0.73716,0.31469,0.77304,-0.02024
+cmpl-4zrche9QeGMpmfsGYV3xuiIbbFgVW,2 Use a tin can to create a DIY candle holder or tea light holder,use tin can create diy candle holder tea light holder,tin can,tin can,1.06524,1.04243,1.10703,0.73262,1.65358,1.12018,0.24118
+cmpl-4zrche9QeGMpmfsGYV3xuiIbbFgVW,3 Make a mini piñata out of a tin can  perfect for parties or decoration,make mini pia ata tin can perfect parties decoration,tin can,tin can,0.93178,1.02157,1.1036,0.97595,1.63545,1.13367,-0.16044
+cmpl-4zrche9QeGMpmfsGYV3xuiIbbFgVW,4 Decorate a tin can and use it as cute storage for pens and pencils,decorate tin can use cute storage pens pencils,tin can,tin can,1.10931,0.97149,0.80793,1.02878,1.63096,1.10969,0.66624
+cmpl-4zrckGN0dM4lds8vCNfKvayt3Ir4z,1 Create a fun wind chime by painting and decorating tin cans of different sizes  then punching holes in the top and bottom of each can Suspend them from string or wire at different lengths to create unique tones,create fun wind chime painting decorating tin cans different sizes punching holes top bottom can suspend string wire different lengths create unique tones,tin can,tin can,0.84812,0.8558,1.03035,1.03461,1.63823,1.08142,-0.27527
+cmpl-4zrckGN0dM4lds8vCNfKvayt3Ir4z,2 Make a mini piñata by filling a small tin can with candy  then covering the opening with paper and securing it with tape or glue,make mini pia ata filling small tin can candy covering opening paper securing tape glue,tin can,tin can,1.0154,0.93176,1.13721,1.02984,1.6363400000000001,1.15011,0.13968
+cmpl-4zrcoCBzGvxqYvlwl4T1Z9oAXzjjz,1 Make a wind chime out of a tin can and some string,make wind chime tin can string,tin can,tin can,0.81653,1.15368,0.88692,0.9779100000000001,0.5173099999999999,0.87047,-0.30803
+cmpl-4zrcoCBzGvxqYvlwl4T1Z9oAXzjjz,2 Turn a tin can into a plant holder by painting it and adding drainage holes,turn tin can plant holder painting adding drainage holes,tin can,tin can,0.87995,1.21274,1.06571,1.37573,1.59609,1.22604,-0.3877
+cmpl-4zrcoCBzGvxqYvlwl4T1Z9oAXzjjz,3 Use a tin can as a pencil holder on your desk,use tin can pencil holder desk,tin can,tin can,0.66972,0.90088,1.02261,0.76742,0.3348,0.73909,-0.72151
+cmpl-4zrcoCBzGvxqYvlwl4T1Z9oAXzjjz,4 Make a mini trash can out of a tin can by decorating it and adding a lid,make mini trash can tin can decorating adding lid,tin can,tin can,1.04491,1.27282,0.90571,0.58772,0.38449999999999995,0.83913,0.34213
+cmpl-4zrcoCBzGvxqYvlwl4T1Z9oAXzjjz,5 Create art by,create art,tin can,tin can,0.97715,1.04146,1.06184,1.09339,0.40186999999999995,0.91514,0.16558
+cmpl-4zrctu5fEjcEnja4LuWNvzRUHWU31,1 A tin can could be used as a vase for flowers,tin can used vase flowers,tin can,tin can,0.9869,0.7193,1.23648,1.1440299999999999,0.30362,0.87807,0.27114
+cmpl-4zrctu5fEjcEnja4LuWNvzRUHWU31,2 It could be used as a container for paintbrushes,it used container paintbrushes,tin can,tin can,0.89647,0.89134,0.95673,1.06186,1.49369,1.06002,-0.06574
+cmpl-4zrctu5fEjcEnja4LuWNvzRUHWU31,3 A tin can could be used to hold pencils or pens on a desk,tin can used hold pencils pens desk,tin can,tin can,1.25186,1.20248,0.87122,0.93049,0.54594,0.9604,1.0736
+cmpl-4zrctu5fEjcEnja4LuWNvzRUHWU31,4 It could be used as a planter for small plants or herbs,it used planter small plants herbs,tin can,tin can,0.9614,1.06516,0.919,0.92942,1.6770100000000001,1.1104,0.04007
+cmpl-4zrctu5fEjcEnja4LuWNvzRUHWU31,5 A tin can could be used to store coins,tin can used store coins,tin can,tin can,1.04812,0.93564,1.08457,1.05318,1.6954500000000001,1.16339,0.27609
+cmpl-4zrcxpMw6Qkz2QWcvYNNxrTQAiJ5G,1 A tin can could be used as a vase,tin can used vase,tin can,tin can,0.91603,0.76566,0.74741,1.0763,1.39569,0.98022,0.24109
+cmpl-4zrcxpMw6Qkz2QWcvYNNxrTQAiJ5G,2 A tin can could be used as a container for pens and pencils,tin can used container pens pencils,tin can,tin can,0.78006,0.83299,0.86134,0.87999,1.48681,0.96824,-0.34352
+cmpl-4zrcxpMw6Qkz2QWcvYNNxrTQAiJ5G,3 A tin can could be used as a coin bank,tin can used coin bank,tin can,tin can,1.0507,0.8384199999999999,1.19348,1.22787,1.6488399999999999,1.19186,0.2746
+cmpl-4zrcxpMw6Qkz2QWcvYNNxrTQAiJ5G,4 A tin can could be used to hold keys,tin can used hold keys,tin can,tin can,0.94233,1.1666,0.90234,0.92078,1.66429,1.11927,-0.06765
+cmpl-4zrcxpMw6Qkz2QWcvYNNxrTQAiJ5G,5 A tin can could be used as a paperweight,tin can used paperweight,tin can,tin can,0.63774,0.67866,0.79567,1.06348,1.67367,0.96984,-0.677
+cmpl-4zrd1faKHBOm8Cxvlj8fYVq0YYNN0,1 Make a wind chime out of a tin can and some string,make wind chime tin can string,tin can,tin can,0.81653,1.15368,0.88692,0.9779100000000001,0.5173099999999999,0.87047,-0.30803
+cmpl-4zrd1faKHBOm8Cxvlj8fYVq0YYNN0,2 Use a tin can as a plant pot,use tin can plant pot,tin can,tin can,1.3091,0.7253000000000001,1.31169,0.98044,1.6561599999999999,1.19654,1.07362
+cmpl-4zrd1faKHBOm8Cxvlj8fYVq0YYNN0,3 Turn a tin can into a pencil holder,turn tin can pencil holder,tin can,tin can,0.63148,0.97251,0.86778,0.78021,1.71368,0.99313,-0.94326
+cmpl-4zrd1faKHBOm8Cxvlj8fYVq0YYNN0,4 Upcycle a tin can into a vase,upcycle tin can vase,tin can,tin can,1.37374,1.10892,1.02327,0.58081,0.85024,0.98740000000000006,1.35315
+cmpl-4zrd1faKHBOm8Cxvlj8fYVq0YYNN0,candle holder,candle holder,tin can,tin can,0.82138,1.07794,0.99276,0.88278,0.84829,0.92463,-0.37295
+cmpl-4zrd1faKHBOm8Cxvlj8fYVq0YYNN0,5 Make your own mini trash can out of an old tin can,make mini trash can old tin can,tin can,tin can,1.21124,1.1292200000000001,0.83187,1.22812,1.6386699999999998,1.20782,0.89289
+cmpl-4zrd1faKHBOm8Cxvlj8fYVq0YYNN0,6 Create illuminated lantern,create illuminated lantern,tin can,tin can,1.00123,1.00712,0.95127,0.9543,0.76015,0.93481,0.29464
+cmpl-4zrd524B8q1ksMWn7vFZYBuuX8IPn,1 A can opener,can opener,tin can,tin can,0.6351100000000001,0.57128,0.7674300000000001,0.82525,0.71221,0.70226,-0.49226
+cmpl-4zrd524B8q1ksMWn7vFZYBuuX8IPn,2 A colander,colander,tin can,tin can,1.05047,1.03214,1.05761,1.01609,0.95785,1.02283,0.33744
+cmpl-4zrd524B8q1ksMWn7vFZYBuuX8IPn,3 A candle holder,candle holder,tin can,tin can,0.82138,1.07794,0.99276,0.88278,0.84829,0.92463,-0.37295
+cmpl-4zrd524B8q1ksMWn7vFZYBuuX8IPn,4 A vase,vase,tin can,tin can,1.10318,0.99177,1.03808,1.00658,0.92276,1.01247,0.54986
+cmpl-4zrd524B8q1ksMWn7vFZYBuuX8IPn,5 A pen holder,pen holder,tin can,tin can,0.89344,0.92962,1.0255,1.2421,0.75127,0.96839,-0.04785
+cmpl-4zrd524B8q1ksMWn7vFZYBuuX8IPn,6 An ashtray,an ashtray,tin can,tin can,0.7089,1.03463,0.93745,1.01799,1.21498,0.98279,-0.70825
+cmpl-4zrd524B8q1ksMWn7vFZYBuuX8IPn,7 A bird feeder,bird feeder,tin can,tin can,0.88225,0.97028,0.95329,0.98359,1.03604,0.96509,-0.10213
+cmpl-4zrd524B8q1ksMWn7vFZYBuuX8IPn,8A wind chime,a wind chime,tin can,tin can,1.11045,1.00163,0.94887,0.8351999999999999,1.24137,1.0275,0.58603
+cmpl-4zrd524B8q1ksMWn7vFZYBuuX8IPn,9A planter,a planter,tin can,tin can,0.91633,1.00763,0.98922,0.92622,1.2546300000000001,1.01881,-0.07124
+cmpl-4zrdAUqGiLghD5AjfihSegqsCWnLT,1 A tin can can be used as a planter for small plants or herbs,tin can can used planter small plants herbs,tin can,tin can,0.82266,0.98608,0.95733,0.8857,1.6547800000000001,1.06131,-0.38894
+cmpl-4zrdAUqGiLghD5AjfihSegqsCWnLT,2 Cut the top off of a tin can and use it as a pencil holder on your desk,cut top tin can use pencil holder desk,tin can,tin can,0.92464,0.77479,1.02892,0.94998,0.30720000000000003,0.79711,0.18295
+cmpl-4zrdAUqGiLghD5AjfihSegqsCWnLT,3 Use a tin can as a vase for fresh flowers,use tin can vase fresh flowers,tin can,tin can,0.82543,0.86534,0.95435,0.91937,1.71214,1.05533,-0.3121
+cmpl-4zrdAUqGiLghD5AjfihSegqsCWnLT,4 Make a wind chime out of old tin cans and some string or wire,make wind chime old tin cans string wire,tin can,tin can,0.82544,0.94246,0.95604,0.99106,0.35775999999999997,0.81455,-0.1858
+cmpl-4zrdDeq7FkGc7hNoiW5nBllPOvLaB,1 A tin can can be used as a vase,tin can can used vase,tin can,tin can,1.11166,0.87651,0.8547,0.95256,0.55952,0.87099,0.82526
+cmpl-4zrdDeq7FkGc7hNoiW5nBllPOvLaB,2 A tin can can be used to make a wind chime,tin can can used make wind chime,tin can,tin can,1.0411299999999999,1.09949,1.03778,0.8728899999999999,1.47619,1.1055,0.21057
+cmpl-4zrdDeq7FkGc7hNoiW5nBllPOvLaB,3 A tin can can be used as a planter,tin can can used planter,tin can,tin can,0.90665,0.66794,1.14702,0.70065,0.41807000000000005,0.76807,0.07356
+cmpl-4zrdDeq7FkGc7hNoiW5nBllPOvLaB,4 A tin can can be used as a bird feeder,tin can can used bird feeder,tin can,tin can,0.82912,0.7769,0.97451,1.10882,1.60122,1.05811,-0.24001
+cmpl-4zrdDeq7FkGc7hNoiW5nBllPOvLaB,5 A tin can can be used to hold pencils or pens on a desk,tin can can used hold pencils pens desk,tin can,tin can,1.01067,1.07101,0.6875800000000001,0.78083,1.47727,1.00547,0.38651

@@ -1,0 +1,702 @@
+id,gpt3_id,gpt3_created,gpt3_model,engine,timestamp,temperature,presence_penalty,frequency_penalty,instr_text,aut_object,gpt3_response
+1,cmpl-4zrXKRorn55iQY1NXc3Vq3WKCLtyf,1650649150,text-davinci:002,text-davinci-002,2022-04-22 19:39:12.749178,0.67,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to start a fire.
+3. A book can be used to prop up a table or chair leg.
+4. A book can be used as a paperweight.
+5. A book can be used to make art, such as by decoupaging it onto a canvas or"
+2,cmpl-4zrXMnec5vnPs9Rno0qAGOwJ1vslr,1650649152,text-davinci:002,text-davinci-002,2022-04-22 19:39:16.329810,0.67,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a door stop.
+2. A book can be used to start a fire.
+3. A book can be used to prop up a table or chair leg.
+4. A book can be used as a paperweight.
+5. A book can be used to make a collage or sculpture.
+6. A book can be"
+3,cmpl-4zrXQbOmAJISuhk3fFIZO2SLmBq6x,1650649156,text-davinci:002,text-davinci-002,2022-04-22 19:39:19.297886,0.67,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a door stop.
+2. A book can be used to prop up a table or chair leg.
+3. A book can be used as a paperweight.
+4. A book can be used to make a collage or scrapbook.
+5. A book can be cut up and used as confetti or streamers.
+"
+4,cmpl-4zrXTQbtU9GwZ4dGDpd5xEyBovRHV,1650649159,text-davinci:002,text-davinci-002,2022-04-22 19:39:22.982884,0.68,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to start a fire.
+3. A book can be used as a paperweight.
+4. A book can be used to prop up a wobbly table leg.
+5. A book can be used as a coaster for drinks (to prevent water rings on furniture).
+"
+5,cmpl-4zrXXun99WGqMfqFcnvX9fpzWmy05,1650649163,text-davinci:002,text-davinci-002,2022-04-22 19:39:26.464734,0.68,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to hold open a window.
+3. A book can be used as a coaster for a hot beverage.
+4. A book can be used to level a table or shelf.
+5. A book can be used as an improvised weapon in self-defense or attack.
+6"
+6,cmpl-4zrXajQqVizh2rVJ8hn6PxNaA8Q24,1650649166,text-davinci:002,text-davinci-002,2022-04-22 19:39:31.786603,0.68,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. Make a book into a lampshade.
+2. Turn an old book into a secret compartment.
+3. Use books as coasters for your drinks.
+4. Build a fort out of old books.
+5. Donate books to your local library or hospital waiting room.
+6. Give a new twist to an old favorite by reading it in character voices"
+7,cmpl-4zrXf5f89HctStj42UI8NCmMxujME,1650649171,text-davinci:002,text-davinci-002,2022-04-22 19:39:36.700414,0.6900000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to start a fire.
+3. A book can be used as a paperweight.
+4. A book can be used to prop up a wobbly table or chair.
+5. A book can be used as a weapon (for self-defense or attack).
+6"
+8,cmpl-4zrXkWn3QroeYera2G3vBEECCSUZR,1650649176,text-davinci:002,text-davinci-002,2022-04-22 19:39:39.465660,0.6900000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used as a paperweight.
+3. A book can be used to prop up a wobbly table leg.
+4. A book can be used to make a small shelf or ledge.
+5. A book can be used to hold open a window or door.
+6."
+9,cmpl-4zrXnYW4L6EpsvEUL9J88oKsjzqy7,1650649179,text-davinci:002,text-davinci-002,2022-04-22 19:39:43.865692,0.6900000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to level a table or shelf.
+3. A book can be used as a paperweight.
+4. A book can be used to make a impromptu stool or chair.
+5. A book can be used in place of a cutting board when slicing vegetables or meat.
+"
+10,cmpl-4zrXsIbRn4NTwafnBiFtZpy7tUdHA,1650649184,text-davinci:002,text-davinci-002,2022-04-22 19:39:47.960895,0.7000000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to keep a table level.
+3. A book can be used to make a paperweight.
+4. A book can be used as a coaster for hot drinks.
+5. A book can be used to hold open a window or door.
+6. A book can be"
+11,cmpl-4zrXwohDOcU3F1Hq56ynSVY02H2j0,1650649188,text-davinci:002,text-davinci-002,2022-04-22 19:39:52.669306,0.7000000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to start a fire in an emergency situation.
+3. A book can be used as a coaster for your beverage.
+4. A book can be used to level a table or surface.
+5. A book can be used as decoration on a shelf or mantelpiece.
+"
+12,cmpl-4zrY03WpMeCA0AmJeADkzuTSPggZW,1650649192,text-davinci:002,text-davinci-002,2022-04-22 19:39:56.048163,0.7000000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1) A book can be used as a doorstop.
+2) A book can be used to start a fire.
+3) A book can be used to prop up a table.
+4) A book can be used as a paperweight.
+5) A book can be used to hold open a window.
+6) A book can be used to make a paper"
+13,cmpl-4zrY43R3rQ3No2WeD92L3z2neSrOb,1650649196,text-davinci:002,text-davinci-002,2022-04-22 19:39:59.527918,0.7100000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to level a table or shelf.
+3. A book can be used as a paperweight.
+4. A book can be used to make a collage or scrapbook.
+5. A book can be used as kindling for a fire.
+6. A book can"
+14,cmpl-4zrY7biIuR673z5KZea1gP4gUMbXw,1650649199,text-davinci:002,text-davinci-002,2022-04-22 19:40:04.750192,0.7100000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to level a table or other surface.
+3. A book can be used to prop up a wobbly chair or couch.
+4. A book can be used as a paperweight.
+5. A book can be used as a door stop in an open doorway to help"
+15,cmpl-4zrYCltQ18NBmTUndQEolfNeRJhmu,1650649204,text-davinci:002,text-davinci-002,2022-04-22 19:40:08.843573,0.7100000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to level a table or shelf.
+3. A book can be used as a paperweight.
+4. A book can be used to keep papers from blowing away in the wind.
+5. A book can be used to make a small step stool.
+6. A book"
+16,cmpl-4zrYH49qGBQRZzNi4eQHpNxlQUABG,1650649209,text-davinci:002,text-davinci-002,2022-04-22 19:40:14.781194,0.7200000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to prop up a wobbly table.
+3. A book can be used to make a paper airplane.
+4. A book can be used as kindling for a fire.
+5. A book can be used to absorb spilled liquid.
+6. A collection of books"
+17,cmpl-4zrYM3srgr0AI600HuaSfbe20ECSu,1650649214,text-davinci:002,text-davinci-002,2022-04-22 19:40:20.819746,0.7200000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+-A book can be used as a door stop.
+-A book can be used to level a table.
+-A book can be used to prop up a wobbly chair.
+-A book can be used as a paperweight.
+-A book can be used to make a small stool or side table.
+-A book can be cut in half and the"
+18,cmpl-4zrYSw9ZuzkGoOZpvQWkzfHkJCPVP,1650649220,text-davinci:002,text-davinci-002,2022-04-22 19:40:26.041505,0.7200000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to level a table or chair.
+3. A book can be used as a paperweight.
+4. A book can be used to prop open a window.
+5. A book can be used as a coaster for a hot beverage.
+6. A book can be used"
+19,cmpl-4zrYYESZQhEvKOpsl2Y3ne59QvPUs,1650649226,text-davinci:002,text-davinci-002,2022-04-22 19:40:30.135493,0.7300000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to level a table or chair.
+3. A book can be used as a paperweight.
+4. A book can be used to prop up a wobbly leg on a piece of furniture.
+5. A book can be used as fuel for a fire.
+6"
+20,cmpl-4zrYcXgHic5zBGK8skxbt7IwK8Ok2,1650649230,text-davinci:002,text-davinci-002,2022-04-22 19:40:34.844635,0.7300000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a door stop.
+2. A book can be used to level a table or shelf.
+3. A book can be used to prop up a wobbly chair or table leg.
+4. A book can be used as a paperweight.
+5. A book can be used to smash spiders or other bugs.
+6."
+21,cmpl-4zrYhuBnwno40N3NzfKumie34U6k8,1650649235,text-davinci:002,text-davinci-002,2022-04-22 19:40:38.632803,0.7300000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to level a table or chair.
+3. A book can be used as a paperweight.
+4. A book can be used to prop up a wobbly table leg.
+5. A book can be used as kindling for a fire.
+6. A book"
+22,cmpl-4zrYkCsqHkasbROCFVWUUjNxTKWA5,1650649238,text-davinci:002,text-davinci-002,2022-04-22 19:40:43.238353,0.7400000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. Make a book into a lampshade.
+2. Turn a book into a clock by gluing numbers to the cover and attaching hands.
+3. Create a sculpture or collage by decoupaging old book pages onto an object.
+4. Make coasters out ofbook pages sealed with mod podge. 
+5. Fold the pages of an old book"
+23,cmpl-4zrYpCuQ5hsc5BzfI4p1eiCINiTKw,1650649243,text-davinci:002,text-davinci-002,2022-04-22 19:40:46.821306,0.7400000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to level a table or shelf.
+3. A book can be used as a paperweight.
+4. A book can be used to make a collage or sculpture.
+5. A book can be used as fuel for a fire.
+6. A book can be used"
+24,cmpl-4zrYsthVkMmBWLB5euet6UOY3DuCE,1650649246,text-davinci:002,text-davinci-002,2022-04-22 19:40:49.380739,0.7400000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a door stop.
+2. A book can be used to balance a wobbly table.
+3. A book can be used as a paperweight.
+4. A book can be used to prop up a wonky picture frame.
+5. A book can be used to make a small stool more comfortable.
+6. A"
+25,cmpl-4zrYvKNbYe9QLba3L9kPiyeRSNAdt,1650649249,text-davinci:002,text-davinci-002,2022-04-22 19:40:53.270267,0.7500000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to prop up a wobbly table.
+3. A book can be used as a coaster for your cold beverage.
+4. A book can be used to hold open a window.
+5. A book can serve as a paperweight on your desk.
+6. You"
+26,cmpl-4zrYzrBuvP3imgFgz5iKgDWoCMvF2,1650649253,text-davinci:002,text-davinci-002,2022-04-22 19:40:57.980030,0.7500000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. Make a book into a clock by attaching clock hands to the cover.
+2. Turn a book into a secret hiding place by cutting out a square hole in the center of the pages.
+3. Use an old book as decoration by stacking it on top of other books or placing it in an empty frame.
+4. Repurpose a hardcover book into a photo"
+27,cmpl-4zrZ42wRutcDFNibsKTG97iSLThCM,1650649258,text-davinci:002,text-davinci-002,2022-04-22 19:41:00.743569,0.7500000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to level a table.
+3. A book can be used to prop up a wobbly chair.
+4. A book can be used as a paperweight.
+5. A book can be used to make a papier-mâché mask or sculpture.
+"
+28,cmpl-4zrZ6iqXWuJnn7X7Ou7Up61L217rn,1650649260,text-davinci:002,text-davinci-002,2022-04-22 19:41:04.326431,0.7600000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to start a fire.
+3. A book can be used as a coaster for your drink.
+4. A book can be used to prop up a table or shelf.
+5. A book can be cut up and made into paper airplanes or origami shapes.
+6."
+29,cmpl-4zrZAUmJ0wliAvLrrK2j6rzVmvpKC,1650649264,text-davinci:002,text-davinci-002,2022-04-22 19:41:09.035095,0.7600000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to level a table or piece of furniture.
+3. A book can be used as a paperweight.
+4. A book can be used to decorate a room or shelf.
+5. A book can be used as part of a centerpieces for a party or event."
+30,cmpl-4zrZF2zTP1YbQKy7UTpONmDqWXo46,1650649269,text-davinci:002,text-davinci-002,2022-04-22 19:41:12.925717,0.7600000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
+
+1. A book can be used as a doorstop.
+2. A book can be used to level a table or other surface.
+3. A book can be used to prop open a window.
+4. A book can be used as a coaster for a hot beverage.
+5. A book can be used as a weight to hold down papers or other materials.
+"
+31,cmpl-4zrZJMEPvTCpbwtqgGBNie7DjeQCO,1650649273,text-davinci:002,text-davinci-002,2022-04-22 19:41:17.663048,0.67,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+Here are 9 creative uses for a fork:
+
+1. Use it as a back scratcher.
+2. Use it to pick up small items like coins or beads.
+3. Use it as a hairpin or hair tie.
+4. Turn it into a miniature shovel for potted plants.
+5. Stick it in the ground to mark your spot in a park"
+32,cmpl-4zrZNd7OIfqxjARAb99vs1sxpMxRI,1650649277,text-davinci:002,text-davinci-002,2022-04-22 19:41:22.187491,0.67,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. A fork can be used as a back scratcher.
+2. A fork can be used to pick up small items like rice or beans.
+3. A fork can be used to apply makeup, such as lip gloss or mascara.
+4. A fork can be used to clean dirt and grime out of small crevices and corners.
+5. A fork"
+33,cmpl-4zrZSDPDs3Az2uXgUA9QLBOn42eMw,1650649282,text-davinci:002,text-davinci-002,2022-04-22 19:41:25.887900,0.67,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1) A fork can be used to eat food.
+2) A fork can be used to hold food while cutting it with a knife.
+3) A fork can be used to spear food.
+4) A fork can be used to pick up food that has fallen on the floor.
+5) A fork can be used as a back scratcher.
+6) A"
+34,cmpl-4zrZWebxU7t3KID75VgorICiQ98tS,1650649286,text-davinci:002,text-davinci-002,2022-04-22 19:41:28.387817,0.68,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. A fork can be used as a back scratcher.
+2. A fork can be used to comb your hair.
+3. A fork can be used as a toothpick.
+4. A fork can be used to scrape dirt off your shoes.
+5. A fork can be used to pick up small objects like paperclips or beads.
+6. A fork"
+35,cmpl-4zrZY4nYblpqmzHy9W3YWvhChz4N6,1650649288,text-davinci:002,text-davinci-002,2022-04-22 19:41:33.484427,0.68,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. A fork can be used as a toothpick.
+2. A fork can be used to make small holes in fabric so that you can thread ribbon or string through it to create decorations.
+3. A fork can be used as a makeshift chopsticks when eating rice or noodles.
+4. A fork can be used to play the steel pan drums.
+5. A"
+36,cmpl-4zrZdUvDG0St0SuFktOwf4gs47zNp,1650649293,text-davinci:002,text-davinci-002,2022-04-22 19:41:36.972226,0.68,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. A fork can be used as a hairpin.
+2. A fork can be used as a toothpick.
+3. A fork can be used to remove splinters.
+4. A fork can be used to clean under your fingernails.
+5. A fork can double as a chopstick holder. 
+6. Use the tines of a fork"
+37,cmpl-4zrZhgIyBhnNWABiT0OfdrsodCcvI,1650649297,text-davinci:002,text-davinci-002,2022-04-22 19:41:39.433902,0.6900000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Use a fork to eat soup without making a mess.
+2. Use a fork to eat spaghetti without making a mess.
+3. Use a fork to eat salad without making a mess.
+4. Use a fork as a makeshift spoon if you don't have one handy.
+5. use two forks stuck together tine-side out to make impromptu chopsticks"
+38,cmpl-4zrZjikiz5Bp8OUolwkQmV6EoHVfC,1650649299,text-davinci:002,text-davinci-002,2022-04-22 19:41:43.536321,0.6900000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Eat like a king or queen with your very own fork!
+2. Use it as a bookmark!
+3. Give your pet cat or dog a bath with the help of your trusty fork.
+4. Get rid of pesky bugs in your home by shooing them away with a fork.
+5. Cook up a storm in the kitchen with some assistance from"
+39,cmpl-4zrZn3pRQCA9tRNajvLHknkm5sC1K,1650649303,text-davinci:002,text-davinci-002,2022-04-22 19:41:46.405779,0.6900000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Using a fork to eat spaghetti instead of a spoon.
+2. Using a fork to apply makeup instead of a brush.
+3. Using a fork as a backscratcher.
+4. Using a fork to play the violin.
+5. Using a fork to open bottles or cans.
+6. Using forks as chopsticks.
+7. Creating art with"
+40,cmpl-4zrZqhtBWfKrFwRr3cP7sCW8d8PYm,1650649306,text-davinci:002,text-davinci-002,2022-04-22 19:41:51.026220,0.7000000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. A fork can be used as a back scratcher.
+2. A fork can be used to play the xylophone.
+3. A fork can be used as a toothpick.
+4. If you put a rubber band around the tines of a fork, it becomes a mini-trampoline for ants or other small insects.
+5. A plastic"
+41,cmpl-4zrZvmychPlDCIbEldT5F8zqS2hVa,1650649311,text-davinci:002,text-davinci-002,2022-04-22 19:41:55.938195,0.7000000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. A fork can be used as a back scratcher.
+2. A fork can be used to pick up food that is out of reach.
+3. A fork can be used to comb your hair.
+4. A fork can be used to apply makeup.
+5. A fork can be used as a toothpick.
+6. A fork can be used to"
+42,cmpl-4zra0z5F57t7Ygw0bm05szm3Hl5yd,1650649316,text-davinci:002,text-davinci-002,2022-04-22 19:42:00.449179,0.7000000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Use a fork to eat food off of a plate
+2. Stick a fork in a electrical outlet to see if it is still working
+3. Use a fork as a back scratcher 
+4. Hold a fork up to the light to see if it is bent 
+5. Try to balance a fork on its end 
+6. See how far you can"
+43,cmpl-4zra4atJ3XarPjkJspnVq87V10M79,1650649320,text-davinci:002,text-davinci-002,2022-04-22 19:42:03.520753,0.7100000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Use a fork to play the xylophone.
+2. Use a fork as a back scratcher.
+3. Use a fork to measure ingredients when cooking.
+4. Use a fork as a toothpick.
+5. Curl your hair with a fork.
+6. Make music with forks and spoons by banging them together or on surfaces like tables and"
+44,cmpl-4zra7PJ3V7WlDovz4p2SWxDhYNZL4,1650649323,text-davinci:002,text-davinci-002,2022-04-22 19:42:08.338022,0.7100000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Use a fork to curl your hair.
+2. Use a fork to apply makeup.
+3. Use a fork to eat ice cream.
+4. Use a fork to clean your teeth.
+5. Use a fork to brush your hair.
+6. Use a fork to pick up food that's fallen on the floor.
+7. Use a fork to open"
+45,cmpl-4zraCg6Ph8xSbK0yjXAdPnidD11ay,1650649328,text-davinci:002,text-davinci-002,2022-04-22 19:42:12.844817,0.7100000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Use a fork to eat a cupcake without getting your hands messy.
+2. Stick a fork in an electrical outlet to see if it's still working.
+3. Use a fork to comb your hair.
+4. Use a fork as a toothpick.
+5. Stick a fork in the ground to mark your spot in line.
+6. Use afork"
+46,cmpl-4zraGctlemkCLq7TdhINVy0S5X0JP,1650649332,text-davinci:002,text-davinci-002,2022-04-22 19:42:18.275193,0.7200000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Fork art: Create fun designs and shapes using a fork as your paintbrush!
+2. Use a fork to curl your hair – no curlers necessary!
+3. Make music with your fork: tap it against different surfaces to create unique sounds.
+4. Keep your drink cold by freezing a few forks and adding them to your glass.
+5. Get rid of"
+47,cmpl-4zraM64Ja1WKyyzHnRS2C1x6wvtM1,1650649338,text-davinci:002,text-davinci-002,2022-04-22 19:42:22.783520,0.7200000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Use a fork to eat soup instead of a spoon.
+2. Use a fork to apply makeup instead of a brush.
+3. Use a fork as a toothpick.
+4. Use a fork to scratch an itch you can't reach.
+5. Use a fork to play the piano (if the keys are big enough!).
+6. Use a fork in"
+48,cmpl-4zraQmDGIEyFg7seTG2WjAuWnieHS,1650649342,text-davinci:002,text-davinci-002,2022-04-22 19:42:26.470957,0.7200000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Eat cereal with a fork instead of a spoon.
+2. Use a fork to play fetch with your dog.
+3. Use a fork as a bookmark in your favorite book.
+4. Keep track of your keys by hanging them on a fork.
+5. Use a fork to open up tightly sealed jars.
+6. Sift flour by using afork instead"
+49,cmpl-4zraUifPUfrYanvkLcAzlKBfY459v,1650649346,text-davinci:002,text-davinci-002,2022-04-22 19:42:31.799636,0.7300000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Use a fork to eat soup instead of a spoon.
+2. Use a fork to play the piano.
+3. Use a fork to brush your teeth.
+4. Use a fork to comb your hair.
+5. Use a fork as a bookmark in your book.
+6. Stick forks in the ground to make a garden fence or trellis for climbing"
+50,cmpl-4zraZpLyhHci56f4QhgT4B7SmCvrt,1650649351,text-davinci:002,text-davinci-002,2022-04-22 19:42:35.386065,0.7300000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Use a fork to curl your hair.
+2. Use a fork to eat soup without getting your hands dirty. 
+3. Stick a fork in an electrical outlet to see if it’s still working. 
+4. Hold a fork by the tines and use the handle to hammer in nails.
+5. Place a fork in between the door and door"
+51,cmpl-4zrad3UgMywrIHWm2sISmtf8VYQgP,1650649355,text-davinci:002,text-davinci-002,2022-04-22 19:42:39.789525,0.7300000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. A fork can be used to eat food.
+2. A fork can be used as a utensil to cook food.
+3. A fork can be used to serve food.
+4. A fork can be used as a tool to eat difficult foods such as lobster or steak.
+5. A fork can be used to play musical instruments such as the violin or"
+52,cmpl-4zrahdwzmeu6wqCXH9mwDInKMIiDX,1650649359,text-davinci:002,text-davinci-002,2022-04-22 19:42:42.862446,0.7400000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Eating soup
+2. Holding up a table
+3. Using as a hairbrush
+4. Wearing as a necklace
+5. Building a fort
+6. Pretending to be a telephone
+7. Using as chopsticks
+8. Making music with it 
+9. Digging in the sand"
+53,cmpl-4zrakJLlAzMdyKNNYUGLwDUYw1gGV,1650649362,text-davinci:002,text-davinci-002,2022-04-22 19:42:47.985084,0.7400000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. A fork can be used as a hairpin.
+2. A fork can be used to eat soup.
+3. A fork can be used as a back scratcher.
+4. A fork can be used to pick up food that has fallen on the floor.
+5. A fork can be used to play the piano.
+6. A fork can be used"
+54,cmpl-4zraqw62ODEyAK2awfLKbL89Lp8B3,1650649368,text-davinci:002,text-davinci-002,2022-04-22 19:42:50.955849,0.7400000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Use a fork to eat soup.
+2. Stick a fork in a piece of fruit to eat it.
+3. Use a fork as a spoon when eating cereal or yogurt.
+4. Hold a fork like chopsticks to eat rice or noodles.
+5. Stick a fork in your hair to hold it back while you're cooking.
+6. Use a fork"
+55,cmpl-4zratgs7BTfghucjtwvLdg3h5Ktcj,1650649371,text-davinci:002,text-davinci-002,2022-04-22 19:42:54.745922,0.7500000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Use a fork to comb your hair.
+2. Use a fork to apply makeup.
+3. Use a fork as a toothpick.
+4. Stick a fork in an electrical outlet to see if it's still working.
+5. Hold a fork by the tines and use the handle as a drumstick.
+6. Place a fork in front of a"
+56,cmpl-4zrawJ9oDldEBthK2vgZupbmFMm4H,1650649374,text-davinci:002,text-davinci-002,2022-04-22 19:42:58.128165,0.7500000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Use a fork to fluff up your hair for a quick and easy hairstyle.
+2. Stick a fork in an electrical outlet to see if it's still working.
+3. Use a fork as a bookmark in your favorite book.
+4. Straighten out a bent fork with another fork.
+5. Curl your lashes with a cleanfork tine for"
+57,cmpl-4zrb0QXXrFMPbzffB0TG92HVogg3y,1650649378,text-davinci:002,text-davinci-002,2022-04-22 19:43:02.121715,0.7500000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. A fork can be used as a back scratcher.
+2. A fork can be used as a toothpick.
+3. A fork can be used to remove splinters.
+4. A fork can be used to apply makeup.
+5. A fork can be used to comb your hair.
+6. A fork can be used to open bottles and cans."
+58,cmpl-4zrb4pbZjJzgQf6xbhicfC27UEn7l,1650649382,text-davinci:002,text-davinci-002,2022-04-22 19:43:05.809386,0.7600000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Drive nails into wood
+2. Pick up food from a plate
+3. Hold hair in place while braiding
+4. Eat soup without making a mess
+5. Dig in the dirt
+6. Measure ingredients
+7. Play the piano
+8. Make a snow angel
+9. Comb your hair"
+59,cmpl-4zrb7jeIL1TFrfKlWLLLftejtTyZb,1650649385,text-davinci:002,text-davinci-002,2022-04-22 19:43:11.752438,0.7600000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. Forks can be used as impromptu toothpicks. Simply insert the tines of the fork into your teeth and give them a good cleaning.
+2. If you're ever in a pinch and need to open a bottle of wine, use a fork! Stick the fork into the cork and twist it until the cork pops out.
+3. Use a fork"
+60,cmpl-4zrbDITGHAQhN1jsdlVUwpqxbMxvL,1650649391,text-davinci:002,text-davinci-002,2022-04-22 19:43:16.977105,0.7600000000000001,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
+
+1. A fork can be used to eat food.
+2. A fork can be used to pick up food that has fallen on the ground.
+3. A fork can be used to help cut food into smaller pieces.
+4. A fork can be used as a shovel to scoop up food onto your plate.
+5. A fork can be used as a projectile in a"
+61,cmpl-4zrbJ1ywGvexOFDxf6gmBhbuPPecR,1650649397,text-davinci:002,text-davinci-002,2022-04-22 19:43:21.074138,0.67,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A Tin Can Telephone: This is a classic use for a tin can, and one that has been around for generations. All you need are two tin cans, some string, and something to punch holes in the bottom of the cans (a nail or a sharp object). Once you have your materials, simply tie the string between the two cans, making sure that the string is tight"
+62,cmpl-4zrbN3psnyAw89kktoFkUMgimFZjc,1650649401,text-davinci:002,text-davinci-002,2022-04-22 19:43:25.479464,0.67,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can could be used as a vase for flowers.
+2. It could be used as a pen holder on a desk.
+3. A tin can could be used to store loose change.
+4. It could be used to hold toothpicks on a countertop.
+5. A tin can might be used as a planter for small plants or"
+63,cmpl-4zrbRsbIaGxBqfOccYpoUD0CMO0xl,1650649405,text-davinci:002,text-davinci-002,2022-04-22 19:43:27.938402,0.67,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can telephone
+2. A candle holder
+3. A pen/pencil holder
+4. A vase
+5. A bird feeder
+6. A planter
+7.A wind chime 
+8.A homemade musical instrument 
+9.A storage container"
+64,cmpl-4zrbTqtxt7KQ7CDXrryUu5jgWJ69a,1650649407,text-davinci:002,text-davinci-002,2022-04-22 19:43:32.240209,0.68,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can can be used as a vase.
+2. A tin can can be used as a planter.
+3. A tin can can be used to hold pens and pencils.
+4. A tin can can be used as a coin bank.
+5. A tin can can be used as a candle holder.
+6. A tin cancan"
+65,cmpl-4zrbYEeeRyYskiBlOLBZdW7zFQkf8,1650649412,text-davinci:002,text-davinci-002,2022-04-22 19:43:36.234899,0.68,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can can be used as a vase for flowers.
+2. It can be used as a candle holder.
+3. A tin can can be used to store small items such as buttons, beads, and other craft supplies.
+4. It makes a great piggy bank!
+5. A tin can can be used as a planter for small plants"
+66,cmpl-4zrbcJSjnrQGQryl58b1WsAPwo0An,1650649416,text-davinci:002,text-davinci-002,2022-04-22 19:43:40.230558,0.68,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+-A tin can be used as a small planter for succulents or cacti.
+-A tin can be used as a pencil holder on a desk.
+-A tin can can be cut in half and used as salt and pepper shakers.
+-A tin can be used to hold paperclips or other small office supplies.
+-A tin can be painted"
+67,cmpl-4zrbgvVmZ78Tof0ZmGZSQtMyJiKFW,1650649420,text-davinci:002,text-davinci-002,2022-04-22 19:43:43.098944,0.6900000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can telephone
+2. A tin can lantern
+3. A plant pot
+4. A vase
+5. A bird feeder
+6. An ashtray
+7. A pencil holder
+8. A paintbrush holder
+9.A coin bank"
+68,cmpl-4zrbjCwsB0SqWvKxicy8LGk53flyr,1650649423,text-davinci:002,text-davinci-002,2022-04-22 19:43:48.118380,0.6900000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can can be used as a small planter for succulents or cacti.
+2. Turn a tin can into a pencil holder by painting it and adding some fun embellishments.
+3. Use a tin can to make your own mini piñata filled with candy or other treats.
+4. Cut out stars from paper and glue them onto"
+69,cmpl-4zrboUMyMByxhbrNsfLQZLnzSQJGu,1650649428,text-davinci:002,text-davinci-002,2022-04-22 19:43:53.445594,0.6900000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can could be used as a vase for flowers.
+2. It could be used as a candle holder.
+3. It could be used to hold pencils or pens on a desk.
+4. It could be used to hold makeup brushes on a vanity.
+5. It could be used to store coins or other small items.
+6. It"
+70,cmpl-4zrbtwe2uJcyLmGuEpGSsyDFGMDBA,1650649433,text-davinci:002,text-davinci-002,2022-04-22 19:43:56.928621,0.7000000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+-A tin can be used as a coin bank.
+-A tin can be used to store pencils and pens.
+-A tin can be used as a vase for flowers.
+-A tin can be used as a container for homemade candles.
+-A tin can be used as a planter for small plants or herbs.
+-A tin can be used to"
+71,cmpl-4zrbwSX9olf2MYhbNdZkBNcAZCQil,1650649436,text-davinci:002,text-davinci-002,2022-04-22 19:44:01.847229,0.7000000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. Make a tin can telephone.
+2. Use it as a coin bank.
+3. Turn it into a vase or planter.
+4. Make a lantern out of it.
+5. Use it as part of a homemade wind chime or mobile.
+6. Decorate it and use it as a gift box or jewelry holder.
+7. Fill"
+72,cmpl-4zrc1U1RBUdlbhTUgAPDFfMfYh1z4,1650649441,text-davinci:002,text-davinci-002,2022-04-22 19:44:04.714965,0.7000000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+-A tin can can be used as a vase for flowers.
+-A tin can can be used to hold pens and pencils.
+-A tin can can be used as a coin bank.
+-A tin can can be used to make a wind chime.
+-A tin can can be used to make a candle holder.
+-A tin cancan be"
+73,cmpl-4zrc4u2VBu91FTQrKNvnOCHBqYgxm,1650649444,text-davinci:002,text-davinci-002,2022-04-22 19:44:09.425708,0.7100000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can telephone
+2. A candle holder
+3. A plant pot
+4. A pencil holder
+5. A coin bank
+6. A picture frame
+7.A vase 
+8.A Travel mug 
+9.A dog bowl"
+74,cmpl-4zrc9anerQX6gOQWAFSdOcaJv26D0,1650649449,text-davinci:002,text-davinci-002,2022-04-22 19:44:14.482957,0.7100000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. Make a candle holder by punching holes in the top and bottom of the can.
+2. Turn it into a vase or planter.
+3. Use it as a pencil holder on your desk.
+4. Fill it with candy or other small treats and give it as a gift.
+5. Decorate it and use it as part of a centerpiece or table"
+75,cmpl-4zrcEwWIXCAMPu5UuJbCdaDxuIBFC,1650649454,text-davinci:002,text-davinci-002,2022-04-22 19:44:18.443443,0.7100000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can telephone
+2. A tin can lantern
+3. A tin can stove
+4. A tin can wind chime
+5. A tin can piñata
+6. A tin can planter
+7. A tin can bird feeder
+8. A tin can candle holder
+9. A tin can robot"
+76,cmpl-4zrcIVXoehFFYCRYyynvdd5IJPIST,1650649458,text-davinci:002,text-davinci-002,2022-04-22 19:44:22.847288,0.7200000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. Make a wind chime out of tin cans and metal spoons.
+2. Cut the top off a tin can and use it as a planter for small succulents or cacti.
+3. Turn a tin can into a cute piggy bank by painting it pink and adding eyes, nostrils, and a coin slot in the top.
+4."
+77,cmpl-4zrcMiOsRGzG85ajlnECUTr1dhMtt,1650649462,text-davinci:002,text-davinci-002,2022-04-22 19:44:28.072371,0.7200000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. Plant a herb garden in tin cans.
+2. Make a wind chime out of tin cans and beads.
+3. Use tin cans as candle holders for an outdoor party.
+4. Create a mini Zen garden in a tin can.
+5. Make a robot out of recycled materials, including tin cans.
+6. Turn a tin can into a night light"
+78,cmpl-4zrcS09GhsrrIIplF2CvuIXFdP89x,1650649468,text-davinci:002,text-davinci-002,2022-04-22 19:44:31.148701,0.7200000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can be used as a vase for flowers.
+2. A tin can be used to hold pens and pencils.
+3. A tin can be used as a container for plants.
+4. A tin can be used to store spices in the kitchen.
+5. A tin can be used to organize makeup brushes on a vanity table. 
+6"
+79,cmpl-4zrcVORSuELIlbtqYbPvYTtqlY04J,1650649471,text-davinci:002,text-davinci-002,2022-04-22 19:44:34.834061,0.7300000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can could be used as a vase for flowers.
+2. It could be used as a pencil holder on a desk.
+3. A tin can could be used to hold makeup brushes on a dressing table.
+4. It could be used to hold pens and markers in an art studio.
+5. A tin can could be used as a cookie jar"
+80,cmpl-4zrcYjzKqIIyHAfl5D4gYpEMjoKxu,1650649474,text-davinci:002,text-davinci-002,2022-04-22 19:44:37.907721,0.7300000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can could be used as a planter for small plants or herbs.
+2. It could also be used as a candle holder; simply place a votive candle inside and enjoy the flickering light.
+3. For those who love baking, a tin can be turned into a mini-loaf pan perfect for individual servings.
+4. Have trouble opening jars?"
+81,cmpl-4zrcbWi4mPn1Lgww0fOj0x3K3J11l,1650649477,text-davinci:002,text-davinci-002,2022-04-22 19:44:43.746194,0.7300000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+-A tin can be used as a makeshift candle.
+-A tin can be used to store small items like paper clips or jewelry.
+-A tin can be used as a vase for flowers.
+-A tin can be used as a pen holder.
+-A tin can be used as a coin bank.
+-A tin can be turned into a wind chime"
+82,cmpl-4zrche9QeGMpmfsGYV3xuiIbbFgVW,1650649483,text-davinci:002,text-davinci-002,2022-04-22 19:44:46.921224,0.7400000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can can be used as a small planter for herbs or succulents.
+2. Use a tin can to create a DIY candle holder or tea light holder.
+3. Make a mini piñata out of a tin can – perfect for parties or decoration!
+4. Decorate a tin can and use it as cute storage for pens, pencils"
+83,cmpl-4zrckGN0dM4lds8vCNfKvayt3Ir4z,1650649486,text-davinci:002,text-davinci-002,2022-04-22 19:44:50.815263,0.7400000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. Create a fun wind chime by painting and decorating tin cans of different sizes, then punching holes in the top and bottom of each can. Suspend them from string or wire at different lengths to create unique tones.
+2. Make a mini piñata by filling a small tin can with candy, then covering the opening with paper and securing it with tape or glue."
+84,cmpl-4zrcoCBzGvxqYvlwl4T1Z9oAXzjjz,1650649490,text-davinci:002,text-davinci-002,2022-04-22 19:44:55.423755,0.7400000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. Make a wind chime out of a tin can and some string.
+2. Turn a tin can into a plant holder by painting it and adding drainage holes.
+3. Use a tin can as a pencil holder on your desk.
+4. Make a mini trash can out of a tin can by decorating it and adding a lid.
+5. Create art by"
+85,cmpl-4zrctu5fEjcEnja4LuWNvzRUHWU31,1650649495,text-davinci:002,text-davinci-002,2022-04-22 19:44:59.829389,0.7500000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can could be used as a vase for flowers.
+2. It could be used as a container for paintbrushes.
+3. A tin can could be used to hold pencils or pens on a desk.
+4. It could be used as a planter for small plants or herbs.
+5. A tin can could be used to store coins"
+86,cmpl-4zrcxpMw6Qkz2QWcvYNNxrTQAiJ5G,1650649499,text-davinci:002,text-davinci-002,2022-04-22 19:45:03.927060,0.7500000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can could be used as a vase.
+2. A tin can could be used as a container for pens and pencils.
+3. A tin can could be used as a coin bank.
+4. A tin can could be used to hold keys.
+5. A tin can could be used as a paperweight.
+6. A tin can"
+87,cmpl-4zrd1faKHBOm8Cxvlj8fYVq0YYNN0,1650649503,text-davinci:002,text-davinci-002,2022-04-22 19:45:07.922238,0.7500000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. Make a wind chime out of a tin can and some string.
+2. Use a tin can as a plant pot.
+3. Turn a tin can into a pencil holder.
+4. Upcycle a tin can into a vase or candle holder.
+5. Make your own mini trash can out of an old tin can.
+6. Create illuminated lantern"
+88,cmpl-4zrd524B8q1ksMWn7vFZYBuuX8IPn,1650649507,text-davinci:002,text-davinci-002,2022-04-22 19:45:12.429766,0.7600000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A can opener
+2. A colander
+3. A candle holder
+4. A vase
+5. A pen holder
+6. An ashtray
+7. A bird feeder
+8.A wind chime 
+9.A planter"
+89,cmpl-4zrdAUqGiLghD5AjfihSegqsCWnLT,1650649512,text-davinci:002,text-davinci-002,2022-04-22 19:45:15.912896,0.7600000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can can be used as a planter for small plants or herbs.
+2. Cut the top off of a tin can and use it as a pencil holder on your desk.
+3. Use a tin can as a vase for fresh flowers.
+4. Make a wind chime out of old tin cans and some string or wire.
+5. Turn"
+90,cmpl-4zrdDeq7FkGc7hNoiW5nBllPOvLaB,1650649515,text-davinci:002,text-davinci-002,2022-04-22 19:45:19.292443,0.7600000000000001,1,1,"What are some creative uses for a tin can? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a tin can.",tin can,"
+
+1. A tin can can be used as a vase.
+2. A tin can can be used to make a wind chime.
+3. A tin can can be used as a planter.
+4. A tin can can be used as a bird feeder.
+5. A tin can can be used to hold pencils or pens on a desk.
+"
