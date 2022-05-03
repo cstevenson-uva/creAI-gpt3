@@ -66,7 +66,7 @@ write.csv(gpt3_optimize[gpt3_optimize$presence_penalty == 1,],
           "data/gpt3_aut_instr_param_optimization_presence1.csv")
 
 ### optimization round 2 snapshot dv
-gpt3_optimize <- read.csv("data/gpt3_aut_instr_param_optimization_presence1_scored.csv")
+gpt3_optimize <- read.csv("param_instr_optimization/data/gpt3_aut_instr_param_optimization_presence1_scored.csv")
 
 # check and change data types
 str(gpt3_optimize)
