@@ -37,7 +37,7 @@ id,gpt3_id,gpt3_created,gpt3_model,engine,timestamp,temperature,presence_penalty
 3. A book can be used as a coaster for a hot beverage.
 4. A book can be used to level a table or shelf.
 5. A book can be used as an improvised weapon in self-defense or attack.
-6"
+6. "
 6,cmpl-4zrXajQqVizh2rVJ8hn6PxNaA8Q24,1650649166,text-davinci:002,text-davinci-002,2022-04-22 19:39:31.786603,0.68,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
 
 1. Make a book into a lampshade.
@@ -53,7 +53,7 @@ id,gpt3_id,gpt3_created,gpt3_model,engine,timestamp,temperature,presence_penalty
 3. A book can be used as a paperweight.
 4. A book can be used to prop up a wobbly table or chair.
 5. A book can be used as a weapon (for self-defense or attack).
-6"
+6. "
 8,cmpl-4zrXkWn3QroeYera2G3vBEECCSUZR,1650649176,text-davinci:002,text-davinci-002,2022-04-22 19:39:39.465660,0.6900000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
 
 1. A book can be used as a doorstop.
@@ -61,7 +61,7 @@ id,gpt3_id,gpt3_created,gpt3_model,engine,timestamp,temperature,presence_penalty
 3. A book can be used to prop up a wobbly table leg.
 4. A book can be used to make a small shelf or ledge.
 5. A book can be used to hold open a window or door.
-6."
+6. "
 9,cmpl-4zrXnYW4L6EpsvEUL9J88oKsjzqy7,1650649179,text-davinci:002,text-davinci-002,2022-04-22 19:39:43.865692,0.6900000000000001,1,1,"What are some creative uses for a book? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a book.",book,"
 
 1. A book can be used as a doorstop.
@@ -234,8 +234,6 @@ id,gpt3_id,gpt3_created,gpt3_model,engine,timestamp,temperature,presence_penalty
 5. A book can be used as a weight to hold down papers or other materials.
 "
 31,cmpl-4zrZJMEPvTCpbwtqgGBNie7DjeQCO,1650649273,text-davinci:002,text-davinci-002,2022-04-22 19:41:17.663048,0.67,1,1,"What are some creative uses for a fork? The goal is to come up with creative ideas, which are ideas that strike people as clever, unusual, interesting, uncommon, humorous, innovative, or different. List 9 creative uses for a fork.",fork,"
-
-Here are 9 creative uses for a fork:
 
 1. Use it as a back scratcher.
 2. Use it to pick up small items like coins or beads.
@@ -700,3 +698,4 @@ Here are 9 creative uses for a fork:
 4. A tin can can be used as a bird feeder.
 5. A tin can can be used to hold pencils or pens on a desk.
 "
+
