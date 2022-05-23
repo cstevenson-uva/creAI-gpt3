@@ -34,7 +34,8 @@ aut_ratings <- aut_1a %>%
   select(research_id, respondent_id, response_id, temperature, object,
          response_EN, originality_rating, utility_rating, surprise_rating)
 
-write.csv(aut_ratings, "04_to_score/220522_gpt3_aut_ratings.csv", row.names = FALSE)
+write.csv(aut_ratings, "04_to_score/220522_gpt3_aut_ratings.csv", 
+          row.names = FALSE)
 
 # create files for categorization
 # update responses for aut_1, data has already been categorized
@@ -44,7 +45,8 @@ aut_cat1 <- aut_1 %>%
          item_nofill = aut_object) %>%
   select(id, response, response_nofill, item, item_nofill)
 
-write.csv(aut_cat1, "04_to_score/220422_gpt3_aut_cat.csv", row.names = FALSE)
+write.csv(aut_cat1, "04_to_score/220422_gpt3_aut_cat.csv", 
+          row.names = FALSE)
 
 # will be appended to existing categorized file of aut_1
 aut_cat2 <- aut_2 %>%
@@ -53,4 +55,5 @@ aut_cat2 <- aut_2 %>%
          item_nofill = aut_object) %>%
   select(id, response, response_nofill, item, item_nofill)
 
-write.csv(aut_cat2, "04_to_score/220520_gpt3_aut_cat.csv", row.names = FALSE)
+write.csv(aut_cat2, "04_to_score/220520_gpt3_aut_cat.csv", 
+          row.names = FALSE)
