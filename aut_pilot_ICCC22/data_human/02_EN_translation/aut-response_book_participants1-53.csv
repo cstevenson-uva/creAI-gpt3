@@ -8,16 +8,13 @@ AUT-response_id,participant_fk,stimulus_fk,starttime,endtime,response,toptwo,res
 55,7,5,1464597965375,1464597982254,om in te breken,NULL,to break in,to break in
 56,7,5,1464597982254,1464598043271,iemands hand breken,NULL,break someone's hand,break someone's hand
 57,7,5,1464598043271,1464598051912,een revolutie beginnen,NULL,start a revolution,start a revolution
-87,8,5,1464598838107,1464598839937,boek 1,1,book 1,book 1
-88,8,5,1464598839937,1464598841222,boek 2,1,book 2,book 2
-89,8,5,1464598841222,1464598842418,boek 3,NULL,book 3,book 3
 111,9,5,1464598960231,1464598963675,pletter,1,splash,splash
 112,9,5,1464598963675,1464598967956,boekensteun,1,bookend,bookend
 144,11,5,1464608553288,1464608556666,Als kussen,1,As a pillow,As a pillow
-145,11,5,1464608556666,1464608564525,/hoofdsteun,NULL,/headrest,/headrest
+145,11,5,1464608556666,1464608564525,/hoofdsteun,NULL,/headrest,headrest
 146,11,5,1464608564525,1464608573780,Als verhoging (om op te staan),NULL,As an elevation (to stand on),As an elevation (to stand on)
 147,11,5,1464608573780,1464608586028,"Als gewicht, en je wil spiertraining doen",1,"As a weight, and you want to do muscle training","As a weight, and you want to do muscle training"
-148,11,5,1464608586028,1464608617594,Je kan van de losse blaadjes vliegtuigjes vouwen,NULL,You can fold airplanes from the loose leaves,You can fold airplanes from the loose leaves
+148,11,5,1464608586028,1464608617594,Je kan van de losse blaadjes vliegtuigjes vouwen,NULL,You can fold airplanes from the loose leaves,You can fold airplanes from the loose pages
 149,11,5,1464608617594,1464608634543,En van het karton een mal om te schilderen,NULL,And from the cardboard a mold for painting,And from the cardboard a mold for painting
 205,12,5,1464695847626,1464695853003,onderzetter,NULL,coaster,coaster
 206,12,5,1464695853003,1464695856407,hoofddeksel,NULL,headgear,headgear

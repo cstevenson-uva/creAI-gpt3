@@ -8,13 +8,6 @@ AUT-response_id,participant_fk,stimulus_fk,starttime,endtime,response,toptwo,res
 70,7,8,1464597965375,1464597982254,om in te breken,NULL,to break in,to break in
 71,7,8,1464597982254,1464598043271,iemands hand breken,NULL,break someone's hand,break someone's hand
 72,7,8,1464598043271,1464598051912,een revolutie beginnen,NULL,start a revolution,start a revolution
-97,8,8,1464598872511,1464598874861,blikje 1,1,can 1,can 1
-98,8,8,1464598874861,1464598876651,blikje 2,1,can 2,can 2
-99,8,8,1464598876651,1464598878908,blikje 3,NULL,can 3,can 3
-100,8,8,1464598878908,1464598880882,blikje 4,NULL,can 4,can 4
-118,9,8,1464598999753,1464599002467,blikje,NULL,can of,can of
-119,9,8,1464599002467,1464599005384,blikje2,1,can2,can2
-120,9,8,1464599005384,1464599008892,blikj3,1,canj3,canj3
 163,11,8,1464608915897,1464608926955,Met de lipjes kan je een drankspel spelen,1,With the tabs you can play a drinking game,With the tabs you can play a drinking game
 164,11,8,1464608926955,1464608942011,"Met het blik zelf kan je een mes maken, mocht je een kapotte hebben",1,"With the can itself you can make a knife, should you have a broken one","With the can itself you can make a knife, should you have a broken one"
 165,11,8,1464608942011,1464608964907,In een blikje kan je dingen bewaren (maar dat is ook wel een beetje z'n oorspronkelijke toepassing),NULL,In a can you can store things (but that's also kind of its original use),In a can you can store things (but that's also kind of its original use)

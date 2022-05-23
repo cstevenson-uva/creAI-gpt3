@@ -8,10 +8,6 @@ AUT-response_id,participant_fk,stimulus_fk,starttime,endtime,response,toptwo,res
 40,7,2,1464597965375,1464597982254,om in te breken,NULL,to break in,to break in
 41,7,2,1464597982254,1464598043271,iemands hand breken,NULL,break someone's hand,break someone's hand
 42,7,2,1464598043271,1464598051912,een revolutie beginnen,NULL,start a revolution,start a revolution
-77,8,2,1464598804909,1464598806762,vork 1,1,fork 1,fork 1
-78,8,2,1464598806762,1464598807994,vork 2,1,fork 2,fork 2
-79,8,2,1464598807994,1464598809094,vork 3,NULL,fork 3,fork 3
-80,8,2,1464598809094,1464598810323,vork 4,NULL,fork 4,fork 4
 103,9,2,1464598925779,1464598927337,kam,1,comb,comb
 104,9,2,1464598927337,1464598930230,haarkam,NULL,hair comb,hair comb
 105,9,2,1464598930230,1464598933314,steekmiddel,1,stitching agent,stitching agent

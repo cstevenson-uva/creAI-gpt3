@@ -27,7 +27,7 @@ aut_2a <- aut_2 %>%
 
 aut_ratings <- aut_1a %>%
   add_row(aut_2a) %>%
-  rename(respondent_id = id, object = aut_object, 
+  rename(respondent_id = gpt3_id, object = aut_object, 
          response_EN = gpt3_response) %>%
   mutate(originality_rating = NA, utility_rating = NA, 
          surprise_rating = NA) %>%
