@@ -4,7 +4,6 @@
 library(dplyr)
 library(tidyr)
 library(irr)
-library(psych)
 
 # import data
 irr_dir <- "~/Research/creAI-gpt3/aut_pilot_ICCC22/data_combined/04_ratings/"

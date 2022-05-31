@@ -17,8 +17,6 @@ aut_clean <- aut %>%
 # search & replace the strings with ""
 str_replaces <- c(
   "A book can be used as a " = "",
-  "A book can be used as a " = "",
-  "A book can be used as a " = "",
   "A book can be used to " = "",
   "A book can be " = "",
   "A book " = "",
