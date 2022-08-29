@@ -7,6 +7,7 @@ aut_IS <- read.csv2("data_combined/04_ratings/aut_ratings_IRR_Iris.csv")
 aut_MB <- read.csv("data_combined/04_ratings/aut_ratings_IRR_MB.csv")
 aut_gpt3_respondents <- read.csv("data_gpt3/04_to_score/220522_gpt3_aut_ratings.csv")
 aut_human_respondents <- read.csv("data_human/04_to_score/220522_human_aut_ratings.csv")
+aut_semdis <- read.csv("data_combined/02_semdis/aut_semdis_w_dists.csv")
 
 # create mapping from response_id to respondent
 aut_human_respondents <- aut_human_respondents %>%
@@ -16,7 +17,12 @@ response_ids <- aut_gpt3_respondents %>%
   select(research_id, respondent_id, response_id, temperature) %>%
   add_row(aut_human_respondents)
 
-# create dataset with all scores and objects incl respondent_ids
+# select only relevant columns from autsemdis data
+aut_semdis <- aut_semdis %>%
+  mutate(semdis = cos_dist_objc_resp) %>%
+  select(response_id, semdis) 
+
+# create dataset with all ratings and objects incl respondent_ids
 aut_merge_MB <- aut_MB %>%
   select(id, response_id, object, response, 
          originality_rater01, utility_rater01, surprise_rater01) %>%
@@ -45,16 +51,27 @@ aut_dat <- aut_merge_IS %>%
          utility <= 5 & utility > 0,
          surprise <= 5 & surprise > 0) %>%
   # create variable that says whether respondent was human or not
-  mutate(human = ifelse(response_id < 20180000, TRUE, FALSE))
+  mutate(human = ifelse(response_id < 20180000, "human", "GPT-3")) %>%
+  left_join(aut_semdis)
 
 ### data analysis and plots
 ## originality utility trade-off
 aut_dat_human <- aut_dat %>%
-  filter(human == TRUE)
+  filter(human == "human")
+# number human participants
+length(unique(aut_dat_human$respondent_id))
+# number human responses
+length(unique(aut_dat_human$response_id))
 cor.test(aut_dat_human$originality, aut_dat_human$utility)
 # r orig-util human = -.556
+
 aut_dat_gpt3 <- aut_dat %>%
-  filter(human == FALSE)
+  filter(human == "GPT-3")
+# number human participants
+length(unique(aut_dat_gpt3$respondent_id))
+# number human responses
+length(unique(aut_dat_gpt3$response_id))
+
 cor.test(aut_dat_gpt3$originality, aut_dat_gpt3$utility)
 # r orig-util gpt3 = -.608
 
@@ -86,7 +103,7 @@ aut_dat %>% group_by(object, human) %>%
   ggplot(aes(object, originality_rating, fill = human)) + 
   geom_bar(stat = "identity", position = "dodge2") +
   geom_errorbar(aes(ymin = originality_rating-1.96*se, ymax = originality_rating+1.96*se), width=.5, position=position_dodge(.9)) +
-  labs(x = "AUT object", y = "originality rating")
+  labs(x = "AUT object", y = "originality rating", fill = "")
 
 ## utility
 # hierarchical model
@@ -102,7 +119,8 @@ aut_dat %>% group_by(object, human) %>%
   summarise(utility_rating = mean(utility), se = sd(utility)/n()^0.5) %>% 
   ggplot(aes(object, utility_rating, fill = human)) + 
   geom_bar(stat = "identity", position = "dodge2") +
-  geom_errorbar(aes(ymin = utility_rating-1.96*se, ymax = utility_rating+1.96*se), width=.5, position=position_dodge(.9))
+  geom_errorbar(aes(ymin = utility_rating-1.96*se, ymax = utility_rating+1.96*se), width=.5, position=position_dodge(.9)) +
+  labs(x = "AUT object", y = "utility rating", fill = "")
 
 ## surprise
 # hierarchical model
@@ -118,4 +136,22 @@ aut_dat %>% group_by(object, human) %>%
   summarise(surprise_rating = mean(surprise), se = sd(surprise)/n()^0.5) %>% 
   ggplot(aes(object, surprise_rating, fill = human)) + 
   geom_bar(stat = "identity", position = "dodge2") +
-  geom_errorbar(aes(ymin = surprise_rating-1.96*se, ymax = surprise_rating+1.96*se), width=.5, position=position_dodge(.9))
+  geom_errorbar(aes(ymin = surprise_rating-1.96*se, ymax = surprise_rating+1.96*se), width=.5, position=position_dodge(.9)) +
+  labs(x = "AUT object", y = "surprise rating", fill = "")
+
+## semdis
+# hierarchical model
+semdis_lmer_fit <- lmer(semdis ~ human + object + (1|respondent_id), data = aut_dat)
+summary(semdis_lmer_fit)
+car::S(semdis_lmer_fit)
+car::Anova(semdis_lmer_fit)
+# check with anova
+semdis_aov_fit <- aov(semdis ~ human + object + Error(respondent_id), data = aut_dat)
+car::S(semdis_aov_fit)
+# plot result
+aut_dat %>% group_by(object, human) %>% 
+  summarise(semdis_score = mean(semdis), se = sd(semdis)/n()^0.5) %>% 
+  ggplot(aes(object, semdis_score, fill = human)) + 
+  geom_bar(stat = "identity", position = "dodge2") +
+  geom_errorbar(aes(ymin = semdis_score-1.96*se, ymax = semdis_score+1.96*se), width=.5, position=position_dodge(.9)) +
+  labs(x = "AUT object", y = "semantic distance", fill = "")
