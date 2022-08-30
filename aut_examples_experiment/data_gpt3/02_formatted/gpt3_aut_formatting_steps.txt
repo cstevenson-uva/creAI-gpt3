@@ -1,0 +1,14 @@
+#### format gpt-3 aut output from pilot study for ICCC conference
+
+IN VIM
+# remove any intro text by gpt3 (e.g., here are some creative uses for a ...) 
+# change the start of each response to a number in the form of 1.<space>
+# remove any empty line feeds (vim :g/^$/d)
+# remove carriage returns vim %s/^M/\n/g
+# remove other strange end of line characters like ^@ and replace with \n, copy from text to a register in vim then use CRTL-R to paste char after :%s/    
+# remove " " around the response, first starting one :%s/,"/,/g then ending one :%s/"//g
+# remove all ", " from document :%s/, / /g
+# remove all of the numbers at the beginning of each response and replace with 11x , :%s/\d\. /,,,,,,,,,,,/g
+# remove all . at end of line :%s/\.$//g
+IN SPREADSHEET
+# copy all meta data from first row of response to all subsequent responses 
