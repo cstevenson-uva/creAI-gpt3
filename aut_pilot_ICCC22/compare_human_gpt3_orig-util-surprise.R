@@ -53,6 +53,7 @@ aut_dat <- aut_merge_IS %>%
   # create variable that says whether respondent was human or not
   mutate(human = ifelse(response_id < 20180000, "human", "GPT-3")) %>%
   left_join(aut_semdis)
+#write.csv(aut_dat, "data_combined/aut_human_vs_gpt3.csv", row.names = FALSE)
 
 ### data analysis and plots
 ## originality utility trade-off
